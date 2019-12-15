@@ -76,35 +76,35 @@ module.exports = [
       new Plugins.minifier(),
     ]
   },
-  {
-    entry: {
-      '.images': path.resolve(__dirname, 'src/icons/images')
-    },
-    output: {
-      path: path.resolve(targetPath, '.ignore'),
-      filename: '[name]'
-    },
-    mode, mode,
-    plugins: [
-      new Plugins.spritesmith({
-        src: {
-          cwd: path.resolve(__dirname, 'src/icons'),
-          glob: '*.png'
-        },
-        target: {
-          image: path.resolve(targetPath, 'icons.png'),
-          css: path.resolve(__dirname, 'src/scss/_sprites.scss')
-        },
-        apiOptions: {
-          cssImageRef: 'icons.png'
-        },
-        spritesmithOptions: {
-          padding: 2
-        }
-      }),
-      new Plugins.optipng()
-    ]
-  },
+  // {
+  //   entry: {
+  //     '.images': path.resolve(__dirname, 'src/icons/images')
+  //   },
+  //   output: {
+  //     path: path.resolve(targetPath, '.ignore'),
+  //     filename: '[name]'
+  //   },
+  //   mode, mode,
+  //   plugins: [
+  //     new Plugins.spritesmith({
+  //       src: {
+  //         cwd: path.resolve(__dirname, 'src/icons'),
+  //         glob: '*.png'
+  //       },
+  //       target: {
+  //         image: path.resolve(targetPath, 'icons.png'),
+  //         css: path.resolve(__dirname, 'src/scss/_sprites.scss')
+  //       },
+  //       apiOptions: {
+  //         cssImageRef: 'icons.png'
+  //       },
+  //       spritesmithOptions: {
+  //         padding: 2
+  //       }
+  //     }),
+  //     new Plugins.optipng()
+  //   ]
+  // },
 ];
 
 if (process.env.NODE_ENV === 'production') {
