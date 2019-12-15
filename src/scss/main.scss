@@ -1,0 +1,10 @@
+@import 'colors';
+
+.main {
+  max-width: 1366px;
+  margin: 0 auto;
+}
+
+.red {
+  color: color('red');
+}

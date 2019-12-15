@@ -1,0 +1,15 @@
+@function color($type) {
+  $colors: (
+    'white': #ffffff,
+    'black': #000,
+    'grayLine': #666666,
+    'red': #c7342a,
+  );
+
+  @if not map-has-key($colors, $type) {
+    @error $type; // Color doesn't exists
+  }
+
+  @return map-get($colors, $type);
+}
+

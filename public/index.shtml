@@ -4,10 +4,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Jazzmap</title>
+
+  <link rel="stylesheet" href="index.css">
 </head>
 <body>
 
+  <div class="main">
   <!--#include virtual="/blocks/header.shtml" -->
+  </div>
 
 </body>
 </html>

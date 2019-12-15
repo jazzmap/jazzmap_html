@@ -1,1 +1,22 @@
-<p>header</p>
+<div class="header">
+  <a href="#" class="header__logo">logo</a>
+  <div class="header__title">
+    <a href="#" class="header__title-text">
+      Афиша <span class="red">джаза и блюза</span>
+    </a>
+    <div class="header__title-city">
+      Санкт-Петербург
+    </div>
+  </div>
+</div>
+<div class="header-menu">
+  <a href="#" class="header-menu__item">Афиша джаза</a>
+  <a href="#" class="header-menu__item">Клубы</a>
+  <a href="#" class="header-menu__item">Джазмены</a>
+  <a href="#" class="header-menu__item">Стили</a>
+  <a href="#" class="header-menu__item">Jazz-Блог</a>
+  <a href="#" class="header-menu__item">Инструменты</a>
+  <a href="#" class="header-menu__item">Обучение</a>
+  <a href="#" class="header-menu__item">Фото/видео</a>
+  <a href="#" class="header-menu__item">Danceclub</a>
+</div>

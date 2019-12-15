@@ -1,1 +1,13 @@
-body { color: red; }
+@import 'main';
+@import 'header';
+
+html, body {
+  color: white;
+  padding: 0;
+  margin: 0;
+
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+}
