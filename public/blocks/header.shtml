@@ -1,11 +1,17 @@
 <div class="header">
-  <a href="#" class="header__logo">logo</a>
+  <a href="#" class="header__logo"><img src="/icons/logo.svg"></a>
   <div class="header__title">
     <a href="#" class="header__title-text">
       Афиша <span class="red">джаза и блюза</span>
     </a>
     <div class="header__title-city">
+      <span class="svgfont red header__title-city-icon">
+      <!--#include file="/icons/ico20_region.svg"-->
+      </span>
       Санкт-Петербург
+      <span class="svgfont white header__title-city-select">
+      <!--#include file="/icons/arrow_select.svg"-->
+      </span>
     </div>
   </div>
 </div>

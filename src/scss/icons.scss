@@ -1,0 +1,17 @@
+@import 'colors';
+
+.svgfont {
+  font-size: 100%;
+  line-height: 0px;
+
+  &.red {
+    svg {
+      fill: color('red');
+    }
+  }
+  &.white {
+    svg {
+      fill: color('white');
+    }
+  }
+}

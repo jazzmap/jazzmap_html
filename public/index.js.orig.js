@@ -81,20 +81,20 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "D:\\PROJECTS\\jazzmap_html\\src\\ts\\index.ts");
+/******/ 	return __webpack_require__(__webpack_require__.s = "./src/ts/index.ts");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "D:\\PROJECTS\\jazzmap_html\\src\\ts\\index.ts":
-/*!************************************************!*\
-  !*** D:/PROJECTS/jazzmap_html/src/ts/index.ts ***!
-  \************************************************/
+/***/ "./src/ts/index.ts":
+/*!*************************!*\
+  !*** ./src/ts/index.ts ***!
+  \*************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nfunction test() {\r\n    alert(111);\r\n}\r\nexports.test = test;\r\n\n\n//# sourceURL=webpack:///D:/PROJECTS/jazzmap_html/src/ts/index.ts?");
+eval("\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nfunction test() {\r\n    alert(111);\r\n}\r\nexports.test = test;\r\n\n\n//# sourceURL=webpack:///./src/ts/index.ts?");
 
 /***/ })
 

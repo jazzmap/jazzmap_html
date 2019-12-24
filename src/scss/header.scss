@@ -12,6 +12,8 @@
   width: 30px + 290px + 40px;
   height: 85px;
   border-right: 1px solid color('grayLine');
+  padding-left: 30px;
+  box-sizing: border-box;
 }
 
 .header__title {
@@ -28,6 +30,16 @@
 
 .header__title-city {
   font-size: 18px;
+  display: flex;
+  align-items: center;
+}
+
+.header__title-city-icon {
+  margin-right: 6px;
+}
+
+.header__title-city-select {
+  margin-left: 4px;
 }
 
 
@@ -47,6 +59,7 @@
 .header-menu__item {
   padding: 0 12.5px;
   text-transform: uppercase;
+  white-space: nowrap;
   font-size: 18px;
   font-weight: bold;
   text-decoration: none;

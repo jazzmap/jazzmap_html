@@ -1,6 +1,7 @@
 var path = require('path');
 var webpack = require('webpack');
 
+
 const targetPath = path.resolve(__dirname, 'public/');
 const Plugins = {
   raw: require(path.join(__dirname, 'plugins', 'extract-raw-output.js')),
@@ -10,6 +11,27 @@ const Plugins = {
 };
 
 const mode = process.env.NODE_ENV === 'production' ? 'production' : 'development';
+
+// optimize svg
+(async () => {
+  const imagemin = require('imagemin');
+  const imageminSvg = require('imagemin-svgo');
+  const files = await imagemin(['src/icons/*.svg'], {
+    destination: path.resolve(targetPath, 'icons'),
+    plugins: [
+      imageminSvg({
+        plugins: [
+          {removeViewBox: false},
+          {convertPathData: {
+              "noSpaceAfterFlags": false
+            },
+          },
+          {mergePaths: false},
+        ]
+      }),
+    ]
+  });
+})();
 
 module.exports = [
   {

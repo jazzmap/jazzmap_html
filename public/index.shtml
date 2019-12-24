@@ -6,9 +6,10 @@
   <title>Jazzmap</title>
 
   <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="zzz.css">
 </head>
 <body>
-
+  <div class="icon-ico20_about"></div>
   <div class="main">
   <!--#include virtual="/blocks/header.shtml" -->
   </div>
