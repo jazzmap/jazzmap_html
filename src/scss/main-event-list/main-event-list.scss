@@ -1,0 +1,30 @@
+.main-event-list {
+  margin-top: -60px;
+  position: relative;
+  z-index: 1;
+}
+
+.main-event-list__images {
+  border-spacing: 0px;
+  border-collapse: collapse;
+  display: flex;
+  justify-content: center;
+}
+
+.main-event-list__images-image {
+  width: 120px;
+  height: 120px;
+  border: 5px solid transparent;
+  float: left;
+  font-size: 0;
+}
+
+.main-event-list__images-image_selected {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  margin: -5px 0 0 -5px;
+  border: 10px solid color('red');
+
+  margin-left: -65px - 130px; // временный хак
+}

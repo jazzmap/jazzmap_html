@@ -1,41 +1,11 @@
+@import 'main-event__description';
+@import 'main-event__image';
+
 .main-event {
   height: 700px;
-  background: linear-gradient(#989898, #1F1F1F);
 
   display: flex;
-  align-items: flex-end;
-}
-
-.main-event__description {
-  padding: 0 60px 70px+20px;
-  max-width: 850px;
-}
-
-.main-event__description-title {
-  @include font('66px bold');
-}
-
-.main-event__description-intro {
-  @include font('18px');
-  line-height: 1.5em;
-}
-
-.main-event__description-place {
-  @include font('14px bold');
-  text-transform: uppercase;
-  padding-top: 20px;
-}
-
-.main-event__description-place-icon {
-  padding-right: 10px;
-}
-
-.main-event__description-date {
-  @include font('14px bold');
-  text-transform: uppercase;
-  padding-top: 10px;
-}
-
-.main-event__description-date-icon {
-  padding-right: 10px;
+  flex-flow: column;
+  justify-content: flex-end;
+  position: relative;
 }
