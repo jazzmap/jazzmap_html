@@ -1,0 +1,48 @@
+@import '../colors';
+
+.header__radio {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-right: 40px;
+  z-index: 0;
+}
+
+.header__radio-radial-gradient {
+  $offset: 60px;
+  height: 115px;
+  width: 115px + 20px;
+  position: absolute;
+  z-index: -1;
+  background: radial-gradient(circle at (115px + 20px) / 2 + $offset center, #882b25 10%, #000000 90%);
+  padding: 0 $offset;
+  margin-left: -$offset;
+}
+
+.header__radio-icon {
+  padding: 20px 20px;
+  height: 115px;
+  width: 115px + 20px;
+  display: block;
+  box-sizing: border-box;
+  svg {
+    height: 100%;
+    width: 100%;
+  }
+}
+
+.header__radio-text {
+}
+
+.header__radio-text-title {
+  @include font('31px bold');
+}
+
+.header__radio-text-title_red {
+  color: color('red');
+}
+
+.header__radio-text-desc {
+  @include font('18px');
+  color: color('grayTextOnBlack');
+}

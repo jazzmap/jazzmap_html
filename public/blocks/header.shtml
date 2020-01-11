@@ -14,6 +14,22 @@
       </span>
     </div>
   </div>
+  <div class="header__radio">
+    <div class="header__radio-radial-gradient"></div>
+    <span class="svgfont red header__radio-icon">
+    <!--#include file="/icons/ico_radio.svg"-->
+    </span>
+    <div class="header__radio-text">
+      <div class="header__radio-text-title">
+        <span class="">Old Jazz</span>
+        <span class="header__radio-text-title_red">Radio</span>
+      </div>
+      <div class="header__radio-text-desc">
+        <div>Джазовые радиостанции &mdash;</div>
+        <div>слушайте радио джаз онлайн!</div>
+      </div>
+    </div>
+  </div>
   <div class="header__lang">
     <div class="header__lang-select header__lang_selected">РУ</div>
     <div class="header__lang-spacer"></div>
