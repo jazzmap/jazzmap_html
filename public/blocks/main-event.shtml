@@ -1,6 +1,13 @@
 <div class="main-event">
   <img class="main-event__image" src="/images/1366x700-1.jpg">
-  <div class="main-event__image-overlay"></div>
+  <div class="main-event__image-overlay">
+    <a href="#" class="svgfont black main-event__image-overlay-left-icon">
+    <!--#include file="/icons/scroll_l_t.svg"-->
+    </a>
+    <a href="#" class="svgfont black main-event__image-overlay-right-icon">
+    <!--#include file="/icons/scroll_r_t.svg"-->
+    </a>
+  </div>
   <div class="main-event__description">
     <a class="main-event__description-link" href="#">
       <div class="main-event__description-title">Музыкальная гостиная. Наталья Скворцова и Трио Андреа Беккаро</div>
