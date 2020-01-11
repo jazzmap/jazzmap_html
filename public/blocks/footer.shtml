@@ -1,5 +1,63 @@
 <div class="footer">
   <div class="footer__black">
+    <div class="footer__black-social">
+      Мы в соцсетях:
+      <div class="footer__black-social-list">
+        <a href="#" class="svgfont black footer__black-social-list-icon">
+        <!--#include file="/icons/social_fb.svg"-->
+        </a>
+        <a href="#" class="svgfont black footer__black-social-list-icon">
+        <!--#include file="/icons/social_vk.svg"-->
+        </a>
+        <a href="#" class="svgfont black footer__black-social-list-icon">
+        <!--#include file="/icons/social_tw.svg"-->
+        </a>
+<!--
+        <a href="#" class="svgfont black footer__black-social-list-icon">
+        <! --# include file="/icons/social_ig.svg"-- >
+        </a>
+-->
+
+        <a href="#" class="svgfont black footer__black-social-list-icon">
+        <!--#include file="/icons/social_yt.svg"-->
+        </a>
+        <a href="#" class="svgfont black footer__black-social-list-icon">
+        <!--#include file="/icons/social_ok.svg"-->
+        </a>
+        <a href="#" class="svgfont black footer__black-social-list-icon">
+        <!--#include file="/icons/social_sk.svg"-->
+        </a>
+        <a href="#" class="svgfont black footer__black-social-list-icon">
+        <!--#include file="/icons/social_tg.svg"-->
+        </a>
+        <a href="#" class="svgfont black footer__black-social-list-icon">
+        <!--#include file="/icons/social_wa.svg"-->
+        </a>
+
+
+      </div>
+    </div>
+    <a href="#"><img class="footer__black-logo-image" src="/icons/logo.svg"></a>
+    <div class="footer__black-links">
+      <a href="#" class="footer__black-links-item">
+        <span class="svgfont white footer__black-links-icon">
+        <!--#include file="/icons/ico28_radio.svg"-->
+        </span>
+        <div class="footer__black-links-item-desc">
+          <div class="footer__black-links-item-desc-title">Old Jazz Radio</div>
+          <div class="footer__black-links-item-desc-content">Джазовые радиостанции</div>
+        </div>
+      </a>
+      <a href="#" class="footer__black-links-item">
+        <span class="svgfont white footer__black-links-icon">
+        <!--#include file="/icons/ico28_archive.svg"-->
+        </span>
+        <div class="footer__black-links-item-desc">
+          <div class="footer__black-links-item-desc-title">Архив событий и концертов</div>
+          <div class="footer__black-links-item-desc-content">с 2015 года</div>
+        </div>
+      </a>
+    </div>
   </div>
 
   <div class="footer__ropes">
@@ -11,7 +69,7 @@
     </svg>
   </div>
 
-  <div class="footer__red">
+  <a href="#" class="footer__red">
     <div class="footer__red-line-left-round"></div>
     <div class="footer__red-line-right-round"></div>
     <div class="footer__red-header">Реклама на JazzMap.Ru</div>
@@ -19,6 +77,6 @@
       <div>Проект JazzMap.ru предлагает информационно-медийные услуги,</div>
       <div>которые помогут продвинуть музыкальные мероприятия: концерты, фестивали, конкурсы или гастроли.</div>
     </div>
-  </div>
+  </a>
 
 </div>

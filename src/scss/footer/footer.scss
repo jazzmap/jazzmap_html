@@ -1,4 +1,5 @@
 @import 'footer__ropes';
+@import 'footer__red';
 
 .footer {
   margin: 50px 0 100px;
@@ -11,54 +12,54 @@
   height: 124px;
   width: 100%;
   background-color: color('black');
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
-.footer__red {
-  margin-top: 50px;
-  height: 140px;
-  width: 900px;
-  background-color: color('red');
-  text-align: center;
-
-  // animate!
-  transform-origin: 50% 0;
-  animation: swinging-footer__red 5s ease-in-out forwards infinite;
+.footer__black-social {
+  color: color('666666');
+  @include font('14px bold');
+  text-transform: uppercase;
+  padding-left: 30px;
+  box-sizing: border-box;
+  width: 30%;
 }
 
-.footer__red-line-left-round, .footer__red-line-right-round {
-  position: absolute;
-  left: 4px;
-  background-color: color('red');
-  &:before {
-    content: '\25CF';
-    color: color('white');
-    font-size: 28px;
-    line-height: 22px;
-  }
+.footer__black-social-list {
+  margin-top: 10px;
 }
 
-.footer__red-line-right-round {
-  left: 878px;
+.footer__black-social-list-icon {
+  margin-right: 10px;
+  text-decoration: none;
 }
 
-@keyframes swinging-footer__red {
-  0% {
-    transform: rotate(2deg);
-  }
-  50% {
-    transform: rotate(-2deg)
-  }
-  100% {
-    transform: rotate(2deg);
-  }
+.footer__black-logo-image {
+  display: block;
+  width: 210px;
+  height: 85px;
 }
 
-.footer__red-header {
-  @include font('66px bold');
+.footer__black-links {
+  width: 30%;
+}
+
+.footer__black-links-item {
+  display: flex;
+  margin: 10px 0;
+  text-decoration: none;
+}
+
+.footer__black-links-icon {
+  margin-right: 10px;
+}
+
+.footer__black-links-item-desc {
+  @include font('14px');
   color: color('white');
 }
 
-.footer__red-content {
-  @include font('18px');
-  color: color('black');
+.footer__black-links-item-desc-title {
+  color: color('red');
 }
