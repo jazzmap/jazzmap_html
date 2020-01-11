@@ -1,0 +1,50 @@
+.footer__ropes {
+  font-size: 0;
+  width: 100%;
+  position: relative;
+  overflow: visible;
+  svg {
+    overflow: visible;
+  }
+}
+
+.footer__ropes-line-left {
+  position: absolute;
+  left: 10px;
+  transform: rotate(15deg);
+  transform-origin: 0% 0;
+  animation: swinging-footer__ropes-line-left 5s ease-in-out forwards infinite;
+}
+
+@keyframes swinging-footer__ropes-line-left {
+  0% {
+    transform: rotate(11deg);
+  }
+  50% {
+    transform: rotate(18deg)
+  }
+  100% {
+    transform: rotate(11deg);
+  }
+}
+
+.footer__ropes-line-right {
+  position: absolute;
+  left: 100%;
+  margin-left: -250px - 10px;
+  transform: rotate(-20deg);
+  transform-origin: 100% 0;
+  animation: swinging-footer__ropes-line-right 5s ease-in-out forwards infinite;
+}
+
+@keyframes swinging-footer__ropes-line-right {
+  0% {
+    transform: rotate(-18deg);
+  }
+  50% {
+    transform: rotate(-11deg)
+  }
+  100% {
+    transform: rotate(-18deg);
+  }
+}

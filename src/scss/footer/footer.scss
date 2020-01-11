@@ -1,10 +1,10 @@
+@import 'footer__ropes';
+
 .footer {
   margin: 50px 0 100px;
   display: flex;
   flex-flow: column;
   align-items: center;
-  // position: relative;
-  // overflow: hidden;
 }
 
 .footer__black {
@@ -13,25 +13,22 @@
   background-color: color('black');
 }
 
-.footer__red-line-left {
-  position: absolute;
-  left: -250px + 10px;
-  top: 10px;
-  transform: rotate(20deg);
-  transform-origin: 100% 0;
-}
+.footer__red {
+  margin-top: 50px;
+  height: 140px;
+  width: 900px;
+  background-color: color('red');
+  text-align: center;
 
-.footer__red-line-right {
-  position: absolute;
-  left: 900px - 10px;
-  top: 10px;
-  transform: rotate(-20deg);
-  transform-origin: 0 0;
+  // animate!
+  transform-origin: 50% 0;
+  animation: swinging-footer__red 5s ease-in-out forwards infinite;
 }
 
 .footer__red-line-left-round, .footer__red-line-right-round {
   position: absolute;
   left: 4px;
+  background-color: color('red');
   &:before {
     content: '\25CF';
     color: color('white');
@@ -39,27 +36,12 @@
     line-height: 22px;
   }
 }
+
 .footer__red-line-right-round {
   left: 878px;
 }
 
-.footer__red {
-  svg {
-    // height: 0px;
-    overflow: visible;
-  }
-  margin-top: 50px;
-  height: 130px;
-  width: 900px;
-  background-color: color('red');
-  text-align: center;
-
-  // animate!
-  transform-origin: 50% 0;
-  animation: swinging 5s ease-in-out forwards infinite;
-}
-
-@keyframes swinging {
+@keyframes swinging-footer__red {
   0% {
     transform: rotate(2deg);
   }
@@ -77,6 +59,6 @@
 }
 
 .footer__red-content {
-  @include font('18px bold');
+  @include font('18px');
   color: color('black');
 }
