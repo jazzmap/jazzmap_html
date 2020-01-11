@@ -1,4 +1,4 @@
-.header__menu {
+.header-menu {
   background-color: color('black');
   height: 40px;
   border-bottom: 1px solid color('grayLine');
@@ -7,7 +7,7 @@
   justify-content: center;
 }
 
-.header__menu-item {
+.header-menu__item {
   padding: 0 12.5px;
   text-transform: uppercase;
   white-space: nowrap;
