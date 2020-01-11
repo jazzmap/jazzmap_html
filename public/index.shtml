@@ -12,6 +12,7 @@
   <div class="icon-ico20_about"></div>
   <div class="main">
   <!--#include virtual="/blocks/header.shtml" -->
+  <!--#include virtual="/blocks/main-event.shtml" -->
   </div>
 
 </body>

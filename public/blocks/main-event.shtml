@@ -1,0 +1,18 @@
+<div class="main-event">
+  <div class="main-event__description">
+    <div class="main-event__description-title">Музыкальная гостиная Scenario Cafe. Наталья Скворцова и Трио Андреа Беккаро</div>
+    <div class="main-event__description-intro">Большой зал консерватории превратится в крышу вечернего небоскреба на Манхэттене! Представьте, ночь сменяется утренним заревом, освещающим крыши рядом стоящих зданий. Музыка звучит над городом и мы вместе с оркестром провожаем вечер и встречаем рассвет с высоты небоскребов Нью-Йорка.</div>
+    <div class="main-event__description-place">
+      <span class="svgfont white main-event__description-place-icon">
+      <!--#include file="/icons/ico20_location.svg"-->
+      </span>
+      Консерватория им. П. И. Чайковского
+    </div>
+    <div class="main-event__description-date">
+      <span class="svgfont white main-event__description-date-icon">
+      <!--#include file="/icons/ico20_date.svg"-->
+      </span>
+      11 января, 19:00
+    </div>
+  </div>
+</div>

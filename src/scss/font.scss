@@ -4,6 +4,9 @@
 
   @if $type == '14px' {
     $size: 14px;
+  } @elseif $type == '14px bold' {
+    $size: 14px;
+    $weight: bold;
   } @elseif $type == '18px' {
     $size: 18px;
   } @elseif $type == '18px bold' {
@@ -12,8 +15,11 @@
   } @elseif $type == '31px bold' {
     $size: 31px;
     $weight: bold;
-  } @elseif $type == '44px' {
+  } @elseif $type == '44px bold' {
     $size: 44px;
+    $weight: bold;
+  } @elseif $type == '66px bold' {
+    $size: 66px;
     $weight: bold;
   } @else {
     @error $type; // font doesn't exists

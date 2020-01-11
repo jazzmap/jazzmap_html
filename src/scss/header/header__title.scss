@@ -5,7 +5,7 @@
 }
 
 .header__title-text {
-  @include font('44px');
+  @include font('44px bold');
   text-decoration: none;
   color: color('white');
 }
