@@ -2,29 +2,40 @@
   <img class="main-event__image" src="/images/1366x700-1.jpg">
   <div class="main-event__image-overlay"></div>
   <div class="main-event__description">
-    <div class="main-event__description-title">Музыкальная гостиная. Наталья Скворцова и Трио Андреа Беккаро</div>
-    <div class="main-event__description-intro">Большой зал консерватории превратится в крышу вечернего небоскреба на Манхэттене! Представьте, ночь сменяется утренним заревом, освещающим крыши рядом стоящих зданий. Музыка звучит над городом и мы вместе с оркестром провожаем вечер и встречаем рассвет с высоты небоскребов Нью-Йорка.</div>
-    <div class="main-event__description-place">
-      <span class="svgfont white main-event__description-place-icon">
-      <!--#include file="/icons/ico20_location.svg"-->
-      </span>
-      Консерватория им. П. И. Чайковского
-    </div>
-    <div class="main-event__description-date">
-      <span class="svgfont white main-event__description-date-icon">
-      <!--#include file="/icons/ico20_date.svg"-->
-      </span>
-      11 января, 19:00
-    </div>
+    <a class="main-event__description-link" href="#">
+      <div class="main-event__description-title">Музыкальная гостиная. Наталья Скворцова и Трио Андреа Беккаро</div>
+      <div class="main-event__description-intro">Большой зал консерватории превратится в крышу вечернего небоскреба на Манхэттене! Представьте, ночь сменяется утренним заревом, освещающим крыши рядом стоящих зданий. Музыка звучит над городом и мы вместе с оркестром провожаем вечер и встречаем рассвет с высоты небоскребов Нью-Йорка.</div>
+      <div class="main-event__description-place">
+        <span class="svgfont white main-event__description-place-icon">
+        <!--#include file="/icons/ico20_location.svg"-->
+        </span>
+        Консерватория им. П. И. Чайковского
+      </div>
+      <div class="main-event__description-date">
+        <span class="svgfont white main-event__description-date-icon">
+        <!--#include file="/icons/ico20_date.svg"-->
+        </span>
+        11 января, 19:00
+      </div>
+    </a>
   </div>
 </div>
 
 <div class="main-event-list">
+  <div class="main-event-list__more-events">
+    <a href="#" class="main-event-list__more-events-link">
+      <span class="svgfont white main-event-list__more-events-icon">
+      <!--#include file="/icons/arrow_more.svg"-->
+      </span>
+      Все события&nbsp;
+      <span class="main-event-list__more-events_red">на выходных</span>
+    </a>
+  </div>
   <div class="main-event-list__images">
     <div class="main-event-list__images-image_selected"></div>
-    <img class="main-event-list__images-image" src="/images/120x120-1.jpg">
-    <img class="main-event-list__images-image" src="/images/120x120-2.jpg">
-    <img class="main-event-list__images-image" src="/images/120x120-3.jpg">
-    <img class="main-event-list__images-image" src="/images/120x120-4.jpg">
+    <a href="#"><img class="main-event-list__images-image" src="/images/120x120-1.jpg"></a>
+    <a href="#"><img class="main-event-list__images-image" src="/images/120x120-2.jpg"></a>
+    <a href="#"><img class="main-event-list__images-image" src="/images/120x120-3.jpg"></a>
+    <a href="#"><img class="main-event-list__images-image" src="/images/120x120-4.jpg"></a>
   </div>
 </div>

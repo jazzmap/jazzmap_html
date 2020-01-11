@@ -4,6 +4,11 @@
   z-index: 1;
 }
 
+.main-event__description-link {
+  text-decoration: none;
+  color: color('white');
+}
+
 .main-event__description-title {
   @include font('66px bold');
 }
