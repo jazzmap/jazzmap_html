@@ -29,7 +29,9 @@
 </div>
 
 <div class="main-event-list">
-  <!--#include virtual="/blocks/more/more-events-weekend.shtml" -->
+  <div class="main-event-list__more">
+    <!--#include virtual="/blocks/more/more-events-weekend.shtml" -->
+  </div>
 
   <div class="main-event-list__images">
     <div class="main-event-list__images-image_selected"></div>

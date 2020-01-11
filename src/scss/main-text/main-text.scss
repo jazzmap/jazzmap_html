@@ -1,16 +1,22 @@
 .main-text {
-  padding-top: 50px;
+  margin-top: 50px;
 }
 
 .main-text__header {
   @include font('30px bold');
   text-align: center;
+  margin-bottom: 20px;
+}
+
+.main-text__header_red {
+  @extend .main-text__header;
+  color: color('red');
 }
 
 .main-text__content {
-  padding: 0 60px;
+  margin: 0 60px;
   @include font('22px');
-  color: color('grayLine');
+  color: color('666666');
 
   p {
     margin-block-start: 20px;

@@ -1,0 +1,52 @@
+<div class="main-videos-row">
+  <div class="main-text">
+    <div class="main-text__header">
+      Джаз
+      <span class="main-text__header_red">в картинках</span>
+    </div>
+  </div>
+
+  <div class="main-videos-row__items">
+    <div class="main-videos-row__item">
+      <img src="/images/435x245-1.jpg" class="main-videos-row__item-image">
+      <a href="#" class="main-videos-row__item-image-overlay">
+        <span class="svgfont red main-videos-row__item-video-icon">
+        <!--#include file="/icons/ico20_video.svg"-->
+        </span>
+      </a>
+      <div class="main-videos-row__item-intro">
+        Two years after the death of his mentor and boss, John Coltrane, and just before <a href="#">signing his own contract with Impulse!</a>, Pharoah Sanders finally got around to releasing an album as a leader apart from the <a href="#">Impulse! family</a>. Enlisting a cast
+      </div>
+    </div>
+
+    <div class="main-videos-row__item">
+      <img src="/images/435x245-2.jpg" class="main-videos-row__item-image">
+      <a href="#" class="main-videos-row__item-image-overlay">
+        <span class="svgfont red main-videos-row__item-video-icon">
+        <!--#include file="/icons/ico20_video.svg"-->
+        </span>
+      </a>
+      <div class="main-videos-row__item-intro">
+        Two years after the death of his mentor and boss, John Coltrane, and just before <a href="#">signing his own contract with Impulse!</a>
+      </div>
+    </div>
+
+    <div class="main-videos-row__item">
+      <img src="/images/435x245-3.jpg" class="main-videos-row__item-image">
+      <a href="#" class="main-videos-row__item-image-overlay">
+        <span class="svgfont red main-videos-row__item-video-icon">
+        <!--#include file="/icons/ico20_video.svg"-->
+        </span>
+      </a>
+      <div class="main-videos-row__item-intro">
+        Two years after the death of his mentor and boss, John Coltrane, and just before <a href="#">signing his own contract with Impulse!</a>, Pharoah Sanders finally got around to releasing an album as a leader apart from the <a href="#">Impulse! family</a>. Enlisting a cast
+      </div>
+    </div>
+
+  </div>
+
+  <div class="main-videos-row__more">
+    <!--#include virtual="/blocks/more/more-photo-and-video.shtml" -->
+  </div>
+
+</div>
