@@ -1,0 +1,21 @@
+<div class="footer">
+  <div class="footer__black">
+  </div>
+
+  <div class="footer__red">
+    <svg class="footer__red-line-left" width="250" height="1" viewBox="0 0 250 1">
+      <rect x=0 y=0 width=250 height=0.1 style=stroke:black />
+    </svg>
+    <svg class="footer__red-line-right" width="250" height="1" viewBox="0 0 250 1">
+      <rect x=0 y=0 width=250 height=0.1 style=stroke:black />
+    </svg>
+    <div class="footer__red-line-left-round"></div>
+    <div class="footer__red-line-right-round"></div>
+    <div class="footer__red-header">Реклама на JazzMap.Ru</div>
+    <div class="footer__red-content">
+      <div>Проект JazzMap.ru предлагает информационно-медийные услуги,</div>
+      <div>которые помогут продвинуть музыкальные мероприятия: концерты, фестивали, конкурсы или гастроли.</div>
+    </div>
+  </div>
+
+</div>

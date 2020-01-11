@@ -1,12 +1,15 @@
+@import 'font';
+@import 'icons';
 @import 'main';
-@import 'header/header';
+
+@import 'footer/footer';
 @import 'header-menu/header-menu';
-@import 'main-event/main-event';
+@import 'header/header';
 @import 'main-event-list/main-event-list';
-@import 'more-events/more-events';
+@import 'main-event/main-event';
 @import 'main-text/main-text';
 @import 'main-videos-row/main-videos-row';
-@import 'icons';
+@import 'more-events/more-events';
 
 html, body {
   color: black;
