@@ -19,14 +19,14 @@
     <div class="header__lang-select">EN</div>
   </div>
 </div>
-<div class="header-menu">
-  <a href="#" class="header-menu__item">Афиша джаза</a>
-  <a href="#" class="header-menu__item">Клубы</a>
-  <a href="#" class="header-menu__item">Джазмены</a>
-  <a href="#" class="header-menu__item">Стили</a>
-  <a href="#" class="header-menu__item">Jazz-Блог</a>
-  <a href="#" class="header-menu__item">Инструменты</a>
-  <a href="#" class="header-menu__item">Обучение</a>
-  <a href="#" class="header-menu__item">Фото/видео</a>
-  <a href="#" class="header-menu__item">Danceclub</a>
+<div class="header__menu">
+  <a href="#" class="header__menu-item">Афиша джаза</a>
+  <a href="#" class="header__menu-item">Клубы</a>
+  <a href="#" class="header__menu-item">Джазмены</a>
+  <a href="#" class="header__menu-item">Стили</a>
+  <a href="#" class="header__menu-item">Jazz-Блог</a>
+  <a href="#" class="header__menu-item">Инструменты</a>
+  <a href="#" class="header__menu-item">Обучение</a>
+  <a href="#" class="header__menu-item">Фото/видео</a>
+  <a href="#" class="header__menu-item">Danceclub</a>
 </div>

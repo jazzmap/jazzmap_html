@@ -1,0 +1,17 @@
+.header__menu {
+  background-color: color('black');
+  height: 40px;
+  border-bottom: 1px solid color('grayLine');
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header__menu-item {
+  padding: 0 12.5px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  @include font('18px bold');
+  text-decoration: none;
+  color: color('white');
+}

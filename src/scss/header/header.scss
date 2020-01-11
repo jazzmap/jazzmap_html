@@ -1,9 +1,10 @@
 @import 'colors';
 @import 'font';
 
-@import 'header__logo';
-@import 'header__title';
 @import 'header__lang';
+@import 'header__logo';
+@import 'header__menu';
+@import 'header__title';
 
 .header {
   background-color: color('black');
@@ -11,22 +12,4 @@
   display: flex;
   align-items: center;
   border-bottom: 1px solid color('grayLine');
-}
-
-.header-menu {
-  background-color: color('black');
-  height: 40px;
-  border-bottom: 1px solid color('grayLine');
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.header-menu__item {
-  padding: 0 12.5px;
-  text-transform: uppercase;
-  white-space: nowrap;
-  @include font('18px bold');
-  text-decoration: none;
-  color: color('white');
 }
