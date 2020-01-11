@@ -1,0 +1,22 @@
+@mixin font($type) {
+  $size: 18px;
+  $weight: normal;
+
+  @if $type == '14px' {
+    $size: 14px;
+  } @elseif $type == '18px' {
+    $size: 18px;
+  } @elseif $type == '18px bold' {
+    $size: 18px;
+    $weight: bold;
+  } @elseif $type == '44px' {
+    $size: 44px;
+    $weight: bold;
+  } @else {
+    @error $type; // font doesn't exists
+  }
+
+  font-size: $size;
+  font-weight: $weight;
+}
+
