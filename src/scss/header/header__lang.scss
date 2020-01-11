@@ -1,4 +1,25 @@
+@import '../font';
+
 .header__lang {
+  @include font('18px');
   width: 30px;
+  align-items: flex-end;
 }
 
+.header__lang-select {
+  height: 30px;
+  border: 1px solid color('grayLine');
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header__lang-spacer {
+  height: 10px;
+}
+
+.header__lang_selected {
+  background-color: color('grayInactive');
+  border: 1px solid color('grayInactive');
+  color: color('grayLine');
+}
