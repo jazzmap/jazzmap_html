@@ -29,15 +29,8 @@
 </div>
 
 <div class="main-event-list">
-  <div class="main-event-list__more-events">
-    <a href="#" class="main-event-list__more-events-link">
-      <span class="svgfont white main-event-list__more-events-icon">
-      <!--#include file="/icons/arrow_more.svg"-->
-      </span>
-      Все события&nbsp;
-      <span class="main-event-list__more-events_red">на выходных</span>
-    </a>
-  </div>
+  <!--#include virtual="/blocks/more/more-events-weekend.shtml" -->
+
   <div class="main-event-list__images">
     <div class="main-event-list__images-image_selected"></div>
     <a href="#"><img class="main-event-list__images-image" src="/images/120x120-1.jpg"></a>
