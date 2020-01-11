@@ -1,49 +1,16 @@
 @import 'colors';
 @import 'font';
 
+@import 'header__logo';
+@import 'header__title';
+@import 'header__lang';
+
 .header {
   background-color: color('black');
   height: 115px;
   display: flex;
   align-items: center;
   border-bottom: 1px solid color('grayLine');
-}
-
-.header__logo {
-  width: 30px + 290px + 40px;
-  height: 85px;
-  border-right: 1px solid color('grayLine');
-  padding-left: 30px;
-  box-sizing: border-box;
-}
-
-.header__title {
-  padding: 0 40px;
-}
-
-.header__title-text {
-  @include font('44px');
-  text-decoration: none;
-  color: color('white');
-}
-
-.header__title-city {
-  @include font('18px');
-  display: flex;
-  align-items: center;
-}
-
-.header__title-city-icon {
-  margin-right: 6px;
-}
-
-.header__title-city-select {
-  margin-left: 4px;
-}
-
-
-.header__lang {
-  width: 30px;
 }
 
 .header-menu {

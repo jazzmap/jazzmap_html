@@ -1,0 +1,23 @@
+.header__title {
+  padding: 0 40px;
+}
+
+.header__title-text {
+  @include font('44px');
+  text-decoration: none;
+  color: color('white');
+}
+
+.header__title-city {
+  @include font('18px');
+  display: flex;
+  align-items: center;
+}
+
+.header__title-city-icon {
+  margin-right: 6px;
+}
+
+.header__title-city-select {
+  margin-left: 4px;
+}
