@@ -13,6 +13,7 @@
   <div class="main">
   <!--#include virtual="/blocks/header.shtml" -->
   <!--#include virtual="/blocks/main-event.shtml" -->
+  <!--#include virtual="/blocks/main-text.shtml" -->
   </div>
 
 </body>

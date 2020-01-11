@@ -32,10 +32,11 @@
 }
 
 .header__radio-text {
+  color: color('white');
 }
 
 .header__radio-text-title {
-  @include font('31px bold');
+  @include font('30px bold');
 }
 
 .header__radio-text-title_red {

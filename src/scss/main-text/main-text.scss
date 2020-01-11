@@ -1,0 +1,22 @@
+.main-text {
+  padding-top: 50px;
+}
+
+.main-text__header {
+  @include font('30px bold');
+  text-align: center;
+}
+
+.main-text__content {
+  padding: 0 60px;
+  @include font('22px');
+  color: color('grayLine');
+
+  p {
+    margin-block-start: 20px;
+    margin-block-end: 0;
+  }
+  a {
+    color: color('black');
+  }
+}
