@@ -1,0 +1,33 @@
+.main-news__row-small {
+  background-color: color('ededed');
+  height: 530px;
+  padding-bottom: 20px;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-flow: column;
+  flex: 1;
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}
+
+.main-news__row-small-image {
+  font-size: 0;
+}
+
+.main-news__row-small-title {
+  @include font('22px bold');
+  margin: 20px 30px 14px;
+
+}
+
+.main-news__row-small-intro {
+  @include font('18px');
+  color: color('666666');
+  margin: 0 30px;
+  line-height: 1.27em;
+  max-height: 1.27em * 3;
+  overflow: hidden;
+}

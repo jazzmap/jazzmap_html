@@ -1,0 +1,26 @@
+<div class="main-news__row-item main-news__row-vertical">
+    <div class="main-news__row-vertical-image">
+      <img src="/images/422x530-3.jpg">
+    </div>
+    <div class="main-news__row-vertical-image-overlay"></div>
+    <div class="main-news__row-vertical-image-description">
+      <a href="#" class="main-news__row-spacer"></a>
+      <div class="main-news__row-vertical-title">
+        <a href="#">
+          Рождественский вечер с Большим Джазовым Оркестром
+        </a>
+      </div>
+      <div class="main-news__row-tags">
+        <span class="svgfont white main-news__row-icon">
+        <!--#include file="/icons/ico20_tags.svg"-->
+        </span>
+        Интервью
+      </div>
+      <div class="main-news__row-date">
+        <span class="svgfont white main-news__row-icon">
+        <!--#include file="/icons/ico20_date.svg"-->
+        </span>
+        январь, 2020
+      </div>
+    </div>
+</div>
