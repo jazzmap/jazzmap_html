@@ -20,4 +20,7 @@
     <!--#include virtual="/blocks/main-news/main-news__row-small.shtml"-->
   </div>
 
+  <div class="main-news__more">
+    <!--#include virtual="/blocks/more/more-news-archive.shtml" -->
+  </div>
 </div>
