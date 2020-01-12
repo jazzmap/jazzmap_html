@@ -1,0 +1,30 @@
+<div class="main-news__row-small">
+    <div class="main-news__row-small-image">
+      <a href="#">
+        <img src="/images/422x235-1.jpg">
+      </a>
+    </div>
+    <div class="main-news__row-small-title">
+      <a href="#">
+        JAZZ-январь в Коломенском 2020 - концерты 4, 5 6 и 7 января
+      </a>
+    </div>
+    <div class="main-news__row-small-intro">
+      <a href="#">
+        4, 5 6 и 7 января 2020 года в Московском объединенном музее-заповеднике пройдет фестиваль «JAZZ-январь в Коломенском». JAZZ-январь 2020 дарит публике четыре волшебных новогодних вечера в компании любимых эстрадно-джазовых мелодий и популярных московских музыкантов.
+      </a>
+    </div>
+    <div class="main-news__row-small-spacer"></div>
+    <div class="main-news__row-small-tags">
+      <span class="svgfont black main-news__row-small-icon">
+      <!--#include file="/icons/ico20_tags.svg"-->
+      </span>
+      Курсы, мастер-классы, семинары
+    </div>
+    <div class="main-news__row-small-date">
+      <span class="svgfont black main-news__row-small-icon">
+      <!--#include file="/icons/ico20_date.svg"-->
+      </span>
+      январь, 2020
+    </div>
+</div>

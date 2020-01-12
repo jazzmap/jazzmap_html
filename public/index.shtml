@@ -12,9 +12,11 @@
   <div class="icon-ico20_about"></div>
   <div class="main">
   <!--#include virtual="/blocks/header.shtml" -->
+
   <!--#include virtual="/blocks/main-event.shtml" -->
   <!--#include virtual="/blocks/main-text.shtml" -->
   <!--#include virtual="/blocks/main-videos-row.shtml" -->
+  <!--#include virtual="/blocks/main-news.shtml" -->
 
   <!--#include virtual="/blocks/footer.shtml" -->
   </div>

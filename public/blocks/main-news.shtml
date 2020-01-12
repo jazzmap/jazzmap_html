@@ -1,0 +1,15 @@
+<div class="main-news main-content">
+  <div class="main-text">
+    <div class="main-text__header">
+      Новости
+      <span class="main-text__header_red">джаза</span>
+    </div>
+  </div>
+
+  <div class="main-news__row">
+    <!--#include virtual="/blocks/main-news/main-news__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-news/main-news__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-news/main-news__row-small.shtml"-->
+  </div>
+
+</div>

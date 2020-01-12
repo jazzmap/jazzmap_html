@@ -1,5 +1,6 @@
-@import 'footer__ropes';
+@import 'footer__black';
 @import 'footer__red';
+@import 'footer__ropes';
 
 .footer {
   margin: 50px 0 100px;
@@ -8,58 +9,3 @@
   align-items: center;
 }
 
-.footer__black {
-  height: 124px;
-  width: 100%;
-  background-color: color('black');
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.footer__black-social {
-  color: color('666666');
-  @include font('14px bold');
-  text-transform: uppercase;
-  padding-left: 30px;
-  box-sizing: border-box;
-  width: 30%;
-}
-
-.footer__black-social-list {
-  margin-top: 10px;
-}
-
-.footer__black-social-list-icon {
-  margin-right: 10px;
-  text-decoration: none;
-}
-
-.footer__black-logo-image {
-  display: block;
-  width: 210px;
-  height: 85px;
-}
-
-.footer__black-links {
-  width: 30%;
-}
-
-.footer__black-links-item {
-  display: flex;
-  margin: 10px 0;
-  text-decoration: none;
-}
-
-.footer__black-links-icon {
-  margin-right: 10px;
-}
-
-.footer__black-links-item-desc {
-  @include font('14px');
-  color: color('white');
-}
-
-.footer__black-links-item-desc-title {
-  color: color('red');
-}
