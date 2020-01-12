@@ -16,8 +16,6 @@
     <!--#include virtual="/blocks/main-news/main-news__row-vertical.shtml"-->
     <!--#include virtual="/blocks/main-news/main-news__row-video.shtml"-->
     <!--#include virtual="/blocks/main-news/main-news__row-gallery.shtml"-->
-
-    <!--#include virtual="/blocks/main-news/main-news__row-small.shtml"-->
   </div>
 
   <div class="main-news__more">
