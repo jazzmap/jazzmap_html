@@ -1,5 +1,6 @@
 @import 'main-news__row-small';
 @import 'main-news__row-vertical';
+@import 'main-news__row-video';
 
 .main-news {
   margin-top: 50px;
@@ -8,6 +9,10 @@
 .main-news__row {
   display: flex;
   margin-top: 20px;
+}
+
+.main-news__row-item {
+  flex: 1;
 }
 
 .main-news__row-item + .main-news__row-item {

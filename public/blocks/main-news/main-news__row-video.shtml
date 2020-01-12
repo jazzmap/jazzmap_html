@@ -1,0 +1,33 @@
+<div class="main-news__row-item main-news__row-video">
+    <div class="main-news__row-video-image">
+      <img src="/images/422x235-4.jpg">
+      <a href="#" class="main-news__row-video-image-overlay">
+        <span class="svgfont red main-news__row-video-image-icon">
+        <!--#include file="/icons/ico20_video.svg"-->
+        </span>
+      </a>
+    </div>
+    <div class="main-news__row-video-title">
+      <a href="#">
+        LRK Trio в Клубе Алексея Козлова
+      </a>
+    </div>
+    <div class="main-news__row-video-intro">
+      <a href="#">
+        LRK Trio - Евгений Лебедев, Антон Ревнюк и Игнат Кравцов - это один из лучших джазовых коллективов на современной европейской сцене.
+      </a>
+    </div>
+    <div class="main-news__row-spacer"></div>
+    <div class="main-news__row-tags">
+      <span class="svgfont black main-news__row-icon">
+      <!--#include file="/icons/ico20_tags.svg"-->
+      </span>
+      Курсы, мастер-классы, семинары
+    </div>
+    <div class="main-news__row-date">
+      <span class="svgfont black main-news__row-icon">
+      <!--#include file="/icons/ico20_date.svg"-->
+      </span>
+      январь, 2020
+    </div>
+</div>
