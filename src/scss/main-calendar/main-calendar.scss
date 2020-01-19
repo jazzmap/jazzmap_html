@@ -17,6 +17,8 @@
 }
 
 .main-calendar__more {
-  color: color('white');
+  .more-events__text {
+    color: color('white');
+  }
   padding: 0 0 20px 30px;
 }

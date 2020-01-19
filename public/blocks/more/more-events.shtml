@@ -1,5 +1,5 @@
 <div class="more-events">
-  <a href="#" class="more-events__text more-events__text_white">
+  <a href="#" class="more-events__text">
     <span class="svgfont white more-events__text-icon">
     <!--#include file="/icons/arrow_more.svg"-->
     </span>
