@@ -28,6 +28,14 @@
     </div>
   </div>
 
+  <div class="main-events__row">
+    <!--#include virtual="/blocks/main-events/main-events__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-events/main-events__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-events/main-events__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-events/main-events__row-small.shtml"-->
+  </div>
+
+
   <div class="main-events__more">
     <!--#include virtual="/blocks/more/more-events.shtml" -->
   </div>

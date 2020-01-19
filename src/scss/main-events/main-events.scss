@@ -1,8 +1,9 @@
+@import 'main-events__row-small';
+
 .main-events {
 }
 
 .main-events__more {
-  // color: color('white');
   padding: 20px 0 0;
 }
 
@@ -59,4 +60,10 @@
 
 .main-events__description-icon {
   padding-right: 10px;
+}
+
+.main-events__row {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
 }
