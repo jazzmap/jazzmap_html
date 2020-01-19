@@ -9,6 +9,7 @@
     'red': #c7342a,
     'ededed': #ededed,
     '333333': #333333,
+    '4d4d4d': #4d4d4d,
   );
 
   @if not map-has-key($colors, $type) {

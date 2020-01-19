@@ -9,7 +9,80 @@
     <a href="#" class="main-calendar__header-button">Ноябрь</a>
     <a href="#" class="main-calendar__header-button">Декабрь</a>
   </div>
-  <a class="main-calendar__today-text">Сегодня</a>
+  <a href="#" class="main-calendar__today-text">Сегодня</a>
 
+  <div class="main-calendar__days">
+    <a href="#" class="svgfont black main-calendar__days-left-icon">
+    <!--#include file="/icons/scroll_l_t.svg"-->
+    </a>
+    <a href="#" class="svgfont black main-calendar__days-right-icon">
+    <!--#include file="/icons/scroll_r_t.svg"-->
+    </a>
+
+    <a href="#" class="main-calendar__days-day main-calendar__days-day_today">
+      <div class="main-calendar__days-day-header">Понедельник</div>
+      <div class="main-calendar__days-day-date">28</div>
+      <div class="main-calendar__days-day-month">Сентябрь</div>
+    </a>
+
+    <a href="#" class="main-calendar__days-day">
+      <div class="main-calendar__days-day-header">Вторник</div>
+      <div class="main-calendar__days-day-date">29</div>
+      <div class="main-calendar__days-day-month">Сентябрь</div>
+    </a>
+
+    <a href="#" class="main-calendar__days-day">
+      <div class="main-calendar__days-day-header">Среда</div>
+      <div class="main-calendar__days-day-date">30</div>
+      <div class="main-calendar__days-day-month">Сентябрь</div>
+    </a>
+
+    <a class="main-calendar__days-day main-calendar__days-day_disabled main-calendar__days-day-month-divider">
+      <div class="main-calendar__days-day-header">Четверг</div>
+      <div class="main-calendar__days-day-date">31</div>
+      <div class="main-calendar__days-day-month">Сентябрь</div>
+    </a>
+
+    <a href="#" class="main-calendar__days-day">
+      <div class="main-calendar__days-day-header">Пятница</div>
+      <div class="main-calendar__days-day-date">1</div>
+      <div class="main-calendar__days-day-month">Октябрь</div>
+    </a>
+
+    <a href="#" class="main-calendar__days-day main-calendar__days-day_weekend">
+      <div class="main-calendar__days-day-header">Суббота</div>
+      <div class="main-calendar__days-day-date">2</div>
+      <div class="main-calendar__days-day-month">Октябрь</div>
+    </a>
+
+    <a href="#" class="main-calendar__days-day main-calendar__days-day_weekend">
+      <div class="main-calendar__days-day-header">Воскресенье</div>
+      <div class="main-calendar__days-day-date">3</div>
+      <div class="main-calendar__days-day-month">Октябрь</div>
+    </a>
+
+    <a href="#" class="main-calendar__days-day">
+      <div class="main-calendar__days-day-header">Понедельник</div>
+      <div class="main-calendar__days-day-date">4</div>
+      <div class="main-calendar__days-day-month">Октябрь</div>
+    </a>
+
+    <a href="#" class="main-calendar__days-day">
+      <div class="main-calendar__days-day-header">Вторник</div>
+      <div class="main-calendar__days-day-date">5</div>
+      <div class="main-calendar__days-day-month">Октябрь</div>
+    </a>
+
+    <a href="#" class="main-calendar__days-day">
+      <div class="main-calendar__days-day-header">Среда</div>
+      <div class="main-calendar__days-day-date">6</div>
+      <div class="main-calendar__days-day-month">Октябрь</div>
+    </a>
+
+  </div>
+
+  <div class="main-calendar__more">
+    <!--#include virtual="/blocks/more/more-events.shtml" -->
+  </div>
 
 </div>

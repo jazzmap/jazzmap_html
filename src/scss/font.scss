@@ -26,6 +26,8 @@
   } @elseif $type == '66px bold' {
     $size: 66px;
     $weight: bold;
+  } @elseif $type == '70px' {
+    $size: 70px;
   } @else {
     @error $type; // font doesn't exists
   }

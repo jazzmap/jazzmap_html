@@ -1,0 +1,75 @@
+.main-calendar__days {
+  display: flex;
+  height: 150px;
+  padding: 0 30px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  position: relative;
+  overflow: hidden;
+}
+
+.main-calendar__days-left-icon {
+  position: absolute;
+  left: -1px;
+  top: 150px/2-30px/2;
+}
+
+.main-calendar__days-right-icon {
+  position: absolute;
+  right: 0px;
+  top: 150px/2-30px/2;
+}
+
+.main-calendar__days-day {
+  width: 113px;
+  height: 150px;
+  text-decoration: none;
+  background-color: color('white');
+}
+
+.main-calendar__days-day-header {
+  height: 40px;
+  line-height: 40px;
+  text-transform: uppercase;
+  color: color('white');
+  background-color: color('333333');
+  text-align: center;
+}
+
+.main-calendar__days-day-date {
+  @include font('70px');
+  text-align: center;
+  color: color('black');
+  height: 75px;
+}
+
+.main-calendar__days-day-month {
+  text-transform: uppercase;
+  color: color('black');
+  text-align: center;
+}
+
+.main-calendar__days-day_today {
+  background-color: color('red');
+  .main-calendar__days-day-header {
+    color: color('white');
+    background-color: color('red');
+  }
+  .main-calendar__days-day-header {
+    border-bottom: 1px solid color('white');
+  }
+  .main-calendar__days-day-date {
+    color: color('white');
+  }
+  .main-calendar__days-day-month {
+    color: color('white');
+  }
+}
+
+.main-calendar__days-day_disabled {
+  background-color: color('4d4d4d');
+  .main-calendar__days-day-header {
+    color: color('666666');
+  }
+}
