@@ -20,6 +20,9 @@
   } @elseif $type == '30px bold' {
     $size: 30px;
     $weight: bold;
+  } @elseif $type == '36px bold' {
+    $size: 36px;
+    $weight: bold;
   } @elseif $type == '44px bold' {
     $size: 44px;
     $weight: bold;

@@ -31,8 +31,7 @@
   <div class="main-events__row">
     <!--#include virtual="/blocks/main-events/main-events__row-small.shtml"-->
     <!--#include virtual="/blocks/main-events/main-events__row-small.shtml"-->
-    <!--#include virtual="/blocks/main-events/main-events__row-small.shtml"-->
-    <!--#include virtual="/blocks/main-events/main-events__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-events/main-events__row-middle.shtml"-->
   </div>
 
 
