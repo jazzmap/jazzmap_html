@@ -43,6 +43,7 @@
       <div class="main-calendar__days-day-month">Сентябрь</div>
     </a>
 
+
     <a href="#" class="main-calendar__days-day">
       <div class="main-calendar__days-day-header">Пятница</div>
       <div class="main-calendar__days-day-date">1</div>

@@ -28,6 +28,10 @@
   background-color: color('white');
 }
 
+.main-calendar__days-day + .main-calendar__days-day {
+  margin-left: 18px;
+}
+
 .main-calendar__days-day-header {
   height: 40px;
   line-height: 40px;
@@ -67,9 +71,26 @@
   }
 }
 
-.main-calendar__days-day_disabled {
-  background-color: color('4d4d4d');
+.main-calendar__days-day_weekend {
   .main-calendar__days-day-header {
-    color: color('666666');
+    color: color('white');
+    background-color: color('red');
   }
+  .main-calendar__days-day-date {
+    color: color('red');
+  }
+  .main-calendar__days-day-month {
+    color: color('red');
+  }
+}
+
+// .main-calendar__days-day_disabled {
+//   background-color: color('4d4d4d');
+//   .main-calendar__days-day-header {
+//     color: color('666666');
+//   }
+// }
+
+.main-calendar__days-day_disabled {
+  opacity: 0.3;
 }
