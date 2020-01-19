@@ -1,0 +1,15 @@
+<div class="main-calendar">
+  <div class="main-calendar__header">
+    <a href="#" class="main-calendar__header-title">
+        Афиша джаза на сентябрь
+    </a>
+    <div class="main-calendar__header-spacer"></div>
+    <a href="#" class="main-calendar__header-button">Викенд 12&ndash;33 сентября</a>
+    <a href="#" class="main-calendar__header-button">Октябрь</a>
+    <a href="#" class="main-calendar__header-button">Ноябрь</a>
+    <a href="#" class="main-calendar__header-button">Декабрь</a>
+  </div>
+  <a class="main-calendar__today-text">Сегодня</a>
+
+
+</div>

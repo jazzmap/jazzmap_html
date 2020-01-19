@@ -8,6 +8,7 @@
     'grayTextOnBlack': #808080,
     'red': #c7342a,
     'ededed': #ededed,
+    '333333': #333333,
   );
 
   @if not map-has-key($colors, $type) {
