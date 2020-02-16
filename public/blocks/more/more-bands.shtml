@@ -1,0 +1,8 @@
+<div class="more-bands">
+  <a href="#" class="more-bands__text">
+    <span class="svgfont white more-bands__text-icon">
+    <!--#include file="/icons/arrow_more.svg"-->
+    </span>
+    Все джазовые музыканты
+  </a>
+</div>

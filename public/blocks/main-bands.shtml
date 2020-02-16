@@ -1,0 +1,20 @@
+<div class="main-bands main-content">
+  <div class="main-text">
+    <div class="main-text__header">
+      Легенды джаза
+      <span class="main-text__header_red">в январе</span>
+    </div>
+  </div>
+
+  <div class="main-bands__row">
+    <!--#include virtual="/blocks/main-bands/main-bands__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-bands/main-bands__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-bands/main-bands__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-bands/main-bands__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-bands/main-bands__row-small.shtml"-->
+  </div>
+
+  <div class="main-bands__more">
+    <!--#include virtual="/blocks/more/more-bands.shtml" -->
+  </div>
+</div>

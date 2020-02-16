@@ -1,0 +1,14 @@
+@import 'main-bands__row-small';
+
+.main-bands {
+}
+
+.main-bands__more {
+  padding: 20px 0 0;
+}
+
+.main-bands__row {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+}

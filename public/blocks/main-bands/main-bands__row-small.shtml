@@ -1,0 +1,28 @@
+<div class="main-bands__row-item main-bands__row-small">
+  <div class="main-bands__row-small-image">
+    <a href="#">
+      <img src="/images/210x210-1.jpg">
+    </a>
+  </div>
+  <div class="main-bands__row-small-title">
+    <a href="#">
+      Фрэнк Синатра
+    </a>
+  </div>
+
+  <div class="main-bands__row-spacer"></div>
+  <div class="main-bands__row-bottom">
+    <a href="#" class="main-bands__row-place">
+      <span class="svgfont white main-bands__row-icon main-bands__row-icon-place">
+      <!--#include file="/icons/ico20_location.svg"-->
+      </span>
+      Концертный зал им&nbsp;П.&nbsp;И.&nbsp;Чайковского (Московская филармония)
+    </a>
+    <div class="main-bands__row-date">
+      <span class="svgfont white main-bands__row-icon">
+      <!--#include file="/icons/ico20_date.svg"-->
+      </span>
+      январь, 2020
+    </div>
+  </div>
+</div>
