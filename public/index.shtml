@@ -19,6 +19,7 @@
   <!--#include virtual="/blocks/main-news.shtml" -->
   <!--#include virtual="/blocks/main-calendar.shtml" -->
   <!--#include virtual="/blocks/main-events.shtml" -->
+  <!--#include virtual="/blocks/main-fests.shtml" -->
 
   <!--#include virtual="/blocks/footer.shtml" -->
   </div>

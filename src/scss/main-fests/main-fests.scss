@@ -1,0 +1,14 @@
+@import 'main-fests__row-small';
+
+.main-fests {
+}
+
+.main-fests__more {
+  padding: 20px 0 0;
+}
+
+.main-fests__row {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+}

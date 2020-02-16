@@ -1,0 +1,29 @@
+.more-fests {
+  @include font('14px bold');
+  text-transform: uppercase;
+}
+
+.more-fests__text {
+  color: color('black');
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+.more-fests__text_white {
+  color: color('white');
+}
+
+.more-fests__text_red {
+  color: color('red');
+}
+
+.more-fests__text-icon {
+  background-color: color('red');
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,26 @@
+<div class="main-fests__row-item main-fests__row-small">
+    <div class="main-fests__row-small-image">
+      <a href="#">
+        <div class="main-fests__row-small-city">Санкт-Петербург</div>
+        <img src="/images/320x180-1.jpg">
+      </a>
+    </div>
+    <div class="main-fests__row-small-title">
+      <a href="#">
+        JAZZ-январь в Коломенском 2020 - концерты 4, 5, 6 и 7 января
+      </a>
+    </div>
+    <div class="main-fests__row-spacer"></div>
+    <a href="#" class="main-fests__row-place">
+      <span class="svgfont black main-fests__row-icon main-fests__row-icon-place">
+      <!--#include file="/icons/ico20_location.svg"-->
+      </span>
+      Концертный зал им&nbsp;П.&nbsp;И.&nbsp;Чайковского (Московская филармония)
+    </a>
+    <div class="main-fests__row-date">
+      <span class="svgfont black main-fests__row-icon">
+      <!--#include file="/icons/ico20_date.svg"-->
+      </span>
+      январь, 2020
+    </div>
+</div>
