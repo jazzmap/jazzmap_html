@@ -7,11 +7,11 @@
   </div>
 
   <div class="main-bands__row">
-    <!--#include virtual="/blocks/main-bands/main-bands__row-small.shtml"-->
-    <!--#include virtual="/blocks/main-bands/main-bands__row-small.shtml"-->
-    <!--#include virtual="/blocks/main-bands/main-bands__row-small.shtml"-->
-    <!--#include virtual="/blocks/main-bands/main-bands__row-small.shtml"-->
-    <!--#include virtual="/blocks/main-bands/main-bands__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-bands/main-bands__row-item.shtml"-->
+    <!--#include virtual="/blocks/main-bands/main-bands__row-item.shtml"-->
+    <!--#include virtual="/blocks/main-bands/main-bands__row-item.shtml"-->
+    <!--#include virtual="/blocks/main-bands/main-bands__row-item.shtml"-->
+    <!--#include virtual="/blocks/main-bands/main-bands__row-item.shtml"-->
   </div>
 
   <div class="main-bands__more">

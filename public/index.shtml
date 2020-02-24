@@ -21,6 +21,7 @@
   <!--#include virtual="/blocks/main-events.shtml" -->
   <!--#include virtual="/blocks/main-fests.shtml" -->
   <!--#include virtual="/blocks/main-bands.shtml" -->
+  <!--#include virtual="/blocks/main-albums.shtml" -->
 
   <!--#include virtual="/blocks/footer.shtml" -->
   </div>

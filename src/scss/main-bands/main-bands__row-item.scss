@@ -1,4 +1,4 @@
-.main-bands__row-small {
+.main-bands__row-item {
   background-color: color('ededed');
   height: 330px + 130px;
   width: 253px;
@@ -12,7 +12,7 @@
   }
 }
 
-.main-bands__row-small-image {
+.main-bands__row-item-image {
   font-size: 0;
   margin: 20px;
   img {
@@ -20,7 +20,7 @@
   }
 }
 
-.main-bands__row-small-title {
+.main-bands__row-item-title {
   @include font('20px bold');
   text-align: center;
 }

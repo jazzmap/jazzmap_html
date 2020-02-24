@@ -1,8 +1,8 @@
 <div class="more-button">
-  <a href="#" class="more-button__text">
+  <a href="#" class="more-button__text_white">
     <span class="svgfont white more-button__text-icon">
     <!--#include file="/icons/arrow_more.svg"-->
     </span>
-    Архив новостей
+    Все события
   </a>
 </div>

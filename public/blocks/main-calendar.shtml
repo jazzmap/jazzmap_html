@@ -83,7 +83,7 @@
   </div>
 
   <div class="main-calendar__more">
-    <!--#include virtual="/blocks/more/more-events.shtml" -->
+    <!--#include virtual="/blocks/more/more-calendar.shtml" -->
   </div>
 
 </div>

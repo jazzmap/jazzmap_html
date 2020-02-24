@@ -1,9 +1,9 @@
-<div class="more-events">
-  <a href="#" class="more-events__text">
-    <span class="svgfont white more-events__text-icon">
+<div class="more-button">
+  <a href="#" class="more-button__text">
+    <span class="svgfont white more-button__text-icon">
     <!--#include file="/icons/arrow_more.svg"-->
     </span>
     Все события&nbsp;
-    <span class="more-events__text_red">на выходных</span>
+    <span class="more-button__text_red">на выходных</span>
   </a>
 </div>

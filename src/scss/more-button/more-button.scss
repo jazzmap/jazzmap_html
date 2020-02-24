@@ -1,24 +1,29 @@
-.more-fests {
+.more-button {
   @include font('14px bold');
   text-transform: uppercase;
 }
 
-.more-fests__text {
-  color: color('black');
+@mixin more-button__text-mixin {
   text-decoration: none;
   display: flex;
   align-items: center;
 }
 
-.more-fests__text_white {
+.more-button__text {
+  @include more-button__text-mixin();
+  color: color('black');
+}
+
+.more-button__text_white {
+  @include more-button__text-mixin();
   color: color('white');
 }
 
-.more-fests__text_red {
+.more-button__text_red {
   color: color('red');
 }
 
-.more-fests__text-icon {
+.more-button__text-icon {
   background-color: color('red');
   width: 20px;
   height: 20px;
