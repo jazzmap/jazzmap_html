@@ -1,12 +1,13 @@
 <div class="main-albums main-content">
   <div class="main-text">
     <div class="main-text__header">
-      Легенды джаза
-      <span class="main-text__header_red">в январе</span>
+      Самые знаменитые
+      <span class="main-text__header_red">джазовые альбомы</span>
     </div>
   </div>
 
   <div class="main-albums__row">
+    <!--#include virtual="/blocks/main-albums/main-albums__row-item.shtml"-->
     <!--#include virtual="/blocks/main-albums/main-albums__row-item.shtml"-->
     <!--#include virtual="/blocks/main-albums/main-albums__row-item.shtml"-->
     <!--#include virtual="/blocks/main-albums/main-albums__row-item.shtml"-->

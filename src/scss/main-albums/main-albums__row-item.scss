@@ -1,0 +1,57 @@
+.main-albums__row-item {
+  background-color: color('ededed');
+  height: 210px + 160px + 50px;
+  width: 210px;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-flow: column;
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}
+
+.main-albums__row-icon-header {
+  display: block;
+  margin: 0 auto;
+  background-color: color('white');
+  svg {
+    width: 210px;
+    height: 50px;
+  }
+}
+
+.main-albums__row-item-image {
+  font-size: 0;
+}
+
+.main-albums__row-item-title {
+  @include font('17px bold');
+  margin: 20px;
+}
+
+.main-albums__row-spacer {
+  flex: 1;
+}
+
+.main-albums__row-year {
+  display: block;
+  margin: 10px 0 0 20px;
+  text-transform: uppercase;
+  @include font('14px bold');
+}
+
+.main-albums__row-label {
+  margin: 10px 20px 20px 20px;
+  text-transform: uppercase;
+  @include font('14px bold');
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.main-albums__row-icon {
+  margin-right: 10px;
+  font-size: 0;
+}

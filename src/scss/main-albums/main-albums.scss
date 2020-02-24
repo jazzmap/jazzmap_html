@@ -1,0 +1,14 @@
+@import 'main-albums__row-item';
+
+.main-albums {
+}
+
+.main-albums__more {
+  padding: 20px 0 0;
+}
+
+.main-albums__row {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+}

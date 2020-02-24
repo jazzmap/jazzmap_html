@@ -1,0 +1,31 @@
+<div class="main-albums__row-item main-albums__row-item">
+  <div class="main-albums__row-item-image">
+    <span class="svgfont black main-albums__row-icon-header">
+    <!--#include file="/icons/disc_b.svg"-->
+    </span>
+
+    <a href="#">
+      <img src="/images/210x210-3.jpg">
+    </a>
+  </div>
+  <div class="main-albums__row-item-title">
+    <a href="#">
+      Луи Армстронг
+    </a>
+  </div>
+
+  <div class="main-albums__row-spacer"></div>
+
+  <a href="#" class="main-albums__row-year">
+    <span class="svgfont black main-albums__row-icon">
+    <!--#include file="/icons/ico20_calendar.svg"-->
+    </span>
+    2017
+  </a>
+  <a href="#"  class="main-albums__row-label">
+    <span class="svgfont black main-albums__row-icon">
+    <!--#include file="/icons/ico20_label.svg"-->
+    </span>
+    Граммофон рекордс
+  </a>
+</div>
