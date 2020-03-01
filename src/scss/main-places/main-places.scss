@@ -1,0 +1,15 @@
+@import 'main-places__row-item-big';
+@import 'main-places__row-item-small';
+
+.main-places {
+}
+
+.main-places__more {
+  padding: 20px 0 0;
+}
+
+.main-places__row {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+}

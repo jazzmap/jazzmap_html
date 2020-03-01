@@ -1,0 +1,22 @@
+<div class="main-places__row-item main-places__row-item-big">
+    <div class="main-places__row-item-big-image">
+      <img src="/images/435x245-4.jpg">
+    </div>
+
+    <a href="#" class="main-places__row-item-big-image-overlay">
+      <span class="svgfont red main-places-row__item-video-icon">
+      <!--#include file="/icons/ico20_video.svg"-->
+      </span>
+    </a>
+
+    <a href="#" class="main-places__row-item-big-title">
+      Концертный зал им П. И. Чайковского (Московская филармония)
+    </a>
+
+    <a href="#" class="main-places__row-item-big-place">
+      <span class="svgfont black main-places__row-icon main-places__row-icon-place">
+      <!--#include file="/icons/ico20_location.svg"-->
+      </span>
+      Москва, Триумфальная площадь, 4
+    </a>
+</div>

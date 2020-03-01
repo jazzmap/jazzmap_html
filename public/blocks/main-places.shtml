@@ -1,0 +1,30 @@
+<div class="main-places main-content">
+  <div class="main-text">
+    <div class="main-text__header">
+      Лучшие
+      <span class="main-text__header_red">джазовые площадки</span>
+    </div>
+  </div>
+
+  <div class="main-places__row">
+    <!--#include virtual="/blocks/main-places/main-places__row-item-big.shtml"-->
+    <!--#include virtual="/blocks/main-places/main-places__row-item-big.shtml"-->
+  </div>
+
+  <div class="main-places__row">
+    <!--#include virtual="/blocks/main-places/main-places__row-item-big.shtml"-->
+    <!--#include virtual="/blocks/main-places/main-places__row-item-small.shtml"-->
+    <!--#include virtual="/blocks/main-places/main-places__row-item-small.shtml"-->
+  </div>
+
+  <div class="main-places__row">
+    <!--#include virtual="/blocks/main-places/main-places__row-item-small.shtml"-->
+    <!--#include virtual="/blocks/main-places/main-places__row-item-small.shtml"-->
+    <!--#include virtual="/blocks/main-places/main-places__row-item-small.shtml"-->
+    <!--#include virtual="/blocks/main-places/main-places__row-item-small.shtml"-->
+  </div>
+
+  <div class="main-places__more">
+    <!--#include virtual="/blocks/more/more-places.shtml" -->
+  </div>
+</div>
