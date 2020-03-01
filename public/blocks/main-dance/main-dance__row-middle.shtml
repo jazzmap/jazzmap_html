@@ -1,0 +1,26 @@
+<div class="main-dance__row-item main-dance__row-item-middle">
+    <div class="main-dance__row-item-middle-image">
+      <img src="/images/648x430-2.jpg">
+    </div>
+    <div class="main-dance__row-item-middle-image-overlay"></div>
+    <div class="main-dance__row-item-middle-image-description">
+      <a href="#" class="main-dance__row-spacer"></a>
+      <div class="main-dance__row-item-middle-title">
+        <a href="#">
+          Открытые уроки танцев под джаз
+        </a>
+      </div>
+      <a href="#" class="main-dance__row-place">
+        <span class="svgfont white main-dance__row-icon main-dance__row-icon-place">
+        <!--#include file="/icons/ico20_location.svg"-->
+        </span>
+        Концертный зал им П. И. Чайковского, вход со двора
+      </a>
+      <div class="main-dance__row-date">
+        <span class="svgfont white main-dance__row-icon">
+        <!--#include file="/icons/ico20_date.svg"-->
+        </span>
+        2 января, 20:20
+      </div>
+    </div>
+</div>

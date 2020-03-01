@@ -1,0 +1,26 @@
+<div class="main-dance main-content">
+  <div class="main-text">
+    <div class="main-text__header">
+      Приглашаем
+      <span class="main-text__header_red">танцевать</span>
+    </div>
+  </div>
+
+  <div class="main-dance__row">
+    <!--#include virtual="/blocks/main-dance/main-dance__row-middle.shtml"-->
+    <!--#include virtual="/blocks/main-dance/main-dance__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-dance/main-dance__row-small.shtml"-->
+  </div>
+
+  <div class="main-dance__row">
+    <!--#include virtual="/blocks/main-dance/main-dance__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-dance/main-dance__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-dance/main-dance__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-dance/main-dance__row-small.shtml"-->
+  </div>
+
+
+  <div class="main-dance__more">
+    <!--#include virtual="/blocks/more/more-dance.shtml" -->
+  </div>
+</div>

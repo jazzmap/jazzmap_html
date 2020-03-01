@@ -23,6 +23,7 @@
   <!--#include virtual="/blocks/main-bands.shtml" -->
   <!--#include virtual="/blocks/main-albums.shtml" -->
   <!--#include virtual="/blocks/main-places.shtml" -->
+  <!--#include virtual="/blocks/main-dance.shtml" -->
 
   <!--#include virtual="/blocks/footer.shtml" -->
   </div>
