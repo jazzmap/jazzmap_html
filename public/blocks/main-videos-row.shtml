@@ -8,7 +8,7 @@
 
   <div class="main-videos-row__items">
     <div class="main-videos-row__item">
-      <img src="/images/435x245-1.jpg" class="main-videos-row__item-image">
+      <img src="/images/643x362-1.jpg" class="main-videos-row__item-image">
       <a href="#" class="main-videos-row__item-image-overlay">
         <span class="svgfont red main-videos-row__item-video-icon">
         <!--#include file="/icons/ico20_video.svg"-->
@@ -20,7 +20,7 @@
     </div>
 
     <div class="main-videos-row__item">
-      <img src="/images/435x245-2.jpg" class="main-videos-row__item-image">
+      <img src="/images/643x362-2.jpg" class="main-videos-row__item-image">
       <a href="#" class="main-videos-row__item-image-overlay">
         <span class="svgfont red main-videos-row__item-video-icon">
         <!--#include file="/icons/ico20_video.svg"-->
@@ -32,7 +32,7 @@
     </div>
 
     <div class="main-videos-row__item">
-      <img src="/images/435x245-3.jpg" class="main-videos-row__item-image">
+      <img src="/images/643x362-3.jpg" class="main-videos-row__item-image">
       <a href="#" class="main-videos-row__item-image-overlay">
         <span class="svgfont red main-videos-row__item-video-icon">
         <!--#include file="/icons/ico20_video.svg"-->
