@@ -1,0 +1,25 @@
+<div class="main-places__row-item main-places__row-item-small">
+    <div class="main-places__row-item-small-image">
+      <a href="#">
+        <img src="/images/320x180-1.jpg">
+      </a>
+    </div>
+    <div class="main-places__row-item-small-title">
+      <a href="#">
+        Концертный зал им П. И. Чайковского (Московская филармония)
+      </a>
+    </div>
+    <div class="main-places__row-spacer"></div>
+    <a href="#" class="main-places__row-place">
+      <span class="svgfont black main-places__row-icon main-places__row-icon-place">
+      <!--#include file="/icons/ico20_location.svg"-->
+      </span>
+      Москва, Триумфальная площадь,&nbsp;4
+    </a>
+    <div class="main-places__row-date">
+      <span class="svgfont black main-places__row-icon">
+      <!--#include file="/icons/ico20_phone.svg"-->
+      </span>
+      <a href="tel:+7-916-111-22-33">+7-916-111-22-33</a>
+    </div>
+</div>

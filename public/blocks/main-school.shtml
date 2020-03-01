@@ -1,0 +1,19 @@
+<div class="main-school main-content">
+  <div class="main-text">
+    <div class="main-text__header">
+      Куда пойти
+      <span class="main-text__header_red">учиться</span>
+    </div>
+  </div>
+
+  <div class="main-school__row">
+    <!--#include virtual="/blocks/main-school/main-school__row-item-small.shtml"-->
+    <!--#include virtual="/blocks/main-school/main-school__row-item-small.shtml"-->
+    <!--#include virtual="/blocks/main-school/main-school__row-item-small.shtml"-->
+    <!--#include virtual="/blocks/main-school/main-school__row-item-small.shtml"-->
+  </div>
+
+  <div class="main-school__more">
+    <!--#include virtual="/blocks/more/more-school.shtml" -->
+  </div>
+</div>
