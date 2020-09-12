@@ -11,9 +11,11 @@ $main-videos-row-image-width: 435px;
 }
 
 .main-videos-row__item {
-  width: $main-videos-row-image-width;
+  max-width: $main-videos-row-image-width;
+  overflow: hidden;
   position: relative;
   border-left: 1px solid color('white');
+  flex: 1;
 }
 
 .main-videos-row__item-image {

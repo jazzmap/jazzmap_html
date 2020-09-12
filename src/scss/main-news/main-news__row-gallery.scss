@@ -39,15 +39,18 @@ $main-news__row-gallery-image-height: 317px;
 }
 
 .main-news__row-gallery-row {
-  margin-top: 1px;
   font-size: 0;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
 }
 
 .main-news__row-gallery-row-image {
+  margin-top: 1px;
   width: 140px;
   height: 106px;
 }
 
 .main-news__row-gallery-row-image + .main-news__row-gallery-row-image {
-  margin-left: 1px;
+  //margin-left: 1px;
 }

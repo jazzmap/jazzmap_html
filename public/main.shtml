@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jazzmap</title>
+
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <div class="icon-ico20_about"></div>
+  <div class="main">
+  <!--#include virtual="/blocks/header.shtml" -->
+
+  <!--#include virtual="/blocks/main-event.shtml" -->
+  <!--#include virtual="/blocks/main-text.shtml" -->
+  <!--#include virtual="/blocks/main-videos-row.shtml" -->
+  <!--#include virtual="/blocks/main-news.shtml" -->
+  <!--#include virtual="/blocks/main-calendar.shtml" -->
+  <!--#include virtual="/blocks/main-events.shtml" -->
+  <!--#include virtual="/blocks/main-fests.shtml" -->
+  <!--#include virtual="/blocks/main-bands.shtml" -->
+  <!--#include virtual="/blocks/main-albums.shtml" -->
+  <!--#include virtual="/blocks/main-places.shtml" -->
+  <!--#include virtual="/blocks/main-dance.shtml" -->
+  <!--#include virtual="/blocks/main-school.shtml" -->
+
+  <!--#include virtual="/blocks/footer.shtml" -->
+  </div>
+
+</body>
+</html>
