@@ -1,0 +1,18 @@
+.tag-cloud {
+  display: flex;
+  margin: -10px 0 0 -10px;
+  flex-wrap: wrap;
+}
+
+.tag-cloud__item {
+  @include font('18px');
+  background-color: color('black');
+  color: color('white');
+  padding: 0 (30px / 2);
+  height: 30px;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  margin: 10px 0 0 10px;
+  white-space: nowrap;
+}

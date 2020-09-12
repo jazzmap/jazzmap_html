@@ -15,4 +15,9 @@
       fill: color('white');
     }
   }
+  &.gray {
+    svg {
+      fill: color('grayTextOnBlack');
+    }
+  }
 }

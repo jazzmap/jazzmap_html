@@ -1,0 +1,50 @@
+.page-title {
+  background-color: color('page-title');
+  padding: 40px 30px;
+  display: flex;
+  align-items: center;
+}
+
+.page-title__content {
+  flex: 1;
+}
+
+.page-title__content-title {
+  @include font('44px bold');
+
+}
+
+.page-title__content-title-red {
+  color: color('red');
+}
+
+.page-title__content-search {
+  padding: 30px 0;
+}
+
+.page-title__content-search-input {
+  @include font('22px');
+  color: color('black');
+  padding: 0 40px 0 20px;
+  height: 50px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.page-title__content-search-input-icon {
+  position: absolute;
+  margin: (50px / 2 - 20px / 2) 0 0 -30px;
+}
+
+.page-title__banner {
+  &:before {
+    content: "Banner, 240x240";
+    font-size: 32px;
+    color: white;
+  }
+  align-self: flex-start;
+  background-color: gray;
+  height: 240px;
+  width: 240px;
+  margin-left: 30px;
+}

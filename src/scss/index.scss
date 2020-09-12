@@ -20,6 +20,8 @@
 @import 'main-text/main-text';
 @import 'main-videos-row/main-videos-row';
 @import 'more-button/more-button';
+@import 'page-title/page-title';
+@import 'tag-cloud/tag-cloud';
 
 html, body {
   color: black;
@@ -27,5 +29,14 @@ html, body {
   padding: 0;
   margin: 0;
 
-  font: normal normal normal 14px Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  font: normal normal normal 14px Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+textarea:focus, input:focus{
+  outline: none;
+}
+
+form {
+  margin: 0;
+  padding: 0;
 }
