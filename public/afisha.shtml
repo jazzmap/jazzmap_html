@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--#include virtual="/blocks/system-header.shtml" -->
+  <title>Jazzmap: Афиша</title>
+</head>
+<body>
+<div class="main">
+  <!--#include virtual="/blocks/header.shtml" -->
+</div>
+</body>
+</html>

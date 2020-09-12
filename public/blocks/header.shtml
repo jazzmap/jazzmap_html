@@ -41,10 +41,10 @@
   </div>
 </div>
 <div class="header-menu">
-  <a href="#" class="header-menu__item">Афиша джаза</a>
+  <a href="#" class="header-menu__item header-menu__item_selected">Афиша джаза</a>
   <a href="#" class="header-menu__item">Клубы</a>
   <a href="#" class="header-menu__item">Джазмены</a>
-  <a href="#" class="header-menu__item header-menu__item_selected">Стили</a>
+  <a href="#" class="header-menu__item">Стили</a>
   <a href="#" class="header-menu__item">Jazz-Блог</a>
   <a href="#" class="header-menu__item">Инструменты</a>
   <a href="#" class="header-menu__item">Обучение</a>
