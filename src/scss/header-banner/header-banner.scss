@@ -1,0 +1,10 @@
+.header-banner {
+  &:before {
+    content: "Banner, H=90px";
+    color: white;
+    font-size: 64px;
+  }
+  background-color: gray;
+  height: 90px;
+  margin-bottom: 8px;
+}

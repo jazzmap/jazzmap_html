@@ -1,3 +1,7 @@
+<div class="header-banner">
+
+</div>
+
 <div class="header">
   <a href="#" class="header__logo"><img src="/icons/logo.svg"></a>
   <div class="header__title">
