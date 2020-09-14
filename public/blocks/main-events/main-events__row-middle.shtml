@@ -1,8 +1,0 @@
-<div class="main-events__row-item main-events__row-middle">
-  <div class="main-events__row-middle-image">
-    <img src="/images/648x430-2.jpg">
-  </div>
-  <div class="main-events__row-middle-image-overlay"></div>
-
-  <!--#include file="/blocks/event-box-description/event-box-description-month.shtml"-->
-</div>

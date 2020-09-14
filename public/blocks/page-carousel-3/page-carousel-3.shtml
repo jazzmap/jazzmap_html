@@ -7,9 +7,7 @@
   </div>
 
   <div class="page-carousel-3__images">
-    <div class="page-carousel-3__image page-carousel-3__image_current">
-      <img src="/images/648x430-1.jpg">
-    </div>
+  <!--#include file="/blocks/main-box/main-box-middle.shtml"-->
   </div>
 
 </div>
