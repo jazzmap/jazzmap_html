@@ -8,6 +8,7 @@
 <div class="main">
   <!--#include virtual="/blocks/header.shtml" -->
   <!--#include virtual="/blocks/page-title/page-title.shtml" -->
+  <!--#include virtual="/blocks/page-title-intro/page-title-intro.shtml" -->
 
 </div>
 </body>

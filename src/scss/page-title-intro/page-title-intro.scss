@@ -1,0 +1,32 @@
+.page-title-intro {
+  margin: 50px 60px 0 30px;
+  background-color: color('white');
+  display: flex;
+  align-items: center;
+}
+
+.page-title-intro__icon {
+  align-self: flex-start;
+  svg {
+    height: 220px;
+    width: 220px;
+  }
+}
+
+.page-title-intro__text {
+  padding-left: 30px;
+  @include font('22px');
+  color: color('666666');
+
+  p {
+    &:first-child {
+      margin-block-start: 0;
+    }
+    margin-block-start: 20px;
+    margin-block-end: 0;
+  }
+
+  a {
+    color: color('black');
+  }
+}

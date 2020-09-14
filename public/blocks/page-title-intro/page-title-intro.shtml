@@ -1,0 +1,11 @@
+<div class="page-title-intro">
+  <div class="svgfont black page-title-intro__icon">
+    <!--#include file="/icons/ico20_afisha.svg"-->
+  </div>
+  <div class="page-title-intro__text">
+    <p>Jazzmap.ru - авторский проект, афиша и новости московского джаза. Прежде всего, мы хотели точно и полно ответить на вопрос "<strong>Где послушать лучший джаз в Москве</strong>", и рассказать о наиболее ярких и заслуживающих внимания <a href="https://www.jazzmap.ru/bands/russian-jazzmen">русских джазовых музыкантах</a>.
+    </p>
+    <p>На сайте вы найдете актуальные&nbsp;<a href="/festivals/">анонсы столичных фестивалей</a>&nbsp;и самых интересных&nbsp;<a href="/afisha/">вечерних джазовых и блюзовых концертов</a>.
+    </p>
+  </div>
+</div>
