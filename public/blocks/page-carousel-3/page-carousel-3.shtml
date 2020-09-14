@@ -1,0 +1,15 @@
+<div class="page-carousel-3">
+  <div class="page-carousel-3__header">
+    <span class="svgfont red page-carousel-3__header-icon">
+      <!--#include file="/icons/ico20_award.svg"-->
+    </span>
+    <span class="page-carousel-3__header-text">Лучшие события месяца</span>
+  </div>
+
+  <div class="page-carousel-3__images">
+    <div class="page-carousel-3__image page-carousel-3__image_current">
+      <img src="/images/648x430-1.jpg">
+    </div>
+  </div>
+
+</div>

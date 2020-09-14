@@ -16,33 +16,3 @@
 .main-events__row-small-image {
   font-size: 0;
 }
-
-.main-events__row-small-title {
-  @include font('22px bold');
-  margin: 20px 30px 14px;
-}
-
-.main-events__row-spacer {
-  flex: 1;
-}
-
-.main-events__row-place {
-  margin: 20px 30px 0 60px;
-  text-transform: uppercase;
-  @include font('14px bold');
-}
-
-.main-events__row-date {
-  margin: 20px 30px 0;
-  text-transform: uppercase;
-  @include font('14px bold');
-}
-
-.main-events__row-icon {
-  margin-right: 10px;
-  font-size: 0;
-}
-
-.main-events__row-icon-place {
-  margin-left: -30px;
-}

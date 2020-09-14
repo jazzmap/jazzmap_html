@@ -9,6 +9,7 @@
   <!--#include virtual="/blocks/header.shtml" -->
   <!--#include virtual="/blocks/page-title/page-title.shtml" -->
   <!--#include virtual="/blocks/page-title-intro/page-title-intro.shtml" -->
+  <!--#include virtual="/blocks/page-carousel-3/page-carousel-3.shtml" -->
 
 </div>
 </body>

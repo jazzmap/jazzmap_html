@@ -1,0 +1,19 @@
+.page-carousel-3 {
+  margin-top: 50px;
+}
+
+.page-carousel-3__header {
+  @include font('30px bold');
+  text-align: center;
+}
+
+.page-carousel-3__header-icon {
+  svg {
+    height: 28px;
+    width: 28px;
+  }
+}
+
+.page-carousel-3__header-text {
+  vertical-align: middle;
+}

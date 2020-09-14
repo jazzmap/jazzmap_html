@@ -1,26 +1,8 @@
 <div class="main-events__row-item main-events__row-middle">
-    <div class="main-events__row-middle-image">
-      <img src="/images/648x430-2.jpg">
-    </div>
-    <div class="main-events__row-middle-image-overlay"></div>
-    <div class="main-events__row-middle-image-description">
-      <a href="#" class="main-events__row-spacer"></a>
-      <div class="main-events__row-middle-title">
-        <a href="#">
-          JAZZ-январь в Коломенском 2020 - концерты 4, 5 6 и 7 января
-        </a>
-      </div>
-      <a href="#" class="main-events__row-place">
-        <span class="svgfont white main-events__row-icon main-events__row-icon-place">
-        <!--#include file="/icons/ico20_location.svg"-->
-        </span>
-        Концертный зал им П. И. Чайковского (Московская филармония)
-      </a>
-      <div class="main-events__row-date">
-        <span class="svgfont white main-events__row-icon">
-        <!--#include file="/icons/ico20_date.svg"-->
-        </span>
-        январь, 2020
-      </div>
-    </div>
+  <div class="main-events__row-middle-image">
+    <img src="/images/648x430-2.jpg">
+  </div>
+  <div class="main-events__row-middle-image-overlay"></div>
+
+  <!--#include file="/blocks/event-box-description/event-box-description-month.shtml"-->
 </div>
