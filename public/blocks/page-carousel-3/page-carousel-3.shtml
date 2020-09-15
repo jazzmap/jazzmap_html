@@ -7,7 +7,20 @@
   </div>
 
   <div class="page-carousel-3__images">
-  <!--#include file="/blocks/main-box/main-box-middle.shtml"-->
+    <div class="page-carousel-3__images-1">
+      <!--#include file="/blocks/main-box/main-box-middle.shtml"-->
+    </div>
+    <div class="page-carousel-3__images-2">
+      <a href="#" class="svgfont black page-carousel-3__images-2-left-icon">
+      <!--#include file="/icons/scroll_l_t.svg"-->
+      </a>
+      <a href="#" class="svgfont black page-carousel-3__images-2-right-icon">
+      <!--#include file="/icons/scroll_r_t.svg"-->
+      </a>
+    <!--#include file="/blocks/main-box/main-box-middle.shtml"-->
+    </div>
+    <div class="page-carousel-3__images-3">
+    <!--#include file="/blocks/main-box/main-box-middle.shtml"-->
+    </div>
   </div>
-
 </div>

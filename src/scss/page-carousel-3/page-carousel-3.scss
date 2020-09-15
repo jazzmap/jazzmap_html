@@ -17,3 +17,59 @@
 .page-carousel-3__header-text {
   vertical-align: middle;
 }
+
+.page-carousel-3__images {
+  margin-top: 20px;
+  position: relative;
+}
+
+.page-carousel-3__images-1, .page-carousel-3__images-2, .page-carousel-3__images-3 {
+  position: absolute;
+  z-index: 0;
+}
+
+.page-carousel-3__images-1, .page-carousel-3__images-3 {
+  top: (430px / 2 - 330px / 2);
+  .main-box-middle {
+    height: 330px;
+    width: 500px;
+  }
+  .event-box-description__title {
+    font-size: 70%;
+  }
+}
+
+.page-carousel-3__images-1 {
+  .event-box-description {
+    padding-right: calc(30% + 20px);
+  }
+  left: 0;
+}
+
+.page-carousel-3__images-2 {
+  left: calc(50% - (648px / 2));
+  z-index: 1;
+  top: 0;
+  box-shadow: 0px 0px 2px 0px rgba(255, 255, 255, .5);
+}
+
+.page-carousel-3__images-3 {
+  .event-box-description {
+    padding-left: 30%;
+  }
+  right: 0;
+}
+
+.page-carousel-3__images-2-left-icon {
+  position: absolute;
+  top: 50%;
+  left: -15px;
+  z-index: 3;
+}
+
+.page-carousel-3__images-2-right-icon {
+  position: absolute;
+  top: 50%;
+  right: -15px;
+  z-index: 3;
+}
