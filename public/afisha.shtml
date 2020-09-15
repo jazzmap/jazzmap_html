@@ -7,10 +7,13 @@
 <body>
 <div class="main">
   <!--#include virtual="/blocks/header.shtml" -->
+
   <!--#include virtual="/blocks/page-title/page-title.shtml" -->
   <!--#include virtual="/blocks/page-title-intro/page-title-intro.shtml" -->
   <!--#include virtual="/blocks/page-carousel-3/page-carousel-3.shtml" -->
+  <!--#include virtual="/blocks/main-calendar.shtml" -->
 
+  <!--#include virtual="/blocks/footer.shtml" -->
 </div>
 </body>
 </html>

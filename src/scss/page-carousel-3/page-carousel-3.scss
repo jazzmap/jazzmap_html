@@ -23,7 +23,7 @@
   position: relative;
 }
 
-.page-carousel-3__images-1, .page-carousel-3__images-2, .page-carousel-3__images-3 {
+.page-carousel-3__images-1, .page-carousel-3__images-3 {
   position: absolute;
   z-index: 0;
 }
@@ -47,9 +47,10 @@
 }
 
 .page-carousel-3__images-2 {
+  display: inline-block;
+  position: relative;
   left: calc(50% - (648px / 2));
   z-index: 1;
-  top: 0;
   box-shadow: 0px 0px 2px 0px rgba(255, 255, 255, .5);
 }
 
