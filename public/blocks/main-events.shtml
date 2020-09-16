@@ -10,34 +10,11 @@
     <!--#include virtual="/blocks/main-box/main-box-big.shtml"-->
   </div>
 
-  <div class="main-events__big">
-    <img class="main-events__image" src="/images/1306x430-1.jpg">
-    <div class="main-events__image-overlay"></div>
-    <div class="main-events__description">
-      <a class="main-events__description-link" href="#">
-        <div class="main-events__description-title">Музыкальная гостиная. Наталья Скворцова и Трио Андреа Беккаро</div>
-        <div class="main-events__description-place">
-          <span class="svgfont white main-events__description-icon">
-          <!--#include file="/icons/ico20_location.svg"-->
-          </span>
-          Консерватория им. П. И. Чайковского
-        </div>
-        <div class="main-events__description-date">
-          <span class="svgfont white main-events__description-icon">
-          <!--#include file="/icons/ico20_date.svg"-->
-          </span>
-          11 января, 19:00
-        </div>
-      </a>
-    </div>
-  </div>
-
   <div class="main-events__row">
     <!--#include virtual="/blocks/main-box/main-box-small.shtml"-->
     <!--#include virtual="/blocks/main-box/main-box-small.shtml"-->
     <!--#include virtual="/blocks/main-box/main-box-middle.shtml"-->
   </div>
-
 
   <div class="main-events__more">
     <!--#include virtual="/blocks/more/more-events.shtml" -->
