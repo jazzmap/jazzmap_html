@@ -1,0 +1,12 @@
+<div class="main-event">
+  <div class="main-text">
+    <div class="main-text__header">
+      Лучшие события
+      <span class="main-text__header_red">на выходных, 22-24 сентября</span>
+    </div>
+  </div>
+
+  <div class="main-event__title-spacer"></div>
+  <!--#include virtual="/blocks/main-event/main-event__title.shtml" -->
+  <!--#include virtual="/blocks/main-event/main-event__list.shtml" -->
+</div>

@@ -1,0 +1,29 @@
+<div class="main-event__title">
+  <img class="main-event__image" src="/images/1366x700-1.jpg">
+  <div class="main-event__image-overlay">
+    <a href="#" class="svgfont black main-event__image-overlay-left-icon">
+    <!--#include file="/icons/scroll_l_t.svg"-->
+    </a>
+    <a href="#" class="svgfont black main-event__image-overlay-right-icon">
+    <!--#include file="/icons/scroll_r_t.svg"-->
+    </a>
+  </div>
+  <div class="main-event__description">
+    <a class="main-event__description-link" href="#">
+      <div class="main-event__description-title">Музыкальная гостиная. Наталья Скворцова и Трио Андреа Беккаро</div>
+      <div class="main-event__description-intro">Большой зал консерватории превратится в крышу вечернего небоскреба на Манхэттене! Представьте, ночь сменяется утренним заревом, освещающим крыши рядом стоящих зданий. Музыка звучит над городом и мы вместе с оркестром провожаем вечер и встречаем рассвет с высоты небоскребов Нью-Йорка.</div>
+      <div class="main-event__description-place">
+        <span class="svgfont white main-event__description-place-icon">
+        <!--#include file="/icons/ico20_location.svg"-->
+        </span>
+        Консерватория им. П. И. Чайковского
+      </div>
+      <div class="main-event__description-date">
+        <span class="svgfont white main-event__description-date-icon">
+        <!--#include file="/icons/ico20_date.svg"-->
+        </span>
+        11 января, 19:00
+      </div>
+    </a>
+  </div>
+</div>

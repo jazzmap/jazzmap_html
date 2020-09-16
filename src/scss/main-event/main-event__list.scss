@@ -1,4 +1,4 @@
-.main-event-list {
+.main-event__list {
   margin-top: -60px;
   position: relative;
   z-index: 1;
@@ -7,20 +7,20 @@
   justify-content: center;
 }
 
-.main-event-list__more {
+.main-event__list-more {
   position: absolute;
   left: 0px;
   padding-top: 70px;
 }
 
-.main-event-list__images {
+.main-event__list-images {
   border-spacing: 0px;
   border-collapse: collapse;
   display: flex;
   justify-content: center;
 }
 
-.main-event-list__images-image {
+.main-event__list-images-image {
   width: 120px;
   height: 120px;
   border: 5px solid transparent;
@@ -28,7 +28,7 @@
   font-size: 0;
 }
 
-.main-event-list__images-image_selected {
+.main-event__list-images-image_selected {
   width: 120px;
   height: 120px;
   position: absolute;

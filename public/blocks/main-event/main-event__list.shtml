@@ -1,0 +1,13 @@
+<div class="main-event__list">
+  <div class="main-event__list-more">
+    <!--#include virtual="/blocks/more/more-events-weekend.shtml" -->
+  </div>
+
+  <div class="main-event__list-images">
+    <div class="main-event__list-images-image_selected"></div>
+    <a href="#"><img class="main-event__list-images-image" src="/images/120x120-1.jpg"></a>
+    <a href="#"><img class="main-event__list-images-image" src="/images/120x120-2.jpg"></a>
+    <a href="#"><img class="main-event__list-images-image" src="/images/120x120-3.jpg"></a>
+    <a href="#"><img class="main-event__list-images-image" src="/images/120x120-4.jpg"></a>
+  </div>
+</div>

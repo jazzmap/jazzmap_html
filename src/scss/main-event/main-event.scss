@@ -1,11 +1,16 @@
 @import 'main-event__description';
 @import 'main-event__image';
+@import 'main-event__list';
 
-.main-event {
+.main-event__title {
   height: 700px;
 
   display: flex;
   flex-flow: column;
   justify-content: flex-end;
   position: relative;
+}
+
+.main-event__title-spacer {
+  height: 20px;
 }
