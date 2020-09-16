@@ -1,0 +1,30 @@
+.main-box-big {
+  position: relative;
+  height: 430px;
+  width: 1306px;
+  display: flex;
+  flex-flow: column;
+  justify-content: flex-end;
+  overflow: hidden;
+  color: color('white');
+  @include font('66px bold');
+
+  a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+  }
+}
+
+.main-box-big__image {
+  background-color: color('black');
+  height: 430px;
+  position: absolute;
+}
+
+.main-box-big__image-overlay {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(rgba(0,0,0,0), #000);
+}

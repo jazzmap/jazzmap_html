@@ -6,6 +6,10 @@
     </div>
   </div>
 
+  <div class="main-events__row">
+    <!--#include virtual="/blocks/main-box/main-box-big.shtml"-->
+  </div>
+
   <div class="main-events__big">
     <img class="main-events__image" src="/images/1306x430-1.jpg">
     <div class="main-events__image-overlay"></div>
@@ -29,8 +33,8 @@
   </div>
 
   <div class="main-events__row">
-    <!--#include virtual="/blocks/main-events/main-events__row-small.shtml"-->
-    <!--#include virtual="/blocks/main-events/main-events__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-box/main-box-small.shtml"-->
+    <!--#include virtual="/blocks/main-box/main-box-small.shtml"-->
     <!--#include virtual="/blocks/main-box/main-box-middle.shtml"-->
   </div>
 

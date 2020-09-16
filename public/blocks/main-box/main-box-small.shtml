@@ -1,5 +1,5 @@
-<div class="main-events__row-item main-events__row-small">
-    <div class="main-events__row-small-image">
+<div class="main-box-small">
+    <div class="main-box-small__image">
       <a href="#">
         <img src="/images/320x180-1.jpg">
       </a>

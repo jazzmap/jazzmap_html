@@ -1,0 +1,6 @@
+<div class="main-box-big">
+  <img class="main-box-big__image" src="/images/1306x430-1.jpg">
+  <div class="main-box-big__image-overlay"></div>
+
+  <!--#include file="/blocks/event-box-description/event-box-description-month.shtml"-->
+</div>

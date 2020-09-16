@@ -1,8 +1,7 @@
-.main-events__row-small {
+.main-box-small {
   background-color: color('ededed');
   height: 430px;
   width: 320px;
-  padding-bottom: 20px;
   box-sizing: border-box;
   overflow: hidden;
   display: flex;
@@ -13,6 +12,6 @@
   }
 }
 
-.main-events__row-small-image {
+.main-box-small__image {
   font-size: 0;
 }

@@ -1,8 +1,7 @@
-.main-events__row-middle {
+.main-box-middle {
   background-color: color('ededed');
   height: 430px;
   width: 648px;
-  padding-bottom: 20px;
   box-sizing: border-box;
   overflow: hidden;
   display: flex;
@@ -10,18 +9,22 @@
   a {
     text-decoration: none;
     color: inherit;
+    display: block;
   }
   position: relative;
+
+  color: color('white');
+  @include font('36px bold');
 }
 
-.main-events__row-middle-image {
+.main-box-middle__image {
   position: absolute;
   height: 100%;
   width: 100%;
   font-size: 0;
 }
 
-.main-events__row-middle-image-overlay {
+.main-box-middle__image-overlay {
   position: absolute;
   height: 100%;
   width: 100%;
