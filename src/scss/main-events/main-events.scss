@@ -10,3 +10,8 @@
   margin-top: 20px;
   justify-content: space-between;
 }
+
+.main-events__row + .main-events__row {
+  margin-top: 8px;
+}
+
