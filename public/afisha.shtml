@@ -13,6 +13,7 @@
   <!--#include virtual="/blocks/page-carousel-3/page-carousel-3.shtml" -->
   <!--#include virtual="/blocks/main-calendar.shtml" -->
   <!--#include virtual="/blocks/afisha-main/afisha-main-today.shtml" -->
+  <!--#include virtual="/blocks/afisha-main/afisha-main-tomorrow.shtml" -->
 
   <!--#include virtual="/blocks/footer.shtml" -->
 </div>
