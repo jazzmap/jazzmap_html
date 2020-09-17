@@ -8,6 +8,7 @@
 @import 'event-box-description/event-box-description';
 @import 'header-banner/header-banner';
 @import 'header/header';
+@import 'afisha-all-events/afisha-all-events';
 @import 'main-albums/main-albums';
 @import 'main-bands/main-bands';
 @import 'main-box/main-box-big';
@@ -45,4 +46,8 @@ textarea:focus, input:focus{
 form {
   margin: 0;
   padding: 0;
+}
+
+a {
+  color: inherit;
 }

@@ -16,6 +16,7 @@
   <!--#include virtual="/blocks/afisha-main/afisha-main-tomorrow.shtml" -->
   <!--#include virtual="/blocks/afisha-main/afisha-main-event.shtml" -->
   <!--#include virtual="/blocks/main-fests.shtml" -->
+  <!--#include virtual="/blocks/afisha-all-events/afisha-all-events.shtml" -->
 
   <!--#include virtual="/blocks/footer.shtml" -->
 </div>

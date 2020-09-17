@@ -1,0 +1,14 @@
+<div class="event-box-description">
+  <a href="#" class="event-box-description__place">
+    <span class="svgfont white event-box-description__place-icon">
+    <!--#include file="/icons/ico20_location.svg"-->
+    </span>
+    Концертный зал им П. И. Чайковского (Московская филармония)
+  </a>
+  <div class="event-box-description__date">
+    <span class="svgfont white event-box-description__date-icon">
+    <!--#include file="/icons/ico20_metro.svg"-->
+    </span>
+    Новокузнецкая
+  </div>
+</div>

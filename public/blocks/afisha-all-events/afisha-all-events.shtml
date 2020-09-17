@@ -1,0 +1,95 @@
+<div class="afisha-all-events main-content">
+
+  <div class="afisha-all-events__row">
+    <div class="afisha-all-events__middle">
+      <a href="#">
+      <img src="/images/648x430-2.jpg">
+      <div class="afisha-all-events__middle-overlay"></div>
+      </a>
+      <div class="afisha-all-events__middle-description">
+        <!--#include file="/blocks/event-box-description/event-box-description-place.shtml"-->
+      </div>
+    </div>
+
+    <div class="afisha-all-events__small">
+      <a href="#">
+        <img src="/images/422x317-1.jpg">
+      </a>
+    </div>
+
+    <div class="afisha-all-events__middle">
+      <a href="#">
+      <img src="/images/648x430-4.jpg">
+      <div class="afisha-all-events__middle-overlay"></div>
+      </a>
+      <div class="afisha-all-events__middle-description">
+        <!--#include file="/blocks/event-box-description/event-box-description-place.shtml"-->
+      </div>
+    </div>
+
+    <div class="afisha-all-events__small">
+      <a href="#">
+        <img src="/images/422x317-3.jpg">
+      </a>
+    </div>
+  </div>
+
+  <div class="afisha-all-events__row">
+    <div class="afisha-all-events__small">
+      <a href="#">
+        <img src="/images/422x317-3.jpg">
+      </a>
+    </div>
+
+    <div class="afisha-all-events__title">
+      <a href="#" class="afisha-all-events__title-padding">
+        Все события <div class="afisha-all-events__title-white">в джазклубах<br>Санкт-Петербурга</div>
+      </a>
+    </div>
+
+    <div class="afisha-all-events__middle">
+      <a href="#">
+      <img src="/images/648x430-4.jpg">
+      <div class="afisha-all-events__middle-overlay"></div>
+      </a>
+      <div class="afisha-all-events__middle-description">
+        <!--#include file="/blocks/event-box-description/event-box-description-place.shtml"-->
+      </div>
+    </div>
+  </div>
+
+
+  <div class="afisha-all-events__row">
+    <div class="afisha-all-events__small">
+      <a href="#">
+        <img src="/images/422x317-4.jpg">
+      </a>
+    </div>
+
+    <div class="afisha-all-events__middle">
+      <a href="#">
+      <img src="/images/648x430-3.jpg">
+      <div class="afisha-all-events__middle-overlay"></div>
+      </a>
+      <div class="afisha-all-events__middle-description">
+        <!--#include file="/blocks/event-box-description/event-box-description-place.shtml"-->
+      </div>
+    </div>
+
+    <div class="afisha-all-events__small">
+      <a href="#">
+        <img src="/images/422x317-2.jpg">
+      </a>
+    </div>
+
+    <div class="afisha-all-events__middle">
+      <a href="#">
+      <img src="/images/648x430-3.jpg">
+      <div class="afisha-all-events__middle-overlay"></div>
+      </a>
+      <div class="afisha-all-events__middle-description">
+        <!--#include file="/blocks/event-box-description/event-box-description-place.shtml"-->
+      </div>
+    </div>
+  </div>
+</div>
