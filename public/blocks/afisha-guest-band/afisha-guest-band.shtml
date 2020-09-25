@@ -1,0 +1,50 @@
+<div class="afisha-guest-band">
+  <div class="main-text">
+    <div class="main-text__header">
+      Пригласите лучших джазовых и блюзовых музыкантов на
+      <span class="main-text__header_red">торжество, мероприятие, концерт</span>
+    </div>
+  </div>
+
+  <div class="afisha-guest-band__row">
+
+    <div class="afisha-guest-band__title">
+      <a href="#" class="afisha-guest-band__title-padding">
+        Агентство агента<br>пригласите!
+      </a>
+    </div>
+
+    <div class="afisha-guest-band__small">
+      <a href="#">
+        <img src="/images/422x317-3.jpg">
+      </a>
+    </div>
+
+    <div class="afisha-guest-band__small">
+      <a href="#">
+        <img src="/images/422x317-4.jpg">
+      </a>
+    </div>
+  </div>
+
+
+  <div class="afisha-guest-band__row">
+    <div class="afisha-guest-band__small">
+      <a href="#">
+        <img src="/images/422x317-4.jpg">
+      </a>
+    </div>
+
+    <div class="afisha-guest-band__small">
+      <a href="#">
+        <img src="/images/422x317-2.jpg">
+      </a>
+    </div>
+
+    <div class="afisha-guest-band__small">
+      <a href="#">
+        <img src="/images/422x317-1.jpg">
+      </a>
+    </div>
+  </div>
+</div>
