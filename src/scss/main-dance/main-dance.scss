@@ -1,5 +1,6 @@
 @import 'main-dance__row-item-small';
 @import 'main-dance__row-item-middle';
+@import 'main-dance__icon';
 
 .main-dance {
 }
@@ -67,4 +68,8 @@
   display: flex;
   margin-top: 20px;
   justify-content: space-between;
+}
+
+.main-dance__row + .main-dance__row {
+  margin-top: 8px;
 }

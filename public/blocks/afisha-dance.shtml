@@ -1,0 +1,38 @@
+<div class="main-dance main-content">
+  <div class="main-text">
+    <div class="main-text__header">
+      Приглашаем на
+      <span class="main-text__header_red"> джазовые танцы</span>
+    </div>
+  </div>
+
+  <div class="main-dance__icon">
+    <a href="#" class="svgfont black main-dance__icon-icon">
+    <!--#include file="/icons/ico_dance.svg"-->
+    </a>
+    <a href="#" class="main-dance__icon-text">
+      <p>
+        Джазовый танец представляет собой классификацию, включающую в себя широкий диапазон танцевальных стилей. Термин джазовый танец неразрывно связан с понятием танцев в стиле «свинг» и включает в себя: линди хоп, чарльстон, буги-вуги, джиттербаг (как смесь стилей), шэг, бальбоа, блюз.
+      </p>
+    </a>
+  </div>
+
+
+  <div class="main-dance__row">
+    <!--#include virtual="/blocks/main-dance/main-dance__row-middle.shtml"-->
+    <!--#include virtual="/blocks/main-dance/main-dance__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-dance/main-dance__row-small.shtml"-->
+  </div>
+
+  <div class="main-dance__row">
+    <!--#include virtual="/blocks/main-dance/main-dance__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-dance/main-dance__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-dance/main-dance__row-small.shtml"-->
+    <!--#include virtual="/blocks/main-dance/main-dance__row-small.shtml"-->
+  </div>
+
+
+  <div class="main-dance__more">
+    <!--#include virtual="/blocks/more/more-dance.shtml" -->
+  </div>
+</div>

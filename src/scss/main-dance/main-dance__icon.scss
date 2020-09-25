@@ -1,0 +1,24 @@
+.main-dance__icon {
+  display: flex;
+  align-items: center;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.main-dance__icon-icon {
+  z-index: 1;
+}
+
+.main-dance__icon-text {
+  background-color: color('black');
+  background: linear-gradient(90deg, color('black') 30%, color('red') 100%);
+  color: color('white');
+  @include font('22px');
+  height: 140px;
+  margin-left: -80px;
+  padding-left: 80px + 30px;
+  display: flex;
+  align-items: center;
+}
