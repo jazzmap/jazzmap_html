@@ -1,0 +1,74 @@
+.afisha-day {
+  margin-top: 50px;
+}
+
+.afisha-day__header {
+  background-color: color('ededed');
+  @include font('30px bold');
+  text-align: center;
+  padding: 6px;
+}
+
+.afisha-day__header_red {
+  color: color('red');
+}
+
+.afisha-day__list {
+  margin-top: 20px;
+}
+
+.afisha-day__list-event {
+  margin-top: 20px;
+  display: flex;
+}
+
+.afisha-day__list-event-date {
+  @include font('44px bold');
+  background-color: color('ededed');
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 20px;
+  width: 200px;
+  box-sizing: border-box;
+}
+
+.afisha-day__list-event-date-icon {
+  height: 24px;
+  width: 24px;
+  margin-right: 8px;
+  svg {
+    height: 24px;
+    width: 24px;
+  }
+}
+
+.afisha-day__list-event-image {
+  width: 220px;
+  img {
+    float: left;
+  }
+}
+
+.afisha-day__list-event-description {
+  padding-left: 28px;
+  flex: 1;
+}
+
+.afisha-day__list-event-description-title {
+  @include font('22px bold');
+}
+.afisha-day__list-event-description-place, .afisha-day__list-event-description-address, .afisha-day__list-event-description-tags {
+  @include font('18px');
+  display: flex;
+  align-items: center;
+  margin-top: 8px;
+}
+
+.afisha-day__list-event-description-tags {
+  text-transform: lowercase;
+}
+
+.afisha-day__list-event-description-place-icon, .afisha-day__list-event-description-address-icon, .afisha-day__list-event-description-tags-icon {
+  margin-right: 8px;
+}

@@ -1,0 +1,43 @@
+<div class="afisha-day">
+  <div class="afisha-day__header">
+    Сегодня, понедельник, <span class="afisha-day__header_red">28 октября</span>
+  </div>
+
+  <div class="afisha-day__list main-content">
+    <div class="afisha-day__list-event">
+      <div class="afisha-day__list-event-date">
+        <span class="svgfont black afisha-day__list-event-date-icon">
+        <!--#include file="/icons/ico20_date.svg"-->
+        </span>
+        <span>13:30</span>
+      </div>
+      <div class="afisha-day__list-event-image">
+        <img src="/images/220x146-1.jpg">
+      </div>
+      <div class="afisha-day__list-event-description">
+        <div class="afisha-day__list-event-description-title">
+          Андрей Макаревич, Евгений Борец, Полина Касьянова, Сергей Хутас, Давид Ткебучава и Тимофей Хазанов
+        </div>
+        <div class="afisha-day__list-event-description-place">
+          <span class="svgfont black afisha-day__list-event-description-place-icon">
+          <!--#include file="/icons/ico20_location.svg"-->
+          </span>
+          JAM Club Андрея Макаревича
+        </div>
+        <div class="afisha-day__list-event-description-address">
+          <span class="svgfont black afisha-day__list-event-description-address-icon">
+          <!--#include file="/icons/ico20_metro.svg"-->
+          </span>
+          Петровско-Разумовская
+        </div>
+        <div class="afisha-day__list-event-description-tags">
+          <span class="svgfont black afisha-day__list-event-description-tags-icon">
+          <!--#include file="/icons/ico20_tags.svg"-->
+          </span>
+          Саксофон, Гитара, Рояль, Вокал, Ударные, Контрабас, Композитор, Блюз, Свинг, Мейнстрим
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
