@@ -1,0 +1,10 @@
+<div class="afisha-day-more">
+  <a href="#" class="afisha-day-more__text">
+    <span class="svgfont white afisha-day-more__text-icon">
+    <!--#include file="/icons/ico20_more.svg"-->
+    </span>
+    <span>
+      Показать ещё
+    </span>
+  </a>
+</div>

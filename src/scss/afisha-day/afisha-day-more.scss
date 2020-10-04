@@ -1,0 +1,20 @@
+.afisha-day-more {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.afisha-day-more__text {
+  display: inline-flex;
+  background-color: color('red');
+  color: color('white');
+  text-decoration: none;
+  text-transform: uppercase;
+  @include font('14px bold');
+  padding: 6px 16px;
+  border-radius: 3px;
+  align-items: center;
+}
+
+.afisha-day-more__text-icon {
+  margin-right: 6px;
+}
