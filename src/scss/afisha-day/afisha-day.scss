@@ -23,14 +23,20 @@
 }
 
 .afisha-day__list-event-date {
-  @include font('44px bold');
+  padding: 0 20px;
+  width: 200px;
+  box-sizing: border-box;
   background-color: color('ededed');
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 0 20px;
-  width: 200px;
-  box-sizing: border-box;
+  flex-flow: column;
+}
+
+.afisha-day__list-event-date-time {
+  @include font('44px bold');
+  display: flex;
+  align-items: center;
 }
 
 .afisha-day__list-event-date-icon {
@@ -41,6 +47,29 @@
     height: 24px;
     width: 24px;
   }
+}
+
+.afisha-day__list-event-date-tickets {
+  @include font('14px bold');
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  background-color: color('red');
+  color: color('white');
+  padding: 8px 0;
+  border-radius: 5px;
+  margin-top: 8px;
+  text-decoration: none;
+  width: 100%;
+}
+
+.afisha-day__list-event-date-tickets_free {
+  background-color: color('green');
+}
+
+.afisha-day__list-event-tickets-icon {
+  padding-right: 6px;
 }
 
 .afisha-day__list-event-image {

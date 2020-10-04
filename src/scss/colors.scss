@@ -11,6 +11,7 @@
     'page-title': #e5e5e5,
     '333333': #333333,
     '4d4d4d': #4d4d4d,
+    'green': #4B985E,
   );
 
   @if not map-has-key($colors, $type) {

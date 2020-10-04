@@ -12,6 +12,7 @@
   <!--#include virtual="/blocks/page-carousel-3/page-carousel-3.shtml" -->
   <!--#include virtual="/blocks/afisha-day/afisha-day.shtml" -->
   <!--#include virtual="/blocks/main-calendar.shtml" -->
+  <!--#include virtual="/blocks/afisha-day/afisha-day.shtml" -->
 
   <!--#include virtual="/blocks/afisha-guest-band/afisha-guest-band.shtml" -->
 
