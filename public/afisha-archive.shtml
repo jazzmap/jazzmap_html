@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--#include virtual="/blocks/system-header.shtml" -->
+  <title>Jazzmap: Архив афиши</title>
+</head>
+<body>
+<div class="main">
+  <!--#include virtual="/blocks/header.shtml" -->
+
+  <!--#include virtual="/blocks/page-title/page-title.shtml" -->
+
+  <!--#include virtual="/blocks/afisha-archive/afisha-archive-list.shtml" -->
+  <!--#include virtual="/blocks/afisha-day/afisha-day-more.shtml" -->
+
+  <!--#include virtual="/blocks/main-calendar.shtml" -->
+  <!--#include virtual="/blocks/page-carousel-3/page-carousel-3.shtml" -->
+  <!--#include virtual="/blocks/afisha-guest-band/afisha-guest-band.shtml" -->
+
+  <!--#include virtual="/blocks/footer.shtml" -->
+</div>
+</body>
+</html>

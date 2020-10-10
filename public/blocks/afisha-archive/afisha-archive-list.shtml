@@ -1,0 +1,159 @@
+<div class="afisha-archive-header">
+
+  <a href="#" class="afisha-archive-header__year afisha-archive-header__year_selected">2019</a>
+  <a href="#" class="afisha-archive-header__year">2018</a>
+  <a href="#" class="afisha-archive-header__year">2017</a>
+  <a href="#" class="afisha-archive-header__year">2016</a>
+  <a href="#" class="afisha-archive-header__year">2015</a>
+  <a href="#" class="afisha-archive-header__year">2014</a>
+
+</div>
+
+<div class="afisha-archive-month">
+  <a href="#" class="afisha-archive-month__month">Январь, 2019</a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Игорь Бутман и Московский джазовый оркестр Премьеры осени</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">23.01.2019</div>
+    <div class="afisha-archive-month__event-title">Андрей Макаревич, Евгений Борец, Полина Касьянова, Сергей Хутас, Давид Ткебучава и Тимофей Хазанов</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Творческий вечер семейного дуэта Стаса и Вадима Майнугиных</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Вадим Эйленкриг (труба) и группа Eilenkrig Crew</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Андрей Макаревич, Евгений Борец, Полина Касьянова, Сергей Хутас, Давид Ткебучава и Тимофей Хазанов</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Saturday Night With Alexandra Chernousova</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Midnight Jazz: Квинтет Павла Тимофеева</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Воскресный бранч с джазовым ансамблем Петра Востокова</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Сергей Старостин и Арт-квартет Тима Дорофеева</div>
+  </a>
+</div>
+
+<!---------------------->
+
+<div class="afisha-archive-month">
+  <a href="#" class="afisha-archive-month__month">Февраль, 2019</a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Игорь Бутман и Московский джазовый оркестр Премьеры осени</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">23.01.2019</div>
+    <div class="afisha-archive-month__event-title">Андрей Макаревич, Евгений Борец, Полина Касьянова, Сергей Хутас, Давид Ткебучава и Тимофей Хазанов</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Творческий вечер семейного дуэта Стаса и Вадима Майнугиных</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Вадим Эйленкриг (труба) и группа Eilenkrig Crew</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Андрей Макаревич, Евгений Борец, Полина Касьянова, Сергей Хутас, Давид Ткебучава и Тимофей Хазанов</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Saturday Night With Alexandra Chernousova</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Midnight Jazz: Квинтет Павла Тимофеева</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Воскресный бранч с джазовым ансамблем Петра Востокова</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Сергей Старостин и Арт-квартет Тима Дорофеева</div>
+  </a>
+</div>
+
+<div class="afisha-archive-month">
+  <a href="#" class="afisha-archive-month__month">Март, 2019</a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Игорь Бутман и Московский джазовый оркестр Премьеры осени</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">23.01.2019</div>
+    <div class="afisha-archive-month__event-title">Андрей Макаревич, Евгений Борец, Полина Касьянова, Сергей Хутас, Давид Ткебучава и Тимофей Хазанов</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Творческий вечер семейного дуэта Стаса и Вадима Майнугиных</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Вадим Эйленкриг (труба) и группа Eilenkrig Crew</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Андрей Макаревич, Евгений Борец, Полина Касьянова, Сергей Хутас, Давид Ткебучава и Тимофей Хазанов</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Saturday Night With Alexandra Chernousova</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Midnight Jazz: Квинтет Павла Тимофеева</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Воскресный бранч с джазовым ансамблем Петра Востокова</div>
+  </a>
+
+  <a href="#" class="afisha-archive-month__event">
+    <div class="afisha-archive-month__event-date">22.01.2019</div>
+    <div class="afisha-archive-month__event-title">Сергей Старостин и Арт-квартет Тима Дорофеева</div>
+  </a>
+</div>

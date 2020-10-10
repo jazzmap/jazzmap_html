@@ -1,0 +1,18 @@
+.afisha-archive-header {
+  margin-top: 30px;
+  display: flex;
+
+  border: 1px solid color('ededed');
+  border-left: none;
+  border-right: none;
+}
+
+.afisha-archive-header__year {
+  padding: 12px 20px;
+  @include font('17px bold');
+  text-decoration: none;
+}
+
+.afisha-archive-header__year_selected {
+  border-bottom: 3px solid color('red');
+}

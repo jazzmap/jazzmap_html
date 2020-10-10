@@ -1,0 +1,25 @@
+.afisha-archive-month {
+  margin-top: 20px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid color('ededed');
+}
+
+.afisha-archive-month__month {
+  @include font('30px bold');
+  padding-bottom: 8px;
+  text-decoration: none;
+}
+
+.afisha-archive-month__event {
+  @include font('17px bold');
+  display: flex;
+  align-items: baseline;
+  text-decoration: none;
+  padding-top: 12px;
+}
+
+.afisha-archive-month__event-date {
+  color: color('666666');
+  @include font('14px bold');
+  padding: 0 8px 0 32px;
+}
