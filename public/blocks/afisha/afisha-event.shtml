@@ -1,5 +1,4 @@
 <div class="afisha-event main-content">
-
   <div class="afisha-event__title">
     <div class="afisha-event__title-calendar">
       <!--#include file="/blocks/calendar-day/calendar-day.shtml"-->
@@ -108,5 +107,4 @@
         22 сентября, 13:40
     </div>
   </div>
-
 </div>

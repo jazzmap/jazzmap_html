@@ -1,0 +1,13 @@
+<div class="main-popular-tags">
+
+  <div class="main-text">
+    <div class="main-text__header">
+      Популярные категории
+    </div>
+  </div>
+
+  <div class="main-popular-tags__content">
+    <!--#include file="/blocks/tag-cloud/tag-cloud.shtml"-->
+    <!--#include file="/blocks/content-search/content-search.shtml"-->
+  </div>
+</div>

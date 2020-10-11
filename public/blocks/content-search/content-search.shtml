@@ -1,0 +1,8 @@
+<div class="content-search">
+  <form>
+    <input placeholder="Поиск концерта по названию, дате, площадке" class="content-search__input">
+    <span class="svgfont gray content-search__input-icon">
+      <!--#include file="/icons/ico20_search.svg"-->
+    </span>
+  </form>
+</div>

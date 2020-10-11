@@ -12,7 +12,7 @@
   <!--#include virtual="/blocks/afisha/afisha-related-bands.shtml" -->
   <!--#include virtual="/blocks/afisha/afisha-related-events.shtml" -->
   <!--#include virtual="/blocks/afisha/afisha-place-soon.shtml" -->
-  <!--#include virtual="/blocks/afisha/afisha-popular-tags.shtml" -->
+  <!--#include virtual="/blocks/main-popular-tags/main-popular-tags.shtml" -->
 
   <!--#include virtual="/blocks/afisha-guest-band/afisha-guest-band.shtml" -->
 

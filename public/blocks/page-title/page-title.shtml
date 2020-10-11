@@ -7,26 +7,8 @@
     <div class="page-title__content-title">
       афиша джаза и блюза на ближайший месяц
     </div>
-    <div class="page-title__content-search">
-      <form>
-        <input placeholder="Поиск концерта по названию, дате, площадке" class="page-title__content-search-input">
-        <span class="svgfont gray page-title__content-search-input-icon">
-          <!--#include file="/icons/ico20_search.svg"-->
-        </span>
-      </form>
-    </div>
-
-    <div class="tag-cloud">
-      <div class="tag-cloud__item">Бесплатно</div>
-      <div class="tag-cloud__item">Джазовый вокал</div>
-      <div class="tag-cloud__item">Джазовый вокал</div>
-      <div class="tag-cloud__item">Джазовый вокал</div>
-      <div class="tag-cloud__item">Фестивали</div>
-      <div class="tag-cloud__item">Блюз</div>
-      <div class="tag-cloud__item">Гастроли звёзд</div>
-      <div class="tag-cloud__item">Гастроли звёзд</div>
-      <div class="tag-cloud__item">Пианисты</div>
-    </div>
+    <!--#include file="/blocks/content-search/content-search.shtml"-->
+    <!--#include file="/blocks/tag-cloud/tag-cloud.shtml"-->
   </div>
 
   <div class="page-title__banner"></div>
