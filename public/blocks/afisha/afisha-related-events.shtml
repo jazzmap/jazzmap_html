@@ -1,0 +1,23 @@
+<div class="main-events main-content">
+  <div class="main-text">
+    <div class="main-text__header">
+      Похожие
+      <span class="main-text__header_red">концерты</span>
+    </div>
+  </div>
+
+  <div class="main-events__row">
+    <!--#include virtual="/blocks/main-box/main-box-middle.shtml"-->
+    <!--#include virtual="/blocks/main-box/main-box-middle.shtml"-->
+  </div>
+
+  <div class="main-events__row">
+    <!--#include virtual="/blocks/main-box/main-box-small.shtml"-->
+    <!--#include virtual="/blocks/main-box/main-box-small.shtml"-->
+    <!--#include virtual="/blocks/main-box/main-box-middle.shtml"-->
+  </div>
+
+  <div class="main-events__more">
+    <!--#include virtual="/blocks/more/more-events.shtml" -->
+  </div>
+</div>
