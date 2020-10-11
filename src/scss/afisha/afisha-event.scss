@@ -61,5 +61,33 @@
 }
 
 .afisha-event__header-data-row_tickets {
-  max-width: 160px;
+  margin-top: 20px;
+  width: 160px;
+}
+
+.afisha-event__content {
+  max-width: 850px;
+  margin: 50px auto 0 auto;
+  @include font('20px');
+}
+
+.afisha-event__tickets {
+  max-width: 850px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.afisha-event__tickets-link {
+  width: 160px;
+  margin-right: 20px;
+}
+
+.afisha-event__tickets-date {
+  @include font('17px bold');
+  text-transform: uppercase;
+}
+
+.afisha-event__title-description-time-icon {
+  margin-right: 4px;
 }
