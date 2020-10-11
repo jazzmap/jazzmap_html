@@ -16,7 +16,6 @@
   line-height: 50px;
   @include font('30px bold');
   color: color('white');
-  text-decoration: none;
 }
 
 .main-calendar__header-spacer {
@@ -24,7 +23,6 @@
 }
 
 .main-calendar__header-button {
-  text-decoration: none;
   background-color: color('333333');
   color: color('white');
   height: 30px;

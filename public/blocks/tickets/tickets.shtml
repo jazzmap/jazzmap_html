@@ -1,0 +1,8 @@
+<a href="#" class="tickets">
+  <span class="svgfont white tickets__icon">
+  <!--#include file="/icons/ico20_ticket.svg"-->
+  </span>
+  <span>
+    Купить билеты
+  </span>
+</a>

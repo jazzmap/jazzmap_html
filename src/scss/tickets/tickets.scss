@@ -1,0 +1,21 @@
+.tickets {
+  @include font('14px bold');
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  background-color: color('red');
+  color: color('white');
+  padding: 8px 0;
+  border-radius: 3px;
+  margin-top: 8px;
+  width: 100%;
+}
+
+.tickets_free {
+  background-color: color('green');
+}
+
+.tickets__icon {
+  margin-right: 6px;
+}

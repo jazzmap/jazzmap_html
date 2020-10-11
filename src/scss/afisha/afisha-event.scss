@@ -1,0 +1,32 @@
+.afisha-event__header {
+  background-color: color('page-title');
+  display: flex;
+}
+
+.afisha-event__header-image {
+  img {
+    float: left;
+  }
+}
+
+.afisha-event__header-data {
+  @include font('18px');
+  padding: 10px 20px;
+}
+
+.afisha-event__header-data-row {
+  display: flex;
+  margin-top: 10px;
+}
+
+.afisha-event__header-data-row-text {
+  margin-left: 8px;
+}
+
+.afisha-event__header-data-row-text_bold {
+  @include font('18px bold');
+}
+
+.afisha-event__header-data-row_tickets {
+  max-width: 160px;
+}

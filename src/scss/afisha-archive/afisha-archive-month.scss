@@ -7,14 +7,12 @@
 .afisha-archive-month__month {
   @include font('30px bold');
   padding-bottom: 8px;
-  text-decoration: none;
 }
 
 .afisha-archive-month__event {
   @include font('17px bold');
   display: flex;
   align-items: baseline;
-  text-decoration: none;
   padding-top: 12px;
 }
 

@@ -8,6 +8,7 @@
 @import 'event-box-description/event-box-description';
 @import 'header-banner/header-banner';
 @import 'header/header';
+@import 'afisha/afisha-event';
 @import 'afisha-all-events/afisha-all-events';
 @import 'afisha-archive/afisha-archive-header';
 @import 'afisha-archive/afisha-archive-month';
@@ -34,6 +35,7 @@
 @import 'page-title-intro/page-title-intro';
 @import 'page-title/page-title';
 @import 'tag-cloud/tag-cloud';
+@import 'tickets/tickets';
 
 html, body {
   color: black;
@@ -55,4 +57,5 @@ form {
 
 a {
   color: inherit;
+  text-decoration: none;
 }

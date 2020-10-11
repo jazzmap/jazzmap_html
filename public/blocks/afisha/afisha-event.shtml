@@ -1,0 +1,77 @@
+<div class="afisha-event">
+
+  <div class="afisha-event__title">
+    <div class="afisha-event__title-text">
+      Валерий КИСЕЛЕВ и Ансамбль классического джаза с программой МЕЛОДИИ ГОЛИВУДА 30-50х гг.
+    </div>
+  </div>
+  <div class="afisha-event__header">
+    <div class="afisha-event__header-image"><img src="/images/422x317-4.jpg"></div>
+    <div class="afisha-event__header-data">
+
+      <div class="afisha-event__header-data-row">
+        <div class="afisha-event__header-data-row-icon">
+          <span class="svgfont black">
+            <!--#include file="/icons/ico20_location.svg"-->
+          </span>
+        </div>
+        <div class="afisha-event__header-data-row-text afisha-event__header-data-row-text_bold">
+          Концертный зал им. Чайковского (Московская Филармония)
+        </div>
+      </div>
+
+      <div class="afisha-event__header-data-row">
+        <div class="afisha-event__header-data-row-icon">
+          <span class="svgfont black">
+            <!--#include file="/icons/ico20_metro.svg"-->
+          </span>
+        </div>
+        <div class="afisha-event__header-data-row-text">
+          Сухаревская
+        </div>
+      </div>
+
+      <div class="afisha-event__header-data-row">
+        <div class="afisha-event__header-data-row-icon">
+          <span class="svgfont black">
+            <!--#include file="/icons/ico20_phone.svg"-->
+          </span>
+        </div>
+        <div class="afisha-event__header-data-row-text">
+          <a href="tel:+7-499-555-55-55">+7-498-555-55-55</a>
+        </div>
+      </div>
+
+      <div class="afisha-event__header-data-row">
+        <div class="afisha-event__header-data-row-icon">
+          <span class="svgfont black">
+            <!--#include file="/icons/ico20_musicians.svg"-->
+          </span>
+        </div>
+        <div class="afisha-event__header-data-row-text">
+          Егор Балабанов, Артем Плешков, Иван Авраимов, Фёдор Фабер, Федор Герасимов, Валентин Тетрадов, Анна Кашина, Djangoband, Энтони Карапетян
+        </div>
+      </div>
+
+      <div class="afisha-event__header-data-row">
+        <div class="afisha-event__header-data-row-icon">
+          <span class="svgfont black">
+            <!--#include file="/icons/ico20_tags.svg"-->
+          </span>
+        </div>
+        <div class="afisha-event__header-data-row-text">
+          гитара, труба, рояль, ударные, контрабас, фьюжн
+        </div>
+      </div>
+
+      <div class="afisha-event__header-data-row afisha-event__header-data-row_tickets">
+        <!--#include file="/blocks/tickets/tickets.shtml"-->
+      </div>
+
+    </div>
+
+  </div>
+  <div class="afisha-event__content"></div>
+  <div class="afisha-event__tickets"></div>
+
+</div>

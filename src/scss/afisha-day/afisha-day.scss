@@ -50,26 +50,8 @@
 }
 
 .afisha-day__list-event-date-tickets {
-  @include font('14px bold');
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-transform: uppercase;
-  background-color: color('red');
-  color: color('white');
-  padding: 8px 0;
-  border-radius: 3px;
   margin-top: 8px;
-  text-decoration: none;
   width: 100%;
-}
-
-.afisha-day__list-event-date-tickets_free {
-  background-color: color('green');
-}
-
-.afisha-day__list-event-tickets-icon {
-  margin-right: 6px;
 }
 
 .afisha-day__list-event-image {

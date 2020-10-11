@@ -8,11 +8,6 @@
   overflow: hidden;
   color: color('white');
   @include font('66px bold');
-
-  a {
-    text-decoration: none;
-    color: inherit;
-  }
 }
 
 .main-box-big__image {

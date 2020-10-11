@@ -51,14 +51,9 @@
           </span>
           <span>15:00</span>
         </div>
-        <a href="#" class="afisha-day__list-event-date-tickets">
-          <span class="svgfont white afisha-day__list-event-tickets-icon">
-          <!--#include file="/icons/ico20_ticket.svg"-->
-          </span>
-          <span>
-            Купить билеты
-          </span>
-        </a>
+        <div class="afisha-day__list-event-date-tickets">
+          <!--#include file="/blocks/tickets/tickets.shtml"-->
+        </div>
       </div>
       <div class="afisha-day__list-event-image">
         <img src="/images/220x146-2.jpg">
@@ -98,11 +93,9 @@
           </span>
           <span>20:10</span>
         </div>
-        <a href="#" class="afisha-day__list-event-date-tickets afisha-day__list-event-date-tickets_free">
-          <span>
-            Свободный вход
-          </span>
-        </a>
+        <div class="afisha-day__list-event-date-tickets">
+          <!--#include file="/blocks/tickets/tickets-free.shtml"-->
+        </div>
       </div>
       <div class="afisha-day__list-event-image">
         <img src="/images/220x146-3.jpg">
