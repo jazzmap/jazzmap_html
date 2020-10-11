@@ -19,66 +19,46 @@
     <!--#include file="/icons/scroll_r_t.svg"-->
     </a>
 
-    <a href="#" class="main-calendar__days-day main-calendar__days-day_today">
-      <div class="main-calendar__days-day-header">Понедельник</div>
-      <div class="main-calendar__days-day-date">28</div>
-      <div class="main-calendar__days-day-month">Сентябрь</div>
-    </a>
+    <div class="main-calendar__days-day">
+      <!--#include file="/blocks/calendar-day/calendar-day-current.shtml"-->
+    </div>
 
-    <a href="#" class="main-calendar__days-day">
-      <div class="main-calendar__days-day-header">Вторник</div>
-      <div class="main-calendar__days-day-date">29</div>
-      <div class="main-calendar__days-day-month">Сентябрь</div>
-    </a>
+    <div class="main-calendar__days-day">
+      <!--#include file="/blocks/calendar-day/calendar-day.shtml"-->
+    </div>
 
-    <a href="#" class="main-calendar__days-day">
-      <div class="main-calendar__days-day-header">Среда</div>
-      <div class="main-calendar__days-day-date">30</div>
-      <div class="main-calendar__days-day-month">Сентябрь</div>
-    </a>
+    <div class="main-calendar__days-day">
+      <!--#include file="/blocks/calendar-day/calendar-day.shtml"-->
+    </div>
 
-    <a class="main-calendar__days-day main-calendar__days-day_disabled main-calendar__days-day-month-divider">
-      <div class="main-calendar__days-day-header">Четверг</div>
-      <div class="main-calendar__days-day-date">31</div>
-      <div class="main-calendar__days-day-month">Сентябрь</div>
-    </a>
+    <div class="main-calendar__days-day">
+      <!--#include file="/blocks/calendar-day/calendar-day-disabled.shtml"-->
+    </div>
+
+    <div class="main-calendar__days-day">
+      <!--#include file="/blocks/calendar-day/calendar-day.shtml"-->
+    </div>
+
+    <div class="main-calendar__days-day">
+      <!--#include file="/blocks/calendar-day/calendar-day-weekend.shtml"-->
+    </div>
+
+    <div class="main-calendar__days-day">
+      <!--#include file="/blocks/calendar-day/calendar-day-weekend.shtml"-->
+    </div>
 
 
-    <a href="#" class="main-calendar__days-day">
-      <div class="main-calendar__days-day-header">Пятница</div>
-      <div class="main-calendar__days-day-date">1</div>
-      <div class="main-calendar__days-day-month">Октябрь</div>
-    </a>
+    <div class="main-calendar__days-day">
+      <!--#include file="/blocks/calendar-day/calendar-day.shtml"-->
+    </div>
 
-    <a href="#" class="main-calendar__days-day main-calendar__days-day_weekend">
-      <div class="main-calendar__days-day-header">Суббота</div>
-      <div class="main-calendar__days-day-date">2</div>
-      <div class="main-calendar__days-day-month">Октябрь</div>
-    </a>
+    <div class="main-calendar__days-day">
+      <!--#include file="/blocks/calendar-day/calendar-day.shtml"-->
+    </div>
 
-    <a href="#" class="main-calendar__days-day main-calendar__days-day_weekend">
-      <div class="main-calendar__days-day-header">Воскресенье</div>
-      <div class="main-calendar__days-day-date">3</div>
-      <div class="main-calendar__days-day-month">Октябрь</div>
-    </a>
-
-    <a href="#" class="main-calendar__days-day">
-      <div class="main-calendar__days-day-header">Понедельник</div>
-      <div class="main-calendar__days-day-date">4</div>
-      <div class="main-calendar__days-day-month">Октябрь</div>
-    </a>
-
-    <a href="#" class="main-calendar__days-day">
-      <div class="main-calendar__days-day-header">Вторник</div>
-      <div class="main-calendar__days-day-date">5</div>
-      <div class="main-calendar__days-day-month">Октябрь</div>
-    </a>
-
-    <a href="#" class="main-calendar__days-day">
-      <div class="main-calendar__days-day-header">Среда</div>
-      <div class="main-calendar__days-day-date">6</div>
-      <div class="main-calendar__days-day-month">Октябрь</div>
-    </a>
+    <div class="main-calendar__days-day">
+      <!--#include file="/blocks/calendar-day/calendar-day.shtml"-->
+    </div>
 
   </div>
 

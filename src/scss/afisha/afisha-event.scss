@@ -1,6 +1,39 @@
+.afisha-event {
+  margin-top: 50px;
+}
+
+.afisha-event__title {
+  display: flex;
+}
+
+.afisha-event__title-calendar {
+  border: 1px solid color('grayTextOnBlack');
+}
+
+.afisha-event__title-description-time {
+  @include font('36px bold');
+  margin-left: 30px;
+  > * {
+    vertical-align: baseline;
+  }
+}
+
+.afisha-event__title-description-time-icon {
+  svg {
+    height: 24px;
+    width: 24px;
+  }
+}
+
+.afisha-event__title-text {
+  @include font('44px bold');
+  margin-left: 30px;
+}
+
 .afisha-event__header {
   background-color: color('page-title');
   display: flex;
+  margin-top: 30px;
 }
 
 .afisha-event__header-image {

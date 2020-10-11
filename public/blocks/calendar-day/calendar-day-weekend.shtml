@@ -1,0 +1,5 @@
+<a href="#" class="calendar-day calendar-day_weekend">
+  <div class="calendar-day__header">Воскресенье</div>
+  <div class="calendar-day__date">22</div>
+  <div class="calendar-day__month">Сентябрь</div>
+</a>

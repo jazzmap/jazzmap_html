@@ -1,0 +1,60 @@
+.calendar-day {
+  width: 113px;
+  height: 150px;
+  background-color: color('white');
+  display: block;
+}
+
+.calendar-day__header {
+  height: 40px;
+  line-height: 40px;
+  text-transform: uppercase;
+  color: color('white');
+  background-color: color('333333');
+  text-align: center;
+}
+
+.calendar-day__date {
+  @include font('70px');
+  text-align: center;
+  color: color('black');
+  height: 75px;
+}
+
+.calendar-day__month {
+  text-transform: uppercase;
+  color: color('black');
+  text-align: center;
+}
+
+.calendar-day_current {
+  background-color: color('red');
+  .calendar-day__header {
+    color: color('white');
+    background-color: color('red');
+    border-bottom: 1px solid color('white');
+  }
+  .calendar-day__date {
+    color: color('white');
+  }
+  .calendar-day__month {
+    color: color('white');
+  }
+}
+
+.calendar-day_weekend {
+  .calendar-day__header {
+    color: color('white');
+    background-color: color('red');
+  }
+  .calendar-day__date {
+    color: color('red');
+  }
+  .calendar-day__month {
+    color: color('red');
+  }
+}
+
+.calendar-day_disabled {
+  opacity: 0.3;
+}
