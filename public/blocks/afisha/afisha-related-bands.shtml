@@ -1,0 +1,13 @@
+<div class="afisha-related-bands main-content">
+  <div class="main-text">
+    <div class="main-text__header">
+      Подробнее
+      <span class="main-text__header_red">о музыкантах</span>
+    </div>
+  </div>
+
+  <!--#include virtual="/blocks/afisha/afisha-related-bands-band.shtml"-->
+  <!--#include virtual="/blocks/afisha/afisha-related-bands-band.shtml"-->
+  <!--#include virtual="/blocks/afisha/afisha-related-bands-band.shtml"-->
+
+</div>

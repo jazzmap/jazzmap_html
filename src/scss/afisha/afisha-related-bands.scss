@@ -1,0 +1,103 @@
+.afisha-related-bands__info {
+  display: flex;
+  margin-top: 30px;
+}
+
+.afisha-related-bands__info-data {
+  margin-left: 30px;
+}
+
+.afisha-related-bands__info-data-name {
+  @include font('24px bold');
+  display: inline-block;
+}
+
+.afisha-related-bands__info-data-name_dates {
+  @include font('17px bold');
+}
+
+.afisha-related-bands__info-data-links {
+  margin-top: 16px;
+  display: flex;
+  @include font('17px bold');
+  text-transform: uppercase;
+}
+
+.afisha-related-bands__info-data-links-link {
+  display: flex;
+  align-items: center;
+}
+
+.afisha-related-bands__info-data-links-link-icon {
+  margin-right: 6px;
+}
+
+.afisha-related-bands__info-data-links-link ~ .afisha-related-bands__info-data-links-link {
+  margin-left: 16px;
+}
+
+.afisha-related-bands__info-data-links-intro {
+  margin-top: 16px;
+  @include font('18px');
+  color: color('333333');
+}
+
+.afisha-related-bands__info-data-links-tags {
+  margin-top: 16px;
+  @include font('17px bold');
+}
+
+.afisha-related-bands__info-data-links-tags-icon {
+  margin-right: 6px;
+}
+
+.afisha-related-bands__info-data-links-events {
+  display: flex;
+  margin-top: 16px;
+}
+
+.afisha-related-bands__info-data-links-events-event {
+  color: color('white');
+}
+
+.afisha-related-bands__info-data-links-events-event ~ .afisha-related-bands__info-data-links-events-event {
+  margin-left: 16px;
+}
+
+.afisha-related-bands__info-data-links-events-event-header {
+  background-color: color('red');
+  padding: 4px 0 4px 16px;
+  @include font('18px');
+  text-transform: uppercase;
+}
+
+.afisha-related-bands__info-data-links-events-event-image {
+  position: relative;
+  img {
+    display: flex;
+  }
+}
+
+.afisha-related-bands__info-data-links-events-event-image-overlay {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #000;
+  opacity: .5;
+}
+
+.afisha-related-bands__info-data-links-events-event-image-place {
+  position: absolute;
+  left: 16px;
+  right: 16px;
+  top: 16px;
+  text-transform: uppercase;
+  @include font('18px');
+}
+
+.afisha-related-bands__info ~ .afisha-related-bands__info {
+  border-top: 1px solid color('ededed');
+  padding-top: 30px;
+}

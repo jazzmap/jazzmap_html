@@ -1,0 +1,80 @@
+<div class="afisha-related-bands__info">
+  <div class="afisha-related-bands__info-image">
+    <img src="/images/422x317-1.jpg">
+  </div>
+  <div class="afisha-related-bands__info-data">
+    <div class="afisha-related-bands__info-data-name">Шилклопер - Альперин - Старостин "The Moscow Art Trio"
+      <span class="afisha-related-bands__info-data-name_dates">
+        (1999&ndash;, Великобритания)
+      </span>
+    </div>
+    <div class="afisha-related-bands__info-data-links">
+      <a href="#" class="afisha-related-bands__info-data-links-link">
+        <span class="svgfont red afisha-related-bands__info-data-links-link-icon">
+          <!--#include file="/icons/ico20_label.svg"-->
+        </span>
+        <span>Дискография</span>
+      </a>
+
+      <a href="#" class="afisha-related-bands__info-data-links-link">
+        <span class="svgfont red afisha-related-bands__info-data-links-link-icon">
+          <!--#include file="/icons/ico20_award.svg"-->
+        </span>
+        <span>Награды</span>
+      </a>
+
+      <a href="#" class="afisha-related-bands__info-data-links-link">
+        <span class="svgfont red afisha-related-bands__info-data-links-link-icon">
+          <!--#include file="/icons/ico20_bio.svg"-->
+        </span>
+        <span>Биография</span>
+      </a>
+
+      <a href="#" class="afisha-related-bands__info-data-links-link">
+        <span class="svgfont red afisha-related-bands__info-data-links-link-icon">
+          <!--#include file="/icons/ico20_video.svg"-->
+        </span>
+        <span>Видео</span>
+      </a>
+
+      <a href="#" class="afisha-related-bands__info-data-links-link">
+        <span class="svgfont red afisha-related-bands__info-data-links-link-icon">
+          <!--#include file="/icons/ico20_feedback-m.svg"-->
+        </span>
+        <span>Отзывы</span>
+      </a>
+    </div>
+
+    <div class="afisha-related-bands__info-data-links-intro">
+      The Moscow Art Trio is one of the most exciting new jazz formations. The boundaries between jazz, folk and classical music have become irrelevant or as the critic, Mike Zwerin, wrote in the International Herald Tribune: “Rarely have the frontiers between epochs, Eastern and Western folk music, and jazz and classical music been so gracefully negotiated as by the Moscow Art Trio.’ ‘The personalities of the trio’s members are more important than the instruments they play.”
+    </div>
+
+    <div class="afisha-related-bands__info-data-links-tags">
+      <span class="svgfont black afisha-related-bands__info-data-links-tags-icon">
+        <!--#include file="/icons/ico20_tags.svg"-->
+      </span>
+      гитара, труба, рояль, ударные, контрабас
+    </div>
+
+    <div class="afisha-related-bands__info-data-links-events">
+      <a href="#" class="afisha-related-bands__info-data-links-events-event">
+        <div class="afisha-related-bands__info-data-links-events-event-header">22 сентября, 22:00</div>
+        <div class="afisha-related-bands__info-data-links-events-event-image">
+          <img src="/images/220x146-1.jpg">
+          <div class="afisha-related-bands__info-data-links-events-event-image-overlay"></div>
+          <div class="afisha-related-bands__info-data-links-events-event-image-place">Дворец царя Алексея Михайловича в Коломенском</div>
+        </div>
+      </a>
+
+      <a href="#" class="afisha-related-bands__info-data-links-events-event">
+        <div class="afisha-related-bands__info-data-links-events-event-header">11 февраля, 22:00</div>
+        <div class="afisha-related-bands__info-data-links-events-event-image">
+          <img src="/images/220x146-3.jpg">
+          <div class="afisha-related-bands__info-data-links-events-event-image-overlay"></div>
+          <div class="afisha-related-bands__info-data-links-events-event-image-place">Государственный Кремлевский дворец</div>
+        </div>
+      </a>
+
+    </div>
+  </div>
+</div>
