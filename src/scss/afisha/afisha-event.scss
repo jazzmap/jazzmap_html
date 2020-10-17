@@ -8,11 +8,13 @@
 
 .afisha-event__title-calendar {
   border: 1px solid color('grayTextOnBlack');
+  margin-right: 30px;
 }
 
 .afisha-event__title-description-time {
+  display: flex;
+  align-items: center;
   @include font('36px bold');
-  margin-left: 30px;
   > * {
     vertical-align: baseline;
   }
@@ -25,9 +27,13 @@
   }
 }
 
+.afisha-event__title-description-time-buttons {
+  display: inline-flex;
+  margin-left: 30px;
+}
+
 .afisha-event__title-text {
   @include font('44px bold');
-  margin-left: 30px;
 }
 
 .afisha-event__header {

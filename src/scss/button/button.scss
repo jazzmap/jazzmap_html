@@ -1,0 +1,27 @@
+.button {
+  display: inline-flex;
+  @include font('14px bold');
+  padding: 6px 16px;
+  border-radius: 3px;
+  text-transform: uppercase;
+  align-items: center;
+  height: 32px;
+  box-sizing: border-box;
+}
+
+.button_gray {
+  background-color: color('ededed');
+}
+
+.button_red {
+  background-color: color('red');
+  color: color('white');
+}
+
+.button__text-icon {
+  margin-right: 6px;
+}
+
+.button ~ .button {
+  margin-left: 8px;
+}

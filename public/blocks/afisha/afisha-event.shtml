@@ -1,4 +1,39 @@
 <div class="afisha-event main-content">
+
+  <hr><!--- Архивное событие --->
+
+  <div class="afisha-event__title">
+    <div class="afisha-event__title-description">
+      <div class="afisha-event__title-description-time">
+        <span class="svgfont black afisha-event__title-description-time-icon">
+          <!--#include file="/icons/ico20_date.svg"-->
+        </span>
+        22 сентября 2020
+
+        <span class="afisha-event__title-description-time-buttons">
+          <div class="button button_gray">
+            Событие завершено
+          </div>
+
+          <a href="#" class="button button_red">
+            <span class="svgfont white button__text-icon">
+            <!--#include file="/icons/ico20_search.svg"-->
+            </span>
+            <span>
+              Показать похожие
+            </span>
+          </a>
+        </span>
+      </div>
+      <div class="afisha-event__title-text">
+        Валерий КИСЕЛЕВ и Ансамбль классического джаза с программой МЕЛОДИИ ГОЛИВУДА 30-50х гг.
+      </div>
+    </div>
+  </div>
+
+  <hr><!--- Актуальное событие --->
+
+
   <div class="afisha-event__title">
     <div class="afisha-event__title-calendar">
       <!--#include file="/blocks/calendar-day/calendar-day.shtml"-->
