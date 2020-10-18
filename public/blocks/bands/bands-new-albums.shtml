@@ -1,0 +1,25 @@
+<div class="main-text">
+  <div class="main-text__header">
+    Новые джазовые альбомы
+    <span class="main-text__header_red">зарубежных лейблов</span>
+  </div>
+  <div class="main-text__content">
+    <p>Российский певец Юрий Лоза выразил признательность президенту Владимиру Путину за объявленную благодарность и предложил присвоить ему звание «Заслуженный артист России».</p>
+    <p>Певец удостоился благодарности за заслуги в развитии отечественной культуры и искусства, а также многолетнюю плодотворную деятельность.</p>
+  </div>
+</div>
+
+<div class="main-albums main-content">
+  <div class="main-albums__row">
+    <!--#include virtual="/blocks/main-albums/main-albums__row-item.shtml"-->
+    <!--#include virtual="/blocks/main-albums/main-albums__row-item.shtml"-->
+    <!--#include virtual="/blocks/main-albums/main-albums__row-item.shtml"-->
+    <!--#include virtual="/blocks/main-albums/main-albums__row-item.shtml"-->
+    <!--#include virtual="/blocks/main-albums/main-albums__row-item.shtml"-->
+    <!--#include virtual="/blocks/main-albums/main-albums__row-item.shtml"-->
+  </div>
+
+  <div class="main-albums__more">
+    <!--#include virtual="/blocks/more/more-albums.shtml" -->
+  </div>
+</div>

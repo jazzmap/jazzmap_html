@@ -1,0 +1,25 @@
+<div class="main-text">
+  <div class="main-text__header">
+    Лучшие джазовые альбомы
+    <span class="main-text__header_red">всех времён и народов</span>
+  </div>
+  <div class="main-text__content">
+    <p>Этот полугодовой срез в первую очередь попытка показать, что за вышедшим в тираж словом из четырех букв скрывается сложный и многоуровневый мир импровизационной музыки. В нем причудливым образом переплетаются попытки ревизии прошлого и поиски нового языка, стремление развлекать и умение создавать сложные конструкции, жажда социальной справедливости и внутренний эскапизм. Но, главное, слушать музыку, которую мы по привычке называем «джазом», в 2020-м остается по-прежнему увлекательным и уместным занятием.
+    </p>
+  </div>
+</div>
+
+<div class="main-albums main-content">
+  <div class="main-albums__row">
+    <!--#include virtual="/blocks/main-albums/main-albums__row-item.shtml"-->
+    <!--#include virtual="/blocks/main-albums/main-albums__row-item.shtml"-->
+    <!--#include virtual="/blocks/main-albums/main-albums__row-item.shtml"-->
+    <!--#include virtual="/blocks/main-albums/main-albums__row-item.shtml"-->
+    <!--#include virtual="/blocks/main-albums/main-albums__row-item.shtml"-->
+    <!--#include virtual="/blocks/main-albums/main-albums__row-item.shtml"-->
+  </div>
+
+  <div class="main-albums__more">
+    <!--#include virtual="/blocks/more/more-albums.shtml" -->
+  </div>
+</div>

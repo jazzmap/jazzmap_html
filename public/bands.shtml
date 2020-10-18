@@ -13,6 +13,13 @@
 
   <!--#include virtual="/blocks/bands/bands-categories.shtml" -->
 
+  <!-- Джазмены по времени -->
+
+  <!--#include virtual="/blocks/bands/bands-albums.shtml" -->
+
+  <!-- Джазмены по странам -->
+
+  <!--#include virtual="/blocks/bands/bands-new-albums.shtml" -->
 
   <!--#include virtual="/blocks/page-carousel-3/page-carousel-3.shtml" -->
   <!--#include virtual="/blocks/afisha-guest-band/afisha-guest-band.shtml" -->
