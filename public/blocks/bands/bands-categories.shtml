@@ -1,0 +1,16 @@
+<div class="main-text">
+  <div class="main-text__header">
+    Джазовые
+    <span class="main-text__header_red">рубрики</span>
+  </div>
+</div>
+
+<div class="main-bands-categories main-content">
+  <!--#include file="/blocks/bands/bands-categories-category.shtml"-->
+  <!--#include file="/blocks/bands/bands-categories-category.shtml"-->
+  <!--#include file="/blocks/bands/bands-categories-category.shtml"-->
+  <!--#include file="/blocks/bands/bands-categories-category.shtml"-->
+  <!--#include file="/blocks/bands/bands-categories-category.shtml"-->
+  <!--#include file="/blocks/bands/bands-categories-category.shtml"-->
+  <!--#include file="/blocks/bands/bands-categories-category.shtml"-->
+</div>

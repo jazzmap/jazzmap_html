@@ -1,0 +1,73 @@
+.main-bands-categories {
+  margin-top: 20px;
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
+}
+
+.main-bands-categories__category {
+  width: 310px;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-bands-categories__category-header {
+  background-color: color('red');
+  color: color('white');
+  text-transform: uppercase;
+  padding-left: 20px;
+  height: 40px;
+  @include font('17px bold');
+  display: flex;
+  align-items: center;
+}
+
+.main-bands-categories__category-header-icon {
+  margin-right: 6px;
+}
+
+.main-bands-categories__category-band {
+  display: flex;
+  padding: 5px 20px;
+  background-color: color('ededed');
+  border-bottom: 1px solid color('cccccc');
+}
+
+.main-bands-categories__category-band-icon {
+  margin-right: 10px;
+  border-radius: 25px;
+  overflow: hidden;
+  flex: 0 0 auto;
+  width: 50px;
+  height: 50px;
+  img {
+    height: 50px;
+    width: 50px;
+    float: left;
+  }
+}
+
+.main-bands-categories__category-band-name {
+  @include font('17px bold');
+  color: color('black');
+}
+
+.main-bands-categories__category-band-years {
+  @include font('14px bold');
+  color: color('grayTextOnBlack');
+}
+
+.main-bands-categories__category-summary {
+  @include font('14px bold');
+  color: color('black');
+  display: flex;
+  align-items: center;
+  background-color: color('ededed');
+  text-transform: uppercase;
+  padding: 20px 5px;
+}
+
+.main-bands-categories__category-summary-icon {
+  margin-left: 15px;
+  padding-right: 6px;
+}

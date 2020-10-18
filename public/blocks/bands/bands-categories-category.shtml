@@ -1,0 +1,106 @@
+<div class="main-bands-categories__category">
+
+  <div class="main-bands-categories__category-header">
+    <span class="svgfont white main-bands-categories__category-header-icon">
+    <!--#include file="/icons/ico28_vocal.svg"-->
+    </span>
+    <span>
+      Вокалисты
+    </span>
+  </div>
+
+  <div class="main-bands-categories__category-band">
+    <div class="main-bands-categories__category-band-icon">
+      <img src="/images/210x210-4.jpg">
+    </div>
+    <div class="main-bands-categories__category-band-description">
+      <div class="main-bands-categories__category-band-name">
+        Einstürzende Neubauten
+      </div>
+      <div class="main-bands-categories__category-band-years">
+        1980&mdash;, Германия
+      </div>
+    </div>
+  </div>
+
+  <div class="main-bands-categories__category-band">
+    <div class="main-bands-categories__category-band-icon">
+      <img src="/images/210x210-1.jpg">
+    </div>
+    <div class="main-bands-categories__category-band-description">
+      <div class="main-bands-categories__category-band-name">
+        Napalm Death
+      </div>
+      <div class="main-bands-categories__category-band-years">
+        1981&mdash;, Англия
+      </div>
+    </div>
+  </div>
+
+  <div class="main-bands-categories__category-band">
+    <div class="main-bands-categories__category-band-icon">
+      <img src="/images/210x210-2.jpg">
+    </div>
+    <div class="main-bands-categories__category-band-description">
+      <div class="main-bands-categories__category-band-name">
+        Cannibal Corpse
+      </div>
+      <div class="main-bands-categories__category-band-years">
+        1988&mdash;, США
+      </div>
+    </div>
+  </div>
+
+  <div class="main-bands-categories__category-band">
+    <div class="main-bands-categories__category-band-icon">
+      <img src="/images/210x210-4.jpg">
+    </div>
+    <div class="main-bands-categories__category-band-description">
+      <div class="main-bands-categories__category-band-name">
+        Red Hot Chili Peppers
+      </div>
+      <div class="main-bands-categories__category-band-years">
+        1983&mdash;, США
+      </div>
+    </div>
+  </div>
+
+  <div class="main-bands-categories__category-band">
+    <div class="main-bands-categories__category-band-icon">
+      <img src="/images/210x210-3.jpg">
+    </div>
+    <div class="main-bands-categories__category-band-description">
+      <div class="main-bands-categories__category-band-name">
+        Louis Armstrong
+      </div>
+      <div class="main-bands-categories__category-band-years">
+        1901&mdash;1971, США
+      </div>
+    </div>
+  </div>
+
+  <div class="main-bands-categories__category-summary">
+    <a href="#" class="svgfont red main-bands-categories__category-summary-icon">
+    <!--#include file="/icons/ico20_international.svg"-->
+    </a>
+    <a href="#">
+      В мире
+    </a>
+
+    <a href="#" class="svgfont red main-bands-categories__category-summary-icon">
+    <!--#include file="/icons/ico20_award.svg"-->
+    </a>
+    <a href="#">
+      В РФ
+    </a>
+
+    <a href="#" class="svgfont red main-bands-categories__category-summary-icon">
+    <!--#include file="/icons/ico20_rating.svg"-->
+    </a>
+    <a href="#">
+      Рейтинг
+    </a>
+
+  </div>
+
+</div>
