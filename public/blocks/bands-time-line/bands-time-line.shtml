@@ -1,0 +1,100 @@
+<div class="main-text">
+  <div class="main-text__header">
+    Джазмены
+    <span class="main-text__header_red">по времени</span>
+  </div>
+</div>
+
+<div class="bands-time-line">
+  <div class="bands-time-line__bands">
+
+    <div class="bands-time-line__bands-group-divider">
+      <div class="bands-time-line__bands-group-divider-arrow">
+        <span class="svgfont white bands-time-line__bands-group-divider-icon">
+          <!--#include file="/icons/arrow_more.svg"-->
+        </span>
+        <a href="#">
+          Золотая Эра Джаза
+        </a>
+      </div>
+    </div>
+
+    <div class="bands-time-line__bands-group">
+      <div class="bands-time-line__bands-group-icons">
+        <a href="#"><img class="bands-time-line__bands-group-icons-icon" src="/images/210x210-1.jpg"></a>
+        <a href="#"><img class="bands-time-line__bands-group-icons-icon" src="/images/210x210-2.jpg"></a>
+        <a href="#"><img class="bands-time-line__bands-group-icons-icon" src="/images/210x210-3.jpg"></a>
+      </div>
+    </div>
+
+    <div class="bands-time-line__bands-group-divider">
+      <div class="bands-time-line__bands-group-divider-date">1930</div>
+      <div class="bands-time-line__bands-group-divider-arrow">
+        <span class="bands-time-line__bands-group-divider-circle"></span>
+        <span class="svgfont white bands-time-line__bands-group-divider-icon">
+          <!--#include file="/icons/arrow_more.svg"-->
+        </span>
+        <a href="#">
+          Середина XX века
+        </a>
+      </div>
+    </div>
+
+    <div class="bands-time-line__bands-group">
+      <div class="bands-time-line__bands-group-icons">
+        <a href="#"><img class="bands-time-line__bands-group-icons-icon" src="/images/210x210-1.jpg"></a>
+        <a href="#"><img class="bands-time-line__bands-group-icons-icon" src="/images/210x210-2.jpg"></a>
+        <a href="#"><img class="bands-time-line__bands-group-icons-icon" src="/images/210x210-3.jpg"></a>
+      </div>
+    </div>
+
+    <div class="bands-time-line__bands-group-divider">
+      <div class="bands-time-line__bands-group-divider-date">1960</div>
+      <div class="bands-time-line__bands-group-divider-arrow">
+        <span class="bands-time-line__bands-group-divider-circle"></span>
+        <span class="svgfont white bands-time-line__bands-group-divider-icon">
+          <!--#include file="/icons/arrow_more.svg"-->
+        </span>
+        <a href="#">
+          Конец XX века
+        </a>
+      </div>
+    </div>
+
+    <div class="bands-time-line__bands-group">
+      <div class="bands-time-line__bands-group-icons">
+        <a href="#"><img class="bands-time-line__bands-group-icons-icon" src="/images/210x210-1.jpg"></a>
+        <a href="#"><img class="bands-time-line__bands-group-icons-icon" src="/images/210x210-2.jpg"></a>
+        <a href="#"><img class="bands-time-line__bands-group-icons-icon" src="/images/210x210-3.jpg"></a>
+      </div>
+    </div>
+
+    <div class="bands-time-line__bands-group-divider">
+      <div class="bands-time-line__bands-group-divider-date">2000</div>
+      <div class="bands-time-line__bands-group-divider-arrow">
+        <span class="bands-time-line__bands-group-divider-circle"></span>
+        <span class="svgfont white bands-time-line__bands-group-divider-icon">
+          <!--#include file="/icons/arrow_more.svg"-->
+        </span>
+        <a href="#">
+          Cовременный джаз
+        </a>
+      </div>
+    </div>
+
+    <div class="bands-time-line__bands-group">
+      <div class="bands-time-line__bands-group-icons">
+        <a href="#"><img class="bands-time-line__bands-group-icons-icon" src="/images/210x210-1.jpg"></a>
+        <a href="#"><img class="bands-time-line__bands-group-icons-icon" src="/images/210x210-2.jpg"></a>
+        <a href="#"><img class="bands-time-line__bands-group-icons-icon" src="/images/210x210-3.jpg"></a>
+      </div>
+    </div>
+
+
+    <span></span>
+
+  </div>
+
+  <div class="bands-time-line__line">
+  </div>
+</div>

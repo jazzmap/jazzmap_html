@@ -13,7 +13,7 @@
 
   <!--#include virtual="/blocks/bands/bands-categories.shtml" -->
 
-  <!-- Джазмены по времени -->
+  <!--#include virtual="/blocks/bands-time-line/bands-time-line.shtml" -->
 
   <!--#include virtual="/blocks/bands/bands-albums.shtml" -->
 
