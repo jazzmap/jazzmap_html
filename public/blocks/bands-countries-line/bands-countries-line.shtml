@@ -1,0 +1,16 @@
+<div class="main-text">
+  <div class="main-text__header">
+    Джазмены
+    <span class="main-text__header_red">по странам</span>
+  </div>
+</div>
+
+<div class="main-bands-countries-line main-content">
+  <!--#include virtual="/blocks/bands-countries-line/bands-countries-line-item.shtml" -->
+  <!--#include virtual="/blocks/bands-countries-line/bands-countries-line-item2.shtml" -->
+  <!--#include virtual="/blocks/bands-countries-line/bands-countries-line-item.shtml" -->
+  <!--#include virtual="/blocks/bands-countries-line/bands-countries-line-item2.shtml" -->
+  <!--#include virtual="/blocks/bands-countries-line/bands-countries-line-item.shtml" -->
+  <!--#include virtual="/blocks/bands-countries-line/bands-countries-line-item2.shtml" -->
+  <!--#include virtual="/blocks/bands-countries-line/bands-countries-line-item.shtml" -->
+</div>

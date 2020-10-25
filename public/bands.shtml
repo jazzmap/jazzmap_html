@@ -17,7 +17,7 @@
 
   <!--#include virtual="/blocks/bands/bands-albums.shtml" -->
 
-  <!-- Джазмены по странам -->
+  <!--#include virtual="/blocks/bands-countries-line/bands-countries-line.shtml" -->
 
   <!--#include virtual="/blocks/bands/bands-new-albums.shtml" -->
 

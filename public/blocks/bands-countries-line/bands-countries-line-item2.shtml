@@ -1,0 +1,13 @@
+<a href="#" class="main-bands-countries-line__item">
+  <span class="svgfont main-bands-countries-line__item-icon">
+  <!--#include file="/icons/flags/mozambique.svg"-->
+  </span>
+  <div class="main-bands-countries-line__desc">
+    <span class="svgfont white main-bands-countries-line__desc-icon">
+      <!--#include file="/icons/arrow_more.svg"-->
+    </span>
+    <span class="main-bands-countries-line__desc-name">
+      Мозамбикские<br>джазмены
+    </span>
+  </div>
+</a>
