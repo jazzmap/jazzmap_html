@@ -70,3 +70,20 @@
   margin: 50px auto 0 auto;
   @include font('20px');
 }
+
+.bands-band__buttons {
+  @include font('20px');
+  background-color: color('ededed');
+  max-width: 850px;
+  margin: 30px auto 0;
+  padding: 1px 30px 30px;
+}
+
+.bands-band__buttons-button {
+  @include font('17px bold');
+  margin-top: 30px;
+}
+
+.bands-band__buttons-button.tickets {
+  width: 180px;
+}
