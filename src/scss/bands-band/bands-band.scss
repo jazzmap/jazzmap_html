@@ -1,0 +1,72 @@
+.bands-band {
+  margin-top: 50px;
+}
+
+.bands-band__title {
+  @include font('66px bold');
+  line-height: 0.9em;
+  display: inline-block;
+}
+
+.bands-band__title-years {
+  @include font('36px bold');
+  display: inline-block;
+}
+
+.bands-band__tags {
+  @include font('22px bold');
+}
+
+.bands-band__links {
+  margin-top: 20px;
+  height: 38px;
+  border-top: 1px solid color('cccccc');
+  border-bottom: 1px solid color('cccccc');
+  text-transform: uppercase;
+  @include font('17px bold');
+  display: flex;
+  align-items: center;
+}
+
+.bands-band__links-link {
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.bands-band__links-link-icon {
+  margin-right: 6px;
+}
+
+.bands-band__links-link-spacer {
+  flex: 1;
+}
+
+.bands-band__links-link-buy {
+  background-color: color('green');
+}
+
+.bands-band__links-link-teach {
+  background-color: color('red');
+}
+
+.bands-band__links-link-buy, .bands-band__links-link-teach {
+  height: 30px;
+  width: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+  margin-left: 8px;
+}
+
+.bands-band__image {
+  display: block;
+  margin: 50px auto 0;
+}
+
+.bands-band__content {
+  max-width: 850px;
+  margin: 50px auto 0 auto;
+  @include font('20px');
+}

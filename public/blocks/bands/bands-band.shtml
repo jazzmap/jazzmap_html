@@ -1,0 +1,109 @@
+<div class="bands-band main-content">
+  <div class="bands-band__title">
+    Валерий КИСЕЛЕВ и Ансамбль классического КИСЕЛЕВ джаза
+    <div class="bands-band__title-years">
+      (род. 1999, Великобритания)
+    </div>
+  </div>
+
+  <div class="bands-band__tags">
+    <span class="svgfont black bands-band__tags-icon">
+      <!--#include file="/icons/ico20_instruments.svg"-->
+    </span>
+    <a href="#">Авангардный джаз</a>,
+    <a href="#">вокалист</a>,
+    <a href="#">пианист</a>,
+    <a href="#">мейнстрим</a>
+  </div>
+
+  <div class="bands-band__links">
+    <a href="#" class="bands-band__links-link">
+      <span class="svgfont red bands-band__links-link-icon">
+        <!--#include file="/icons/ico20_bio.svg"-->
+      </span>
+      <span>Биография</span>
+    </a>
+
+    <a href="#" class="bands-band__links-link">
+      <span class="svgfont red bands-band__links-link-icon">
+        <!--#include file="/icons/ico20_award.svg"-->
+      </span>
+      <span>Награды</span>
+    </a>
+
+    <a href="#" class="bands-band__links-link">
+      <span class="svgfont red bands-band__links-link-icon">
+        <!--#include file="/icons/ico20_afisha.svg"-->
+      </span>
+      <span>Афиша</span>
+    </a>
+
+    <a href="#" class="bands-band__links-link">
+      <span class="svgfont red bands-band__links-link-icon">
+        <!--#include file="/icons/ico20_news-m.svg"-->
+      </span>
+      <span>Новости</span>
+    </a>
+
+    <a href="#" class="bands-band__links-link">
+      <span class="svgfont red bands-band__links-link-icon">
+        <!--#include file="/icons/ico20_label.svg"-->
+      </span>
+      <span>Дискография</span>
+    </a>
+
+    <a href="#" class="bands-band__links-link">
+      <span class="svgfont red bands-band__links-link-icon">
+        <!--#include file="/icons/ico20_video.svg"-->
+      </span>
+      <span>Видео</span>
+    </a>
+
+    <a href="#" class="bands-band__links-link">
+      <span class="svgfont red bands-band__links-link-icon">
+        <!--#include file="/icons/ico20_photo-m.svg"-->
+      </span>
+      <span>Фото</span>
+    </a>
+
+    <a href="#" class="bands-band__links-link">
+      <span class="svgfont red bands-band__links-link-icon">
+        <!--#include file="/icons/ico20_feedback-m.svg"-->
+      </span>
+      <span>Отзывы</span>
+    </a>
+
+    <span class="bands-band__links-link-spacer"></span>
+
+    <a href="#" class="bands-band__links-link-buy">
+      <span class="svgfont white bands-band__links-link-buy-icon">
+        <!--#include file="/icons/ico20_buy.svg"-->
+      </span>
+    </a>
+
+    <a href="#" class="bands-band__links-link-teach">
+      <span class="svgfont white bands-band__links-link-teach-icon">
+        <!--#include file="/icons/ico20_teach.svg"-->
+      </span>
+    </a>
+  </div>
+
+
+
+  <img class="bands-band__image" src="/images/648x430-1.jpg">
+
+  <div class="bands-band__content">
+    <p>Джазовый квартет из старинного северного Архангельска и знаменитый фольклорист Сергей Старостин знакомы уже много лет. Творческое сотрудничество основано на взаимном интересе друг к другу и на том, с каким вниманием и любовью эти исполнители относятся к народной музыкальной традиции.</p>
+
+    <p>Протяжная песня и деревенские наигрыши, величания и частушки, узорчатое многоголосие и импровизационная стихия стали основой самобытного стиля АРТ КВАРТЕТА Тима Дорофеева с самого начала его творческого пути. В арсенале ансамбля выступления с фольклорными хорами, певцами и инструменталистами, поиск точек соприкосновения современного джаза и народной музыки.</p>
+
+    <p>Сергей Старостин – неутомимый энтузиаст, посвятивший все свое творчество спасению от забвения исконно русских музыкальных корней. Он и учёный, исследователь-фольклорист, и талантливейший исполнитель, виртуозно играющий на огромном количестве народных музыкальных инструментов, поющий в подлинно народной манере, и тележурналист, автор проекта «Мировая деревня».</p>
+
+    <p>Его дружба с джазом началась в <a href="#">Moscow Art Trio</a> (1989, С. Старостин – А. Шилклопер – М. Альперин) и с тех пор продолжается с разными партнерами в разных стилях. Сергей Старостин не раз был гостем фестивалей «Международные Дни джаза в Архангельске».</p>
+
+    <p>Телевизионный конкурс «Квартет 4х4» канала «Россия-Культура» (2018), который принес архангельским джазменам победу и известность, ознаменовался интересной творческой встречей - Сергей Старостин был одним из членов жюри, а в кульминационный момент финальной передачи вышел на сцену и присоединился к АРТ КВАРТЕТУ. Композиция из двух народных песен, «Перепелка» и «Потешка про козу», продемонстрировала, насколько ярким и самобытным может быть взаимопроникновение современного джаза и подлинного фольклора.</p>
+
+    <p>
+    Теперь Сергей Старостин и Арт Квартет готовят совместную программу, продолжая свое многолетнее сотрудничество на качественно новом уровне.</p>
+  </div>
+</div>
