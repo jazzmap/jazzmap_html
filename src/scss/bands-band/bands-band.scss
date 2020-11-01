@@ -87,3 +87,29 @@
 .bands-band__buttons-button.tickets {
   width: 180px;
 }
+
+.bands-band__awards, .bands-band__rating {
+  max-width: 850px;
+  margin: 30px auto 0;
+  @include font('20px');
+}
+
+.bands-band__rating-element {
+  display: flex;
+  align-items: center;
+  @include font('20px bold');
+}
+
+.bands-band__rating-element-icon {
+  background-color: color('red');
+  height: 40px;
+  width: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px 10px 0 0;
+}
+
+.bands-band__rating-element_red {
+  color: color('red');
+}

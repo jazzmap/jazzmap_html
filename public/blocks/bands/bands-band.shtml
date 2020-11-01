@@ -135,4 +135,39 @@
 
   </div>
 
+  <div class="bands-band__awards">
+    <div class="main-text__header">Награды</div>
+
+    <ul>
+      <li>Телевизионный конкурс</li>
+      <li>Ознаменовался интересной творческой</li>
+      <li>Вышел на сцену и присоединился</li>
+      <li>Принес архангельским джазменам</li>
+    </ul>
+  </div>
+
+  <div class="bands-band__rating">
+    <div class="main-text__header">Рейтинг</div>
+
+    <a href="#" class="bands-band__rating-element">
+      <span class="svgfont white bands-band__rating-element-icon">
+      <!--#include file="/icons/ico28_piano.svg"-->
+      </span>
+      <span>
+        В рейтинге пианистов <span class="bands-band__rating-element_red">(23)</span>
+      </span>
+    </a>
+
+    <a href="#" class="bands-band__rating-element">
+      <span class="svgfont white bands-band__rating-element-icon">
+      <!--#include file="/icons/ico28_vocal.svg"-->
+      </span>
+      <span>
+        В рейтинге вокалистов <span class="bands-band__rating-element_red">(11)</span>
+      </span>
+    </a>
+
+  </div>
+
+
 </div>
