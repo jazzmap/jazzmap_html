@@ -12,6 +12,8 @@
   <!--#include virtual="/blocks/afisha-day/afisha-day.shtml" -->
   <!--#include virtual="/blocks/main-albums.shtml" -->
   <!--#include virtual="/blocks/main-news.shtml" -->
+  <!--#include virtual="/blocks/main-photo.shtml"-->
+
   <!--#include virtual="/blocks/main-videos-row.shtml" -->
   <!--#include virtual="/blocks/main-bands.shtml" -->
 

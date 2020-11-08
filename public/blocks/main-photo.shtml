@@ -1,0 +1,19 @@
+<div class="main-photo main-content">
+  <div class="main-text">
+    <div class="main-text__header">
+      Фотогалереи
+    </div>
+  </div>
+
+  <div class="main-photo__row">
+    <a href="#" class="main-photo__row-1-1" style="background-image:url('/images/422x317-1.jpg');"></a>
+    <a href="#" class="main-photo__row-2-1" style="background-image:url('/images/422x317-2.jpg');"></a>
+
+    <a href="#" class="main-photo__row-main" style="background-image:url('/images/1366x700-3.jpg');">
+      <div class="main-photo__row-main-gradient"></div>
+    </a>
+
+    <a href="#" class="main-photo__row-1-3" style="background-image:url('/images/422x317-4.jpg');"></a>
+    <a href="#" class="main-photo__row-2-3" style="background-image:url('/images/422x317-1.jpg');"></a>
+  </div>
+</div>
