@@ -10,10 +10,61 @@
     <a href="#" class="main-photo__row-2-1" style="background-image:url('/images/422x317-2.jpg');"></a>
 
     <a href="#" class="main-photo__row-main" style="background-image:url('/images/1366x700-3.jpg');">
-      <div class="main-photo__row-main-gradient"></div>
+      <div class="main-photo__row-main-gradient">
+
+        <div class="main-photo__row-spacer"></div>
+        <div class="main-photo__row-title">
+          Рождественский вечер с Большим Джазовым Оркестром
+        </div>
+        <div class="main-photo__row-place">
+          <span class="svgfont white main-photo__row-icon">
+          <!--#include file="/icons/ico20_location.svg"-->
+          </span>
+          JAM Club Андрея Макаревича
+        </div>
+
+      </div>
     </a>
 
     <a href="#" class="main-photo__row-1-3" style="background-image:url('/images/422x317-4.jpg');"></a>
     <a href="#" class="main-photo__row-2-3" style="background-image:url('/images/422x317-1.jpg');"></a>
   </div>
+  <div class="main-photo__row-desc">Сотрудники Белого дома каждый день обслуживают 132 комнаты шестиэтажного особняка, 35 ванных комнат, 28 каминов, три лифта и восемь лестниц. Они видят первую семью Соединенных Штатов каждый день без прикрас. </div>
+
+
+<!---- Clone ----->
+
+  <div class="main-photo__row">
+    <a href="#" class="main-photo__row-1-1" style="background-image:url('/images/422x317-3.jpg');"></a>
+    <a href="#" class="main-photo__row-2-1" style="background-image:url('/images/422x317-4.jpg');"></a>
+
+    <a href="#" class="main-photo__row-main" style="background-image:url('/images/1366x700-1.jpg');">
+      <div class="main-photo__row-main-gradient">
+
+        <div class="main-photo__row-spacer"></div>
+        <div class="main-photo__row-title">
+          Рождественский вечер с Большим Джазовым Оркестром
+        </div>
+        <div class="main-photo__row-place">
+          <span class="svgfont white main-photo__row-icon">
+          <!--#include file="/icons/ico20_location.svg"-->
+          </span>
+          JAM Club Андрея Макаревича
+        </div>
+
+      </div>
+    </a>
+
+    <a href="#" class="main-photo__row-1-3" style="background-image:url('/images/422x317-1.jpg');"></a>
+    <a href="#" class="main-photo__row-2-3" style="background-image:url('/images/422x317-2.jpg');"></a>
+  </div>
+  <div class="main-photo__row-desc">Муж российской певицы Глюкозы (настоящее имя — Наталья Ионова), бизнесмен Александр Чистяков рассказал, что их старшую дочь выгнали из элитной гимназии за «неординарность». Об этом сообщает НТВ.</div>
+
+<!---- /Clone ----->
+
+
+  <div class="main-videos-row__more">
+    <!--#include virtual="/blocks/more/more-photo-and-video.shtml" -->
+  </div>
 </div>
+

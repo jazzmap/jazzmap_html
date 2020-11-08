@@ -41,4 +41,30 @@
   height: 100%;
   width: 100%;
   background: linear-gradient(rgba(0,0,0,0) 50%,#000);
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  box-sizing: border-box;
+
+  color: color('white');
+}
+
+.main-photo__row-spacer {
+  flex: 1;
+}
+
+.main-photo__row-title {
+  @include font('30px bold');
+}
+
+.main-photo__row-place {
+  margin-top: 20px;
+  @include font('17px bold');
+  text-transform: uppercase;
+}
+
+.main-photo__row-desc {
+  padding: 8px 0;
+  @include font('18px');
+  color: color('grayLine');
 }
