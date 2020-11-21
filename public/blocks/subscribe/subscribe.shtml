@@ -1,0 +1,19 @@
+<div class="subscribe main-content">
+
+  <div class="subscribe__icon">
+    <a href="#" class="svgfont black subscribe__icon-icon">
+    <!--#include file="/icons/ico_subscribe.svg"-->
+    </a>
+    <div class="subscribe__icon-text">
+      <div>
+        Подпишитесь на джазовые новости. Никакого спама, только важнейшие события из мира джаза и лучших музыкантов российской и мировой сцены.
+      </div>
+      <form class="subscribe__icon-form">
+        <input type="email" class="subscribe__icon-input">
+        <button class="subscribe__icon-button">ПОДПИСЫВАЮСЬ!</button>
+      </form>
+    </div>
+    <div class="subscribe__icon-arrow"></div>
+  </div>
+
+</div>
