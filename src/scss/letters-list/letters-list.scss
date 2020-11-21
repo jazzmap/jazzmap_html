@@ -1,0 +1,30 @@
+.letters-list {
+  margin-top: 50px;
+  padding: 5px 20px;
+  background-color: color('page-title');
+}
+
+.letters-list__row {
+  display: flex;
+  margin: 15px 0;
+}
+
+.letters-list__row-letter {
+  margin-left: 15px;
+  width: 28px;
+  height: 28px;
+  @include font('20px bold');
+  color: color('white');
+  background-color: color('black');
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.letters-list__row-letter_red {
+  background-color: color('red');
+}
+
+.letters-list__row-letter_gray {
+  background-color: color('cccccc');
+}

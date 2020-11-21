@@ -1,0 +1,66 @@
+<div class="letters-list">
+
+  <div class="letters-list__row">
+    <a href="#" class="letters-list__row-letter">A</a>
+    <a href="#" class="letters-list__row-letter">B</a>
+    <a href="#" class="letters-list__row-letter">C</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_red">D</a>
+    <a href="#" class="letters-list__row-letter">E</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_gray">F</a>
+    <a href="#" class="letters-list__row-letter">G</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_gray">H</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_gray">I</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_gray">J</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_gray">K</a>
+    <a href="#" class="letters-list__row-letter">L</a>
+    <a href="#" class="letters-list__row-letter">M</a>
+    <a href="#" class="letters-list__row-letter">N</a>
+    <a href="#" class="letters-list__row-letter">O</a>
+    <a href="#" class="letters-list__row-letter">P</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_gray">Q</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_gray">R</a>
+    <a href="#" class="letters-list__row-letter">S</a>
+    <a href="#" class="letters-list__row-letter">T</a>
+    <a href="#" class="letters-list__row-letter">U</a>
+    <a href="#" class="letters-list__row-letter">V</a>
+    <a href="#" class="letters-list__row-letter">W</a>
+    <a href="#" class="letters-list__row-letter">X</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_gray">Y</a>
+    <a href="#" class="letters-list__row-letter">Z</a>
+  </div>
+
+  <div class="letters-list__row">
+    <a href="#" class="letters-list__row-letter">А</a>
+    <a href="#" class="letters-list__row-letter">Б</a>
+    <a href="#" class="letters-list__row-letter">В</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_gray">Г</a>
+    <a href="#" class="letters-list__row-letter">Д</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_gray">Е</a>
+    <a href="#" class="letters-list__row-letter">Ж</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_gray">З</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_gray">И</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_gray">Й</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_gray">К</a>
+    <a href="#" class="letters-list__row-letter">Л</a>
+    <a href="#" class="letters-list__row-letter">М</a>
+    <a href="#" class="letters-list__row-letter">Н</a>
+    <a href="#" class="letters-list__row-letter">О</a>
+    <a href="#" class="letters-list__row-letter">П</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_gray">Р</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_gray">С</a>
+    <a href="#" class="letters-list__row-letter">Т</a>
+    <a href="#" class="letters-list__row-letter">У</a>
+    <a href="#" class="letters-list__row-letter">Ф</a>
+    <a href="#" class="letters-list__row-letter">Х</a>
+    <a href="#" class="letters-list__row-letter">Ц</a>
+    <a href="#" class="letters-list__row-letter">Ч</a>
+    <a href="#" class="letters-list__row-letter letters-list__row-letter_gray">Ш</a>
+    <a href="#" class="letters-list__row-letter">Щ</a>
+    <a href="#" class="letters-list__row-letter">Ы</a>
+    <a href="#" class="letters-list__row-letter">Э</a>
+    <a href="#" class="letters-list__row-letter">Ю</a>
+    <a href="#" class="letters-list__row-letter">Я</a>
+  </div>
+
+
+</div>

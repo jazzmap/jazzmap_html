@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--#include virtual="/blocks/system-header.shtml" -->
+  <title>Jazzmap: Афиша концерт 4 октября 2020</title>
+</head>
+<body>
+<div class="main">
+  <!--#include virtual="/blocks/header.shtml" -->
+
+  <!--#include virtual="/blocks/page-title/page-title.shtml" -->
+  <!--#include virtual="/blocks/page-title-intro/page-title-intro.shtml" -->
+
+  <!--#include virtual="/blocks/letters-list/letters-list.shtml" -->
+
+  <!--#include virtual="/blocks/afisha/afisha-related-bands.shtml" -->
+
+  <!--#include virtual="/blocks/footer.shtml" -->
+</div>
+</body>
+</html>
