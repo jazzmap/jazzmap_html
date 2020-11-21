@@ -1,0 +1,19 @@
+<div class="main-calendar">
+  <div class="main-calendar__header">
+    <a href="#" class="main-calendar__header-title">
+      Новости по месяцам
+    </a>
+    <div class="main-calendar__header-spacer"></div>
+    <a href="#" class="main-calendar__header-button">Январь 2019</a>
+    <a href="#" class="main-calendar__header-button">Декабрь 2018</a>
+    <a href="#" class="main-calendar__header-button">Ноябрь 2018</a>
+    <a href="#" class="main-calendar__header-button">Октябрь 2018</a>
+    <a href="#" class="main-calendar__header-button">Сентябрь 2018</a>
+    <a href="#" class="main-calendar__header-button">Август 2018</a>
+    <a href="#" class="main-calendar__header-button">Все
+      <span class="svgfont red">
+      <!--#include file="/icons/arrow_select.svg"-->
+      </span>
+    </a>
+  </div>
+</div>
