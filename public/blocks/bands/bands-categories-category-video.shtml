@@ -1,0 +1,65 @@
+<div class="main-bands-categories__category">
+
+  <div class="main-bands-categories__category-header">
+    <span class="svgfont white main-bands-categories__category-header-icon">
+    <!--#include file="/icons/ico28_vocal.svg"-->
+    </span>
+    <span>
+      Вокал
+    </span>
+  </div>
+
+  <a href="#" class="main-bands-categories__category-band">
+    <div class="main-bands-categories__category-band-icon main-bands-categories__category-band-icon_video">
+      <img src="/images/120x120-4.jpg">
+
+      <span class="svgfont red main-bands-categories__category-band-icon-play">
+      <!--#include file="/icons/ico20_video.svg"-->
+      </span>
+
+    </div>
+    <div class="main-bands-categories__category-band-description">
+      <div class="main-bands-categories__category-band-name">
+        EP Amberflection / Николай Мищенко
+      </div>
+    </div>
+  </a>
+
+  <a href="#" class="main-bands-categories__category-band">
+    <div class="main-bands-categories__category-band-icon main-bands-categories__category-band-icon_video">
+      <img src="/images/120x120-1.jpg">
+
+      <span class="svgfont red main-bands-categories__category-band-icon-play">
+      <!--#include file="/icons/ico20_video.svg"-->
+      </span>
+
+    </div>
+    <div class="main-bands-categories__category-band-description">
+      <div class="main-bands-categories__category-band-name">
+        Презентация клипа Марии Тарасевич и трио Евгения Борца "Embraceable You"
+      </div>
+    </div>
+  </a>
+
+
+  <a href="#" class="main-bands-categories__category-band">
+    <div class="main-bands-categories__category-band-icon main-bands-categories__category-band-icon_video">
+      <img src="/images/120x120-2.jpg">
+
+      <span class="svgfont red main-bands-categories__category-band-icon-play">
+      <!--#include file="/icons/ico20_video.svg"-->
+      </span>
+
+    </div>
+    <div class="main-bands-categories__category-band-description">
+      <div class="main-bands-categories__category-band-name">
+        Lenny Sendersky & Moon Strings "Blues Mizrahi"
+      </div>
+    </div>
+  </a>
+
+  <div class="main-bands-categories__category-all">
+    <!--#include file="/blocks/more/more-videos.shtml"-->
+  </div>
+
+</div>

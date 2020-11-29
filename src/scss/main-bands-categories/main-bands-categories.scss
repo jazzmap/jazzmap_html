@@ -30,10 +30,20 @@
   display: flex;
   padding: 5px 20px;
   background-color: color('ededed');
-  border-bottom: 1px solid color('cccccc');
+}
+
+.main-bands-categories__category-band ~ .main-bands-categories__category-band {
+  border-top: 1px solid color('cccccc');
+}
+
+.main-bands-categories__category-all {
+  padding: 20px;
+  background-color: color('ededed');
+
 }
 
 .main-bands-categories__category-band-icon {
+  position: relative;
   margin-right: 10px;
   border-radius: 25px;
   overflow: hidden;
@@ -44,6 +54,28 @@
     height: 50px;
     width: 50px;
     float: left;
+  }
+}
+
+.main-bands-categories__category-band-icon_video {
+  border-radius: 0;
+  width: 120px;
+  height: 120px;
+  img {
+    height: 120px;
+    width: 120px;
+  }
+}
+
+.main-bands-categories__category-band-icon-play {
+  position: absolute;
+  left: 120px / 2 - 32px / 2;
+  top: 120px / 2 - 32px / 2;
+  background-color: white;
+  border-radius: 50px;
+  svg {
+    height: 32px;
+    width: 32px;
   }
 }
 
@@ -63,6 +95,7 @@
   display: flex;
   align-items: center;
   background-color: color('ededed');
+  border-top: 1px solid color('cccccc');
   text-transform: uppercase;
   padding: 20px 5px;
 }

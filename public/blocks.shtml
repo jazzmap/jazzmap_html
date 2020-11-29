@@ -13,6 +13,7 @@
   <!--#include virtual="/blocks/instrument-types/instruments.shtml" -->
 
   <!--#include virtual="/blocks/styles/styles-time.shtml" -->
+  <!--#include virtual="/blocks/bands/bands-categories-video.shtml" -->
 
   <!--#include virtual="/blocks/footer.shtml" -->
 </div>

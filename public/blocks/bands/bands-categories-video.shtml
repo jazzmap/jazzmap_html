@@ -1,0 +1,17 @@
+<div class="main-text">
+  <div class="main-text__header">
+    Видеозаписи и альбомы
+    <span class="main-text__header_red">по инструментам</span>
+  </div>
+</div>
+
+<div class="main-bands-categories main-content">
+  <!--#include file="/blocks/bands/bands-categories-category-video.shtml"-->
+  <!--#include file="/blocks/bands/bands-categories-category-video.shtml"-->
+  <!--#include file="/blocks/bands/bands-categories-category-video.shtml"-->
+  <!--#include file="/blocks/bands/bands-categories-category-video.shtml"-->
+  <!--#include file="/blocks/bands/bands-categories-category-video.shtml"-->
+  <!--#include file="/blocks/bands/bands-categories-category-video.shtml"-->
+  <!--#include file="/blocks/bands/bands-categories-category-video.shtml"-->
+  <!--#include file="/blocks/bands/bands-categories-category-video.shtml"-->
+</div>
