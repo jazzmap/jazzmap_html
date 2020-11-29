@@ -1,0 +1,40 @@
+<div class="main-news__row-item main-news__row-small main-news__row-item_high">
+    <div class="main-news__row-small-image">
+      <a href="#">
+        <img src="/images/422x235-1.jpg">
+      </a>
+    </div>
+    <div class="main-news__row-small-title">
+      <a href="#">
+
+      <span class="svgfont red">
+      <!--#include file="/icons/ico28_sax.svg"-->
+      </span>
+
+        Саксофон
+      </a>
+    </div>
+    <div class="main-news__row-small-intro">
+      <a href="#">
+        В Московском объединенном музее-заповеднике пройдет фестиваль «JAZZ-январь в Коломенском» и подарит публике
+      </a>
+
+<br>
+      <b>
+        <br>
+        ВИДЫ САКСОФОНОВ:<br>
+        сопранино<br>
+        сопрано<br>
+        альт<br>
+        тенор<br>
+        баритон<br>
+        бас<br>
+      </b>
+    </div>
+    <div class="main-news__row-spacer"></div>
+
+    <div class="main-news__row-links-events">
+      <!--#include virtual="/blocks/more/more-sax.shtml" -->
+    </div>
+
+</div>
