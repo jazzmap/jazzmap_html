@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--#include virtual="/blocks/system-header.shtml" -->
+  <title>Jazzmap: Блоки</title>
+</head>
+<body>
+<div class="main">
+  <!--#include virtual="/blocks/header.shtml" -->
+
+  <!--#include virtual="/blocks/dance/dance-styles.shtml" -->
+
+  <!--#include virtual="/blocks/footer.shtml" -->
+</div>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<div class="main-news main-content">
+  <div class="main-text">
+    <div class="main-text__header">
+      Стили
+      <span class="main-text__header_red">джазовых танцев</span>
+    </div>
+  </div>
+
+  <div class="main-news__row">
+    <!--#include virtual="/blocks/dance/main-news__row-small.shtml"-->
+    <!--#include virtual="/blocks/dance/main-news__row-small.shtml"-->
+    <!--#include virtual="/blocks/dance/main-news__row-small.shtml"-->
+  </div>
+
+</div>

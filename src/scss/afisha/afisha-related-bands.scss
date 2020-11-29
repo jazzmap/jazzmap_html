@@ -61,7 +61,7 @@
 }
 
 .afisha-related-bands__info-data-links-events-event ~ .afisha-related-bands__info-data-links-events-event {
-  margin-left: 16px;
+  margin-left: 4px;
 }
 
 .afisha-related-bands__info-data-links-events-event-header {
@@ -73,9 +73,9 @@
 
 .afisha-related-bands__info-data-links-events-event-image {
   position: relative;
-  img {
-    display: flex;
-  }
+  height: 90px;
+  width: 180px;
+  background-size: contain;
 }
 
 .afisha-related-bands__info-data-links-events-event-image-overlay {
@@ -92,7 +92,7 @@
   position: absolute;
   left: 16px;
   right: 16px;
-  top: 16px;
+  top: 8px;
   text-transform: uppercase;
   @include font('18px');
 }

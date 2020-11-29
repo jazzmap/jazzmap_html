@@ -1,0 +1,42 @@
+<div class="main-news__row-item main-news__row-small">
+    <div class="main-news__row-small-image">
+      <a href="#">
+        <img src="/images/422x235-1.jpg">
+      </a>
+    </div>
+    <div class="main-news__row-small-title">
+      <a href="#">
+        Линди-хоп
+      </a>
+    </div>
+    <div class="main-news__row-small-intro">
+      <a href="#">
+        В Московском объединенном музее-заповеднике пройдет фестиваль «JAZZ-январь в Коломенском» и подарит публике четыре волшебных новогодних вечера в компании любимых мелодий и популярных музыкантов.
+      </a>
+    </div>
+    <div class="main-news__row-spacer"></div>
+
+    <div class="main-news__row-links-events">
+
+      <div class="afisha-related-bands__info-data-links-events">
+        <a href="#" class="afisha-related-bands__info-data-links-events-event">
+          <div class="afisha-related-bands__info-data-links-events-event-header">22 сентября, 22:00</div>
+          <div class="afisha-related-bands__info-data-links-events-event-image" style="background-image: url('/images/220x146-1.jpg');">
+            <div class="afisha-related-bands__info-data-links-events-event-image-overlay"></div>
+            <div class="afisha-related-bands__info-data-links-events-event-image-place">Дворец царя Алексея Михайловича</div>
+          </div>
+        </a>
+
+        <a href="#" class="afisha-related-bands__info-data-links-events-event">
+          <div class="afisha-related-bands__info-data-links-events-event-header">11 февраля, 22:00</div>
+          <div class="afisha-related-bands__info-data-links-events-event-image" style="background-image: url('/images/220x146-3.jpg');">
+            <div class="afisha-related-bands__info-data-links-events-event-image-overlay"></div>
+            <div class="afisha-related-bands__info-data-links-events-event-image-place">Государственный Кремлевский дворец</div>
+          </div>
+        </a>
+
+      </div>
+
+    </div>
+
+</div>
