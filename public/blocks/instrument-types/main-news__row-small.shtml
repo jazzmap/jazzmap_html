@@ -1,0 +1,17 @@
+<div class="main-news__row-item main-news__row-small main-news__row-item_low">
+    <div class="main-news__row-small-image">
+      <a href="#">
+        <img src="/images/422x235-1.jpg">
+      </a>
+    </div>
+    <div class="main-news__row-small-title">
+      <a href="#">
+        Саксофон-сопраниссимо
+      </a>
+    </div>
+    <div class="main-news__row-small-intro">
+      <a href="#">
+        В Московском объединенном музее-заповеднике пройдет фестиваль «JAZZ-январь в Коломенском» и подарит публике
+      </a>
+    </div>
+</div>

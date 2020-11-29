@@ -10,6 +10,7 @@
 
   <!--#include virtual="/blocks/dance/dance-styles.shtml" -->
   <!--#include virtual="/blocks/instrument/instruments.shtml" -->
+  <!--#include virtual="/blocks/instrument-types/instruments.shtml" -->
 
   <!--#include virtual="/blocks/footer.shtml" -->
 </div>

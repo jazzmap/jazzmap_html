@@ -1,0 +1,21 @@
+<div class="main-news main-content">
+  <div class="main-text">
+    <div class="main-text__header">
+      Виды
+      <span class="main-text__header_red">саксофонов</span>
+    </div>
+  </div>
+
+  <div class="main-news__row">
+    <!--#include virtual="/blocks/instrument-types/main-news__row-small.shtml"-->
+    <!--#include virtual="/blocks/instrument-types/main-news__row-small.shtml"-->
+    <!--#include virtual="/blocks/instrument-types/main-news__row-small.shtml"-->
+  </div>
+
+  <div class="main-news__row">
+    <!--#include virtual="/blocks/instrument-types/main-news__row-small.shtml"-->
+    <!--#include virtual="/blocks/instrument-types/main-news__row-small.shtml"-->
+    <!--#include virtual="/blocks/instrument-types/main-news__row-small.shtml"-->
+  </div>
+
+</div>
