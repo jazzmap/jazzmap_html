@@ -1,0 +1,53 @@
+<div class="manufacturer main-content">
+
+  <div class="manufacturer__title">
+    <div class="manufacturer__title-icon">
+      <img src="/images/210x210-1.jpg">
+    </div>
+
+      <div class="manufacturer__title-header">
+          <div class="manufacturer__title-header-name">
+            Yamaha
+          </div>
+          <div class="manufacturer__title-header-contry">
+            Япония
+          </div>
+          <div class="manufacturer__content">
+
+            <div class="bands-band__links">
+              <a href="#" class="bands-band__links-link">
+                <span class="svgfont red bands-band__links-link-icon">
+                  <!--#include file="/icons/ico20_bio.svg"-->
+                </span>
+                <span>Биография</span>
+              </a>
+
+              <a href="#" class="bands-band__links-link">
+                <span class="svgfont red bands-band__links-link-icon">
+                  <!--#include file="/icons/ico20_award.svg"-->
+                </span>
+                <span>Награды</span>
+              </a>
+
+              <a href="#" class="bands-band__links-link">
+                <span class="svgfont red bands-band__links-link-icon">
+                  <!--#include file="/icons/ico20_afisha.svg"-->
+                </span>
+                <span>Афиша</span>
+              </a>
+            </div>
+
+            <div class="manufacturer__content-text">
+              <p>Yamaha основана в 1887 году предпринимателем Торакусу Ямахой (1851—1916) — сыном самурая из Нагасаки. В 1887 году к Ямахе, занимавшемуся тогда ремонтом медицинских инструментов в Хамамацу (префектура Сидзуока), обратилась местная школа с просьбой починить язычковый орган (фисгармонию) американского производства. После завершения ремонта Ямаха увлёкся конструированием музыкальных инструментов и в 1889 году основал Yamaha Organ Manufacturing Company — первую японскую компанию по производству западных музыкальных инструментов, а спустя восемь лет, в 1897 году, создал компанию Nippon Gakki (с яп. — «японские музыкальные инструменты»), символом которой стали камертоны, а товарным знаком — фигура китайского феникса с камертоном в клюве[3][4].
+              </p>
+
+              <p>В 1897 году компания Nippon Gakki получила свой первый заказ на экспорт 78 органов в Юго-Восточную Азию, а в 1900 году выпустила первую партию фортепиано. В 1902 году началось производство первых роялей Yamaha, а в 1904 году орган и пианино производства компании Yamaha получили гран-при на Всемирной выставке в американском городе Сент-Луис[3].</p>
+
+              <p>В 1903 году, используя свой опыт в деревообработке, компания приступила к изготовлению мебели.</p>
+            </div>
+
+
+          </div>
+      </div>
+  </div>
+</div>

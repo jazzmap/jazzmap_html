@@ -1,0 +1,28 @@
+.manufacturer {
+  margin-top: 50px;
+}
+
+.manufacturer__title {
+  display: flex;
+}
+
+.manufacturer__title-header {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  margin-left: 24px;
+}
+
+.manufacturer__title-header-name {
+  @include font('66px bold');
+}
+
+.manufacturer__title-header-contry {
+  @include font('24px bold');
+}
+
+.manufacturer__content-text {
+  @include font('20px');
+  margin-top: 50px;
+  margin-right: (210px);
+}
