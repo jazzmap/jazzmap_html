@@ -1,0 +1,147 @@
+
+<div class="main-text">
+  <div class="main-text__header">
+    Джазовые альбомы
+    <span class="main-text__header_red">по времени</span>
+  </div>
+</div>
+
+<div class="bands-time-line">
+  <div class="bands-time-line__bands">
+
+    <div class="bands-time-line__bands-group-divider">
+      <div class="bands-time-line__bands-group-divider-arrow">
+        <span class="svgfont white bands-time-line__bands-group-divider-icon">
+          <!--#include file="/icons/arrow_more.svg"-->
+        </span>
+        <a href="#">
+          Золотая Эра Джаза
+        </a>
+      </div>
+    </div>
+
+    <div class="bands-time-line__bands-group">
+      <div class="bands-time-line__bands-group-icons">
+        <a href="#">
+          <div class="main-albums__row-item-image">
+            <span class="svgfont black main-albums__row-icon-header main-albums__row-icon-header_small">
+            <!--#include file="/icons/disc_b.svg"-->
+            </span>
+            <img class="main-albums__row-icon-image_small" src="/images/210x210-2.jpg">
+          </div>
+        </a>
+        <a href="#">
+          <div class="main-albums__row-item-image">
+            <span class="svgfont black main-albums__row-icon-header main-albums__row-icon-header_small">
+            <!--#include file="/icons/disc_b.svg"-->
+            </span>
+            <img class="main-albums__row-icon-image_small" src="/images/210x210-3.jpg">
+          </div>
+        </a>
+        <a href="#">
+          <div class="main-albums__row-item-image">
+            <span class="svgfont black main-albums__row-icon-header main-albums__row-icon-header_small">
+            <!--#include file="/icons/disc_b.svg"-->
+            </span>
+            <img class="main-albums__row-icon-image_small" src="/images/210x210-4.jpg">
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <div class="bands-time-line__bands-group-divider">
+      <div class="bands-time-line__bands-group-divider-date">1960</div>
+      <div class="bands-time-line__bands-group-divider-arrow">
+        <span class="bands-time-line__bands-group-divider-circle"></span>
+        <span class="svgfont white bands-time-line__bands-group-divider-icon">
+          <!--#include file="/icons/arrow_more.svg"-->
+        </span>
+        <a href="#">
+          Конец XX века
+        </a>
+      </div>
+    </div>
+
+    <div class="bands-time-line__bands-group">
+      <div class="bands-time-line__bands-group-icons">
+        <a href="#">
+          <div class="main-albums__row-item-image">
+            <span class="svgfont black main-albums__row-icon-header main-albums__row-icon-header_small">
+            <!--#include file="/icons/disc_b.svg"-->
+            </span>
+            <img class="main-albums__row-icon-image_small" src="/images/210x210-1.jpg">
+          </div>
+        </a>
+        <a href="#">
+          <div class="main-albums__row-item-image">
+            <span class="svgfont black main-albums__row-icon-header main-albums__row-icon-header_small">
+            <!--#include file="/icons/disc_b.svg"-->
+            </span>
+            <img class="main-albums__row-icon-image_small" src="/images/210x210-3.jpg">
+          </div>
+        </a>
+        <a href="#">
+          <div class="main-albums__row-item-image">
+            <span class="svgfont black main-albums__row-icon-header main-albums__row-icon-header_small">
+            <!--#include file="/icons/disc_b.svg"-->
+            </span>
+            <img class="main-albums__row-icon-image_small" src="/images/210x210-2.jpg">
+          </div>
+        </a>
+      </div>
+    </div>
+
+
+
+
+    <div class="bands-time-line__bands-group-divider">
+      <div class="bands-time-line__bands-group-divider-date">2000</div>
+      <div class="bands-time-line__bands-group-divider-arrow">
+        <span class="bands-time-line__bands-group-divider-circle"></span>
+        <span class="svgfont white bands-time-line__bands-group-divider-icon">
+          <!--#include file="/icons/arrow_more.svg"-->
+        </span>
+        <a href="#">
+          Cовременный джаз
+        </a>
+      </div>
+    </div>
+
+    <div class="bands-time-line__bands-group">
+      <div class="bands-time-line__bands-group-icons">
+        <a href="#">
+          <div class="main-albums__row-item-image">
+            <span class="svgfont black main-albums__row-icon-header main-albums__row-icon-header_small">
+            <!--#include file="/icons/disc_b.svg"-->
+            </span>
+            <img class="main-albums__row-icon-image_small" src="/images/210x210-1.jpg">
+          </div>
+        </a>
+        <a href="#">
+          <div class="main-albums__row-item-image">
+            <span class="svgfont black main-albums__row-icon-header main-albums__row-icon-header_small">
+            <!--#include file="/icons/disc_b.svg"-->
+            </span>
+            <img class="main-albums__row-icon-image_small" src="/images/210x210-3.jpg">
+          </div>
+        </a>
+        <a href="#">
+          <div class="main-albums__row-item-image">
+            <span class="svgfont black main-albums__row-icon-header main-albums__row-icon-header_small">
+            <!--#include file="/icons/disc_b.svg"-->
+            </span>
+            <img class="main-albums__row-icon-image_small" src="/images/210x210-2.jpg">
+          </div>
+        </a>
+      </div>
+    </div>
+
+
+
+    <span></span>
+  </div>
+
+
+  <div class="bands-time-line__line">
+  </div>
+</div>

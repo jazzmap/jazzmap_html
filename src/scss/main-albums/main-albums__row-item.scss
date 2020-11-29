@@ -18,8 +18,20 @@
   }
 }
 
+.main-albums__row-icon-header_small {
+  svg {
+    width: 100px;
+    height: 25px;
+  }
+}
+
 .main-albums__row-item-image {
   font-size: 0;
+}
+
+.main-albums__row-icon-image_small {
+  height: 100px;
+  width: 100px;
 }
 
 .main-albums__row-item-title {
